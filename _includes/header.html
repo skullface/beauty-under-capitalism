@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width">
+
+  <title>{% if page.title %}{{ page.title }} | {% endif %} Beauty Under Capitalism</title>
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+  <link rel="apple-touch-icon" href="{PortraitURL-128}">
+  <link rel="shortcut icon" href="{Favicon}">
+  <link rel="alternate" type="application/rss+xml" href="{RSS}">
+
+  <meta name="description" content="{{site.description}}"/>
+  <meta name="author" content="{{site.author}}"/>
+  <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="{{site.baseurl}}/feed.xml" />
+
+  <link rel="stylesheet" href="/assets/style.css">
+  <link rel="stylesheet" href="https://use.typekit.net/zbx2ddc.css">
+</head>
+
+{% if page.layout == 'post' %}
+<body class="body_post">
+{% else %}
+<body>
+{% endif %}
+  {% include nav.html %}

@@ -1,0 +1,21 @@
+.site-header {
+  font-family: $font-family__sans;
+  margin-bottom: $spacer-3;
+}
+
+.site-title {
+  font-weight: 700;
+  color: inherit;
+  font-size: 75%;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.site-nav {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+  a {
+    margin-right: $spacer-2;
+  }
+}

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<h1 class="page-title"><span>{{ page.title }}</span></h1>
+
+{% unless page.content == '' %}
+  <div class="page-description">{{ page.content | markdownify }}</div>
+{% endunless %}
+
+{% unless site.other-black | size > 0 %}
+  <p>Oops! There aren’t any posts in this category.</p>
+{% endunless %}
+
+<div class="page-list">
+  {% for post in site.other-black %}
+    {% include list-entry.html %}
+  {% endfor %}
+</div>

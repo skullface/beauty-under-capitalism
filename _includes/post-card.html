@@ -1,0 +1,16 @@
+{% capture imagepath %}{{ site.baseurl }}{{ site.mediapath.post }}{{ post.date | date: '%Y' }}/jessicapaoli-dot-com_{{ post.image }}{% endcapture %}
+
+<article>
+  <a class="post post_preview" href="{{ post.url | prepend: site.baseurl }}">
+    <div class="post_visual-link" style="background-image: url('{{ imagepath }}')">
+      <h2 class="post_title"><span>{{ post.title }}</span></h2>
+    </div>
+    <p class="post_blurb">
+      {% if post.description %}
+        {{ post.description }}
+      {% else %}
+        {{ post.content | strip_html | truncatewords: 30 }}
+      {% endif %}
+    </p>
+  </a>
+</article>

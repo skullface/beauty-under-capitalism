@@ -1,0 +1,42 @@
+# Site settings
+title: Beauty Under Capitalism
+email: hi@beautyundercapitalism.com
+baseurl: ""
+url: ""
+encoding: utf-8
+lang: en
+
+# SEO
+twitter_username: "@skullface"
+twitter_creator: "@skullface"
+description: >-
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+share_image: "social-card.png"
+favicon: "favicon.ico"
+
+# Build settings
+permalink: pretty
+sass:
+  sass_dir: _scss
+  style: compressed
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# collections
+collections:
+  bomb:
+    permalink: black-women-owned-beauty-brands
+  other-black:
+    permalink: black-owned-beauty-brands
+
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
