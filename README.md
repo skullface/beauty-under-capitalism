@@ -1,7 +1,7 @@
 # Beauty Under Capitalism
 
 ### Purpose
-Resources to enjoy vanity, artistry, and hygiene while **supporting independent women of color business owners**.
+Enjoy vanity, artistry, and self-care while **_`supporting independent women of color business owners`_**.
 
 ### Tech
-Jekyll! GitHub pages!
+Jekyll! GitHub Pages!
