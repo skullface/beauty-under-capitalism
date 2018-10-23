@@ -33,9 +33,9 @@
 
     Try their
     {% if post.product.predicate %}
-      {{ post.product.description }} <a href="{{ post.product.url }}" target="_blank">{{ post.product.name }}</a>{% if post.product.second %}, or <a href="{{ post.product.second.url }}" target="_blank">{{ post.product.second.name }}</a>.{% else %}.{% endif %}
+      {{ post.product.description }} <a href="{{ post.product.url }}" target="_blank">{{ post.product.name }}</a>{% if post.product.second %} or <a href="{{ post.product.second.url }}" target="_blank">{{ post.product.second.name }}</a>.{% else %}.{% endif %}
     {% else %}
-      <a href="{{ post.product.url }}" target="_blank">{{ post.product.name }}</a> {{ post.product.description }}{% if post.product.second %}, or <a href="{{ post.product.second.url }}" target="_blank">{{ post.product.second.name }}</a>.{% else %}.{% endif %}
+      <a href="{{ post.product.url }}" target="_blank">{{ post.product.name }}</a> {{ post.product.description }}{% if post.product.second %} or <a href="{{ post.product.second.url }}" target="_blank">{{ post.product.second.name }}</a>.{% else %}.{% endif %}
     {% endif %}
  </p>
 
@@ -52,7 +52,7 @@
       Owned by <a href="{{ post.owner.company.url }}" target="_blank">{{ post.owner.company.name }}</a>,
       which is owned
       {% if post.owner.company.owner-founder %}
-        and founded by {{ post.owner.company.owner-founder.title }} <a href="{{ post.owner.company.owner-founder.url }}">{{ post.owner.company.owner-founder.name }}</a>.
+        and founded by {{ post.owner.company.owner-founder.title }} {{ post.owner.flag }} <a href="{{ post.owner.company.owner-founder.url }}">{{ post.owner.company.owner-founder.name }}</a>.
       {% else %}
         by {{ post.owner.company.owner.title }} <a href="{{ post.owner.company.owner.url }}">{{ post.owner.company.owner.name }}</a>{% if post.owner.company.founder.name %}
           founded by
@@ -60,7 +60,7 @@
           {% if post.owner.company.founder.url %}<a href="{{ post.owner.company.founder.url }}">{% endif %}
           {{ post.owner.company.founder.name }}{% if post.owner.company.founder.url %}</a>.{% endif %}
         {% else %}
-          and {{ post.owner.company.founder.name }}.
+          and {{ post.owner.flag }} {{ post.owner.company.founder.name }}.
         {% endif %}
       {% endif %}
     {% endif %}
@@ -74,7 +74,7 @@
       {{ post.owner.flag }}
       {% if post.owner.url %}<a href="{{ post.owner.url }}">{% endif %}{{ post.owner.name }}{% if post.owner.url %}</a>{% endif %}{% if post.company.location %} in {{ post.company.location }}.{% else %}.{% endif %}
   {% when 'separate' %}
-  Owned by {% if post.owner.owner.url %}<a href="{{ post.owner.owner.url }}">{% endif %}{{ post.owner.owner.name }}{% if post.owner.owner.url %}</a>{% endif %}, founded by {{ post.owner.founder.title }} {% if post.owner.founder.url %}<a href="{{ post.owner.founder.url }}">{% endif %}{{ post.owner.founder.name }}{% if post.owner.founder.url %}</a>{% endif %}.
+  Owned by {% if post.owner.owner.url %}<a href="{{ post.owner.owner.url }}">{% endif %}{{ post.owner.owner.name }}{% if post.owner.owner.url %}</a>{% endif %}, founded by {{ post.owner.founder.title }} {{ post.owner.founder.flag }} {% if post.owner.founder.url %}<a href="{{ post.owner.founder.url }}">{% endif %}{{ post.owner.founder.name }}{% if post.owner.founder.url %}</a>{% endif %}.
   {% endcase %}
   </p>
 </article>

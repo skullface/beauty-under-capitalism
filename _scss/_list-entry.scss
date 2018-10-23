@@ -5,7 +5,8 @@
   margin-right: auto;
   &:before {
     display: block;
-    content: "—"
+    content: "—";
+    color: $color_gray;
   }
 }
 

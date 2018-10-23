@@ -13,8 +13,6 @@
 
 .site-nav {
   display: flex;
-  flex-direction: row-reverse;
-  justify-content: flex-end;
   a {
     margin-right: $spacer-2;
   }

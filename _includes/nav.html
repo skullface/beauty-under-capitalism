@@ -1,16 +1,21 @@
 <header id="top" class="site-header" role="banner">
-  {%- assign default_paths = site.pages | map: "path" -%}
-  {%- assign page_paths = site.header_pages | default: default_paths -%}
   <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
-  {%- if page_paths -%}
   <nav class="site-nav">
-    {%- for path in page_paths -%}
-      {%- assign my_page = site.pages | where: "path", path | first -%}
-      {%- if my_page.short-title -%}
-      <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.short-title | escape }}</a>
-      {%- endif -%}
-    {%- endfor -%}
+    <a class="page-link" href="/black-women-owned-beauty-brands">
+      Black owned
+    </a>
+    <a class="page-link" href="/latinx-owned-beauty-brands">
+      Latinx owned
+    </a>
+    <a class="page-link" href="/mena-women-owned-beauty-brands">
+      MENA owned
+    </a>
+    <a class="page-link" href="/asian-women-owned-beauty-brands">
+      Asian owned
+    </a>
+    <a class="page-link" href="/problematic-beauty-brands">
+      Cancelled
+    </a>
   </nav>
-  {%- endif -%}
 </header>

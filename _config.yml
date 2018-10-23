@@ -27,10 +27,16 @@ plugins:
 
 # collections
 collections:
-  bomb:
+  list-bomb:
     permalink: black-women-owned-beauty-brands
-  other-black:
-    permalink: black-owned-beauty-brands
+  list-latinx:
+    permalink: latina-owned-beauty-brands
+  list-mena:
+    permalink: mena-owned-beauty-brands
+  list-asian:
+    permalink: asian-owned-beauty-brands
+  list-problematic:
+    permalink: problematic
 
 exclude:
   - README.md
