@@ -19,6 +19,18 @@ h1 {
   }
 }
 
+h2 {
+  font-family: "lust", serif;
+  font-size: 3rem;
+  line-height: 1.1;
+  @media (max-width: 850px) {
+    font-size: 2.25rem;
+  }
+  @media (max-width: 400px) {
+    font-size: 2rem;
+  }
+}
+
 h3 {
   font-family: $font-family__sans;
 }
