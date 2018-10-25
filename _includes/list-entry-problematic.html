@@ -1,0 +1,60 @@
+<article class="company">
+  <h3 class="company-name">
+    <a href="{{ post.company.url }}">
+      {{ post.company.name }}
+    </a>
+  </h3>
+
+  <div class="hashtags">
+  {% for hashtag in post.hashtags %}
+    <span class="hashtag">#{{ hashtag | slugify }}</span>
+  {% endfor %}
+  </div>
+
+<p class="company-owner">
+ {% case post.owner.type %}
+  {% when 'company' %}
+    {% if post.owner.splitOwnership %}
+      {{ post.owner.company.percentage }}-owned by {{ post.owner.company.name }}
+      {% if post.owner.company.parent %}
+        (owned by {{ post.owner.company.parent.name }}{% if post.owner.company.parent.description %}, {{ post.owner.company.parent.description }}{% endif %})
+      {% endif %};
+      {{ post.owner.owner-founder.percentage }}-owned by {{ post.owner.owner-founder.flag }} <a href="{{ post.owner.owner-founder.url }}">{{ post.owner.owner-founder.name }}</a>.
+    {% else %}
+      Owned by <a href="{{ post.owner.company.url }}" target="_blank">{{ post.owner.company.name }}</a>,
+      which is owned
+      {% if post.owner.company.owner-founder %}
+        and founded by {{ post.owner.company.owner-founder.title }} {{ post.owner.flag }} <a href="{{ post.owner.company.owner-founder.url }}">{{ post.owner.company.owner-founder.name }}</a>.
+      {% else %}
+        by {{ post.owner.company.owner.title }} <a href="{{ post.owner.company.owner.url }}">{{ post.owner.company.owner.name }}</a>{% if post.owner.company.founder.name %}
+          founded by
+          {{ post.owner.company.founder.title }}
+          {% if post.owner.company.founder.url %}<a href="{{ post.owner.company.founder.url }}">{% endif %}
+          {{ post.owner.company.founder.name }}{% if post.owner.company.founder.url %}</a>.{% endif %}
+        {% else %}
+          and {{ post.owner.flag }} {{ post.owner.company.founder.name }}.
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  {% when 'owner-founder' %}
+    {% if post.owner.splitOwnership %}
+      Co-owned{% elsif post.owner.family %}Family-owned{% else %}
+      Owned{% endif %} by {% if post.owner.splitOwnership %}Co-f{% else%}f{% endif %}ounder{% if post.owner.team %}s{% endif %}
+      {% if post.owner.title %}
+        and {{ post.owner.title }}
+      {% endif %}
+      {{ post.owner.flag }}
+      {% if post.owner.url %}<a href="{{ post.owner.url }}">{% endif %}{{ post.owner.name }}{% if post.owner.url %}</a>{% endif %}{% if post.company.location %} in {{ post.company.location }}.{% else %}.{% endif %}
+  {% when 'separate' %}
+  Owned by
+    {% if post.owner.owner.url %}<a href="{{ post.owner.owner.url }}">{% endif %}{{ post.owner.owner.name }}{% if post.owner.owner.url %}</a>{% endif %}{% if post.owner.owner.description %} {{ post.owner.owner.description }}{% endif %},
+    founded by {{ post.owner.founder.title }} {{ post.owner.founder.flag }} {% if post.owner.founder.url %}<a href="{{ post.owner.founder.url }}">{% endif %}{{ post.owner.founder.name }}{% if post.owner.founder.url %}</a>{% endif %}.
+  {% when 'unknown' %}
+    Owned and founded by unknown individuals{% if post.company.location %} in {{ post.company.location }}.{% else %}.{% endif %}
+  {% endcase %}
+  </p>
+
+  <div class="company-story">
+    {{ post.content }}
+  </div>
+</article>

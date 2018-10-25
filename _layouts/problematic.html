@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+{{ page.content }}
+
+<h1 class="page-title"><span>{{ page.title }}</span></h1>
+
+<p>
+  There’s so much bigotry happening in the beauty industry regularly that it can be hard to keep track. This list serves as a ledger of beauty brands’ problematic behavior regarding race, ethnicity, gender, and religion.
+</p>
+<p>
+  Make informed purchase decisions at your own discretion. Vote with your wallet.
+</p>
+
+<hr>
+
+<h1>DO NOT support these brands</h1>
+<p>Major offenders we implore to you avoid.</p>
+
+<div class="page-list problematic-list">
+{% assign listPrimary = site.list-problematic | sort: 'title' | where: 'list', 'primary'  %}
+{% for post in listPrimary %}
+  {% include list-entry-problematic.html %}
+{% endfor %}
+</div>
+
+{% capture listSecondaryHasPosts = site.list-latinx | where: 'list', 'secondary' | size > 0 %}{% endcapture %}
+{% if listSecondaryHasPosts %}
+  <hr>
+
+  <h1 class="page-title"><span>Collected receipts</span></h1>
+  <p>
+    Isolated incidents, questionable behavior, repeated patterns, cleared up scandals we won’t forget&hellip;
+  </p>
+
+  <div class="page-list">
+  {% assign listSecondary = site.list-problematic | sort: 'title' | where: 'list', 'secondary'  %}
+  {% for post in listSecondary %}
+    {% include list-entry-problematic.html %}
+  {% endfor %}
+</div>
+{% else %}
+{% endif %}
