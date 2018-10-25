@@ -3,7 +3,8 @@ list: primary
 company:
   name: "Bee-Q-Box"
   url: https://www.beeqbox.com/
-  handmade: true
+  ingredients:
+    - handcrafted
   type: Cosmetics
   description: "with a badass twist, started by a college student"
 product:

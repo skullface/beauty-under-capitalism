@@ -4,8 +4,9 @@ company:
   name: "Tata Harper"
   url: https://www.tataharperskincare.com
   type: Skincare
-  handmade: true
-  nontoxic: true
+  ingredients:
+    - handcrafted
+    - non-toxic
   location: Vermont
   description: "Luxury"
   predicate: true

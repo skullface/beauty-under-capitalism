@@ -4,8 +4,9 @@ company:
   name: "Lotus Moon"
   url: https://lotusmoonskincare.com/
   type: "Skincare"
-  vegan: true
-  organic: true
+  ingredients:
+    - vegan
+    - organic
   description: " made because fresh ingredients feel better"
 product:
   name: "cleansing gels"

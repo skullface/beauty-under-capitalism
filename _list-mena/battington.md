@@ -4,8 +4,9 @@ company:
   name: "Battington Lashes"
   url: https://www.battingtonbeauty.com
   type: Cosmetics
-  vegan: true
-  handmade: true
+  ingredients:
+    - vegan
+    - handcrafted
   description: " &mdash; silk false lashes designed with diverse eye shapes in mind"
 product:
   name: "lush 3d strip lashes"

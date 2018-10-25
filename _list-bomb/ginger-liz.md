@@ -4,9 +4,10 @@ company:
   predicate: true
   name: "Ginger + Liz"
   url: http://www.gingerandliz.com
-  handmade: true
-  vegan: true
-  nontoxic: true
+  ingredients:
+    - vegan
+    - non-toxic
+    - handcrafted
   description: "100%"
   type: "Nail care"
 product:

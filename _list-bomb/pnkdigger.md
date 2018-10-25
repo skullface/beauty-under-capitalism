@@ -4,8 +4,9 @@ company:
   name: "Pnk Digger"
   url: https://www.pnkdigger.com
   type: "Cosmetics"
-  vegan: true
-  handmade: true
+  ingredients:
+    - vegan
+    - handcrafted
   description: "focused on lips"
 product:
   predicate: true

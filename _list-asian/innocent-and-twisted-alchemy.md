@@ -5,7 +5,8 @@ company:
   url: http://innocenttwisted.storenvy.com
   location: Sacramento, CA
   type: Cosmetics
-  handmade: true
+  ingredients:
+    - handcrafted
   description: "Small-batch"
   predicate: true
 product:

@@ -5,7 +5,8 @@ company:
   url: https://go.magik.ly/ml/gmjn
   location: NY, NY
   type: Nailcare
-  vegan: true
+  ingredients:
+    - vegan
   description: "embodying elegant simplicity, always 9-free"
 product:
   name: "nail polish collection"

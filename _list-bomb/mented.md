@@ -3,8 +3,9 @@ list: primary
 company:
   name: "Mented Cosmetics"
   url: https://www.mentedcosmetics.com/
-  vegan: true
-  nontoxic: true
+  ingredients:
+    - vegan
+    - non-toxic
   type: "Cosmetics"
   description: "that enhance the natural beauty of women of all hues"
 product:

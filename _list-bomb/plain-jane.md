@@ -4,8 +4,9 @@ company:
   name: "Plain Jane Beauty"
   url: https://plainjanebeauty.net
   type: "Cosmetics"
-  vegan: true
-  organic: true
+  ingredients:
+    - vegan
+    - organic
   description: "encompassing all shades and tones using natural ingredients"
 product:
   predicate: true

@@ -4,8 +4,9 @@ company:
   name: "Shiro Cosmetics"
   url: https://shirocosmetics.com/
   type: Cosmetics
-  vegan: true
-  handmade: true
+  ingredients:
+    - vegan
+    - handcrafted
   description: "making nerds sparkly since 2010"
 product:
   name: "loose eyeshadows"

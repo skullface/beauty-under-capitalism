@@ -4,7 +4,8 @@ company:
   name: "Kaylux"
   url: http://www.kayluxcosmetics.com/
   type: "Cosmetics"
-  usa: true
+  ingredients:
+    - "Made in the USA"
   description: "made with love"
 product:
   name: "highlighting body oil"

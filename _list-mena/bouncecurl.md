@@ -4,7 +4,8 @@ company:
   name: "BounceCurl"
   url: https://bouncecurl.com
   type: Haircare
-  vegan: true
+  ingredients:
+    - vegan
   description: "for curly,  kinky, and wavy hair"
 product:
   name: "Light Creme Gel styler"

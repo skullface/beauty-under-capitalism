@@ -4,8 +4,9 @@ company:
   name: "Necromancy Cosmetica"
   url: https://necromancycosmetica.com
   type: Cosmetics
-  vegan: true
-  handmade: true
+  ingredients:
+    - vegan
+    - handcrafted
   description: "focused on gloomy and striking lipsticks"
 product:
   name: "signature matte lipsticks"

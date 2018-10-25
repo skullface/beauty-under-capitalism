@@ -4,7 +4,8 @@ company:
   name: "Soap Distillery"
   url: https://soapdistillery.com
   type: "Bath and bodycare"
-  handmade: true
+  ingredients:
+    - handcrafted
   location: "Chicago, IL"
   description: "inspired by the scents of spirits and cocktails"
 product:

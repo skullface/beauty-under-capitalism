@@ -5,7 +5,8 @@ company:
   url: https://oyinhandmade.com/
   type: "Haircare"
   location: "Baltimore, MD"
-  handmade: yes
+  ingredients:
+    - handcrafted
   predicate: true
   description: "100%"
 product:

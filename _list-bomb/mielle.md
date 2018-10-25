@@ -3,7 +3,8 @@ list: primary
 company:
   name: "Mielle Organics"
   url: https://mielleorganics.com/
-  organic: true
+  ingredients:
+    - organic
   type: "Haircare"
   description: "encouraging healthier hair with healthier ingredients"
 product:

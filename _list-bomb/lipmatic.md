@@ -4,7 +4,8 @@ company:
   name: "Lipmatic"
   url: https://www.lipmatic.com/
   type: "Cosmetics"
-  organic: true
+  ingredients:
+    - organic
   description: "centered only on the lips"
 product:
   predicate: true

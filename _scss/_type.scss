@@ -3,14 +3,32 @@ $font-family__sans: "europa", -apple-system, BlinkMacSystemFont, "Segoe UI", Hel
 body {
   font-family: "freight-text-pro", serif;
   font-size: 112.5%;
+  color: $color_black;
+}
+
+
+h1 {
+  font-family: "lust", serif;
+  font-size: 5rem;
+  line-height: 1.1;
+  @media (max-width: 850px) {
+    font-size: 3rem;
+  }
+  @media (max-width: 400px) {
+    font-size: 2.125rem;
+  }
 }
 
 h3 {
   font-family: $font-family__sans;
 }
 
-h1 {
-  font-family: "lust", serif;
-  font-size: 5rem;
-  line-height: 1.1;
+a {
+  color: #b235ec;
+  &:hover,
+  &:focus,
+  &:active {
+    text-decoration-color: #ddd;
+    color: inherit;
+  }
 }

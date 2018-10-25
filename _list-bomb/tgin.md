@@ -4,7 +4,8 @@ company:
   name: "tgin (Thank God It’s Natural)"
   url: https://thankgoditsnatural.com/
   type: "Haircare"
-  organic: true
+  ingredients:
+    - organic
   description: "designed to kiss dryness goodbye"
 product:
   predicate: true

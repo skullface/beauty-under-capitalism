@@ -4,9 +4,10 @@ company:
   name: "Soultanicals"
   url: https://soultanicals.com
   type: "Haircare and bodycare"
-  handmade: true
-  vegan: true
-  nontoxic: true
+  ingredients:
+    - vegan
+    - non-toxic
+    - handcrafted
   location: "Queen Creek, AZ"
   description: "products that are soul-infused and melanin-inspired"
 product:

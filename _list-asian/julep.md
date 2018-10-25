@@ -1,5 +1,5 @@
 ---
-list: primary
+list: secondary
 company:
   name: "Julep"
   url: https://go.magik.ly/ml/gmjc
@@ -15,16 +15,14 @@ product:
     name: subscription box
     url: https://www.julep.com/howitworks.html
 owner:
-  type: company
-  title: CEO
-  flag: 🇰🇷
-  name: Jane Park
-  url: https://go.magik.ly/ml/gmj8
-  company:
+  type: separate
+  owner:
     name: Glansaol
-    url: http://www.glansaol.com
-    key-person:
-      title: SVP
-      name: Park
-      url: http://www.glansaol.com/our-team.html
+    description: "(where Park serves as SVP)"
+    url: http://www.glansaol.com/our-team.html
+  founder:
+    title: CEO
+    name: Jane Park
+    flag: 🇰🇷
+    url: https://go.magik.ly/ml/gmj8
 ---

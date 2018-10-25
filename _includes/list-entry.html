@@ -9,23 +9,12 @@
     {% if post.company.predicate %}
       {{ post.company.description }}
     {% endif %}
-    {% if post.company.usa %}
-      <span class="company-ingredients usa">American-made</span>
-    {% endif %}
-    {% if post.company.handmade %}
-      <span class="company-ingredients handmade">Handcrafted</span>
-    {% endif %}
-    {% if post.company.organic %}
-      <span class="company-ingredients organic">Organic</span>
-    {% endif %}
-    {% if post.company.vegan %}
-      <span class="company-ingredients vegan">Vegan</span>
-    {% endif %}
-    {% if post.company.nontoxic %}
-      <span class="company-ingredients nontoxic">Nontoxic</span>
-    {% endif %}
 
-    <span class="company-type">{{ post.company.type }}</span>{% if post.company.predicate %}.{% endif %}
+    {% for ingredient in post.company.ingredients %}
+      <span class="company-ingredients ingredient-{{ ingredient | slugify }}">{{ ingredient }}</span>
+    {% endfor %}
+
+    <a href="{{ post.company.url }}" class="company-type">{{ post.company.type }}</a>{% if post.company.predicate %}.{% endif %}
 
     {% unless post.company.predicate %}
       {{ post.company.description }}.
@@ -66,7 +55,7 @@
     {% endif %}
   {% when 'owner-founder' %}
     {% if post.owner.splitOwnership %}
-      Co-owned{% else %}
+      Co-owned{% elsif post.owner.family %}Family-owned{% else %}
       Owned{% endif %} by {% if post.owner.splitOwnership %}Co-f{% else%}f{% endif %}ounder{% if post.owner.team %}s{% endif %}
       {% if post.owner.title %}
         and {{ post.owner.title }}
@@ -74,7 +63,11 @@
       {{ post.owner.flag }}
       {% if post.owner.url %}<a href="{{ post.owner.url }}">{% endif %}{{ post.owner.name }}{% if post.owner.url %}</a>{% endif %}{% if post.company.location %} in {{ post.company.location }}.{% else %}.{% endif %}
   {% when 'separate' %}
-  Owned by {% if post.owner.owner.url %}<a href="{{ post.owner.owner.url }}">{% endif %}{{ post.owner.owner.name }}{% if post.owner.owner.url %}</a>{% endif %}, founded by {{ post.owner.founder.title }} {{ post.owner.founder.flag }} {% if post.owner.founder.url %}<a href="{{ post.owner.founder.url }}">{% endif %}{{ post.owner.founder.name }}{% if post.owner.founder.url %}</a>{% endif %}.
+  Owned by
+    {% if post.owner.owner.url %}<a href="{{ post.owner.owner.url }}">{% endif %}{{ post.owner.owner.name }}{% if post.owner.owner.url %}</a>{% endif %}{% if post.owner.owner.description %} {{ post.owner.owner.description }}{% endif %},
+    founded by {{ post.owner.founder.title }} {{ post.owner.founder.flag }} {% if post.owner.founder.url %}<a href="{{ post.owner.founder.url }}">{% endif %}{{ post.owner.founder.name }}{% if post.owner.founder.url %}</a>{% endif %}.
+  {% when 'unknown' %}
+    Owned and founded by unknown individuals{% if post.company.location %} in {{ post.company.location }}.{% else %}.{% endif %}
   {% endcase %}
   </p>
 </article>

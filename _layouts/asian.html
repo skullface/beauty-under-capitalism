@@ -1,20 +1,17 @@
 ---
 layout: default
+ethnicity: asian
 ---
 
 <h1 class="page-title"><span>{{ page.title }}</span></h1>
 
-{% unless page.content == '' %}
-  <div class="page-description">{{ page.content | markdownify }}</div>
-{% endunless %}
-
-{% unless site.list-asian | size > 0 %}
-  <p>Oops! There aren’t any posts in this category.</p>
-{% endunless %}
+{% capture intro %}{% include intro.md %}{% endcapture %}
+{% capture intro-secondary %}{% include intro-secondary.md %}{% endcapture %}
+{{ intro | markdownify }}
 
 <div class="page-list">
-{% assign asian = site.list-asian | sort: 'title' | where: 'list', 'primary'  %}
-{% for post in asian %}
+{% assign listPrimary = site.list-asian | sort: 'title' | where: 'list', 'primary'  %}
+{% for post in listPrimary %}
   {% include list-entry.html %}
 {% endfor %}
 </div>
@@ -22,15 +19,11 @@ layout: default
 <hr>
 <h1 class="page-title"><span>Other Asian owned brands</span></h1>
 
-  <p>The following brands fit one or more of the following the criteria:</p>
-  <ul>
-    <li><strong>not</strong> majority women-owned (either by founding or through an exit)</li>
-    <li>tests on animals where required by law</li>
-  </ul>
+{{ intro-secondary | markdownify }}
 
-  <div class="page-list">
-  {% assign other-asian = site.list-asian | sort: 'title' | where: 'list', 'secondary'  %}
-  {% for post in other-asian %}
-    {% include list-entry.html %}
-  {% endfor %}
-  </div>
+<div class="page-list">
+{% assign listSecondary = site.list-asian | sort: 'title' | where: 'list', 'secondary'  %}
+{% for post in listSecondary %}
+  {% include list-entry.html %}
+{% endfor %}
+</div>

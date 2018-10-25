@@ -4,7 +4,8 @@ company:
   name: "Chaos Makeup"
   url: https://www.chaosmakeup.com/
   type: Cosmetics
-  handmade: true
+  ingredients:
+    - handcrafted
   description: "made famous by their 2016 viral rainbow highlighter"
 product:
   name: "Highlight Intensifer"

@@ -3,7 +3,8 @@ list: primary
 company:
   name: JD Glow
   url: https://www.jdglowcosmetics.com/
-  handmade: true
+  ingredients:
+    - handcrafted
   location: Baton Rouge, LA
   type: Cosmetics
   description: "focused on metallic glow and pigment for all ethnicities"

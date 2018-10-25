@@ -3,7 +3,8 @@ list: primary
 company:
   name: "Holy Snails"
   url: https://www.holysnailsshop.com/
-  handmade: true
+  ingredients:
+    - handcrafted
   type: Skincare
   description: "inspired by K-beauty"
 product:

@@ -4,7 +4,8 @@ company:
   name: "BGLH Marketplace"
   url: https://bglh-marketplace.com
   location: Brooklyn, NY
-  handmade: true
+  ingredients:
+    - handcrafted
   type: Cosmetics
   description: "with a sweet spin"
 product:

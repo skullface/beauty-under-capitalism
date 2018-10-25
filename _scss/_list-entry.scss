@@ -22,16 +22,23 @@ h3 {
   margin-bottom: $spacer-1;
 }
 
-.company-owner {
+.problematic-list .company p {
+    display: block;
+    margin-bottom: $spacer-2;
 }
 
-.company-ingredients {
-  position: relative;
-  margin-right: 2px;
+.company-ingredients,
+.hashtag {
   font-family: $font-family__sans;
   font-size: 75%;
   letter-spacing: 2px;
   text-transform: uppercase;
+}
+
+.company-ingredients,
+.hashtag {
+  position: relative;
+  margin-right: 2px;
   &:before {
     display: inline-block;
     position: absolute;
@@ -40,9 +47,31 @@ h3 {
     z-index: -1;
     width: 100%;
     height: 4px;
-    background: mistyrose;
     content: "";
   }
+}
+
+$ingredients: (
+  vegan: #e3fce3,
+  organic: #f3e3fc,
+  non-toxic: #fcf0e3,
+  handcrafted: mistyrose,
+  made-in-the-usa: #e3eafc
+);
+
+@each $ingredient, $color in $ingredients {
+  .ingredient-#{$ingredient}:before {
+    background-color: $color
+  }
+}
+
+.hashtag {
+  color: darken($color_gray, 20%);
+}
+
+.hashtags {
+  line-height: 1;
+  margin-bottom: 10px;
 }
 
 .company-type {
@@ -51,4 +80,10 @@ h3 {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
+  color: inherit;
+}
+
+.problematic-list .company img {
+  margin-bottom: 5px;
+  border: solid 1px $color_gray;
 }

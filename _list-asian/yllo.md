@@ -4,7 +4,8 @@ company:
   name: "YLLO Beauty"
   url: https://yllobeauty.com
   type: Skin and bodycare
-  vegan: true
+  ingredients:
+    - vegan
   predicate: true
   description: "Turmeric-based"
 product:

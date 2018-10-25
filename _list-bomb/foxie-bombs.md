@@ -4,8 +4,9 @@ company:
   predicate: true
   name: "Foxie Bombs"
   url: https://foxiebombs.com
-  handmade: true
-  vegan: true
+  ingredients:
+    - vegan
+    - handcrafted
   description: "Made for multiple uses, 100%"
   type: "skin, bath, body, and hair care"
   location: Nashville, TN

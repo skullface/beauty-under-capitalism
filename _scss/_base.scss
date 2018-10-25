@@ -7,6 +7,8 @@ body {
   max-width: 48rem;
   margin-left: auto;
   margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 hr {
@@ -16,4 +18,8 @@ hr {
   background: transparent;
   border: 0;
   border-bottom: 1px solid $color_gray;
+}
+
+img {
+  max-width: 100%;
 }

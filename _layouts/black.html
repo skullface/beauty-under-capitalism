@@ -4,13 +4,9 @@ layout: default
 
 <h1 class="page-title"><span>{{ page.title }}</span></h1>
 
-{% unless page.content == '' %}
-  <div class="page-description">{{ page.content | markdownify }}</div>
-{% endunless %}
-
-{% unless site.list-bomb | size > 0 %}
-  <p>Oops! There aren’t any posts in this category.</p>
-{% endunless %}
+{% capture intro %}{% include intro.md %}{% endcapture %}
+{% capture intro-secondary %}{% include intro-secondary.md %}{% endcapture %}
+{{ intro | markdownify }}
 
 <div class="page-list">
 {% assign BoB = site.list-bomb | sort: 'title' | where: 'list', 'primary'  %}
@@ -23,11 +19,7 @@ layout: default
 
 <h1 class="page-title"><span>Other black owned brands</span></h1>
 
-<p>The following brands fit one or more of the following the criteria:</p>
-<ul>
-  <li><strong>not</strong> majority women-owned (either by founding or through an exit)</li>
-  <li>tests on animals where required by law</li>
-</ul>
+{{ intro-secondary | markdownify }}
 
 <div class="page-list">
 {% assign other-BoB = site.list-bomb | sort: 'title' | where: 'list', 'secondary'  %}

@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Coloured Raine"
-  usa: true
+  ingredients:
+    - "Made in the USA"
   url: https://colouredraine.com/
   type: "Cosmetics"
   description: "encouraging self expression and diversity"
