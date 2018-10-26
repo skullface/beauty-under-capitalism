@@ -30,6 +30,10 @@ Her accountability seems to be very shallow, focused on [lifting white women](ht
 
 ![](/kat-diversity.png)
 
+Kat Von D Beauty’s Fall 2017 [creme contour palette](https://www.instagram.com/p/BXi0NNBFJs6/) was announced with a promotional image featuring diverse skin tones… ineffectively, because the darkest contour shades were significantly lighter than the darkest model’s skin.
+
+![](/kat-contour.png)
+
 A very outspoken vegan, Kat’s views against animal cruelty are part of her and her brand’s identities. In June 2018, [she announced](https://www.racked.com/2018/6/11/17448758/kat-von-d-antivaxxer-instagram-vegan) she plans to raise her baby vegan and will not vaccinate her child.
 
 ![](/kat-anti-vaxx.png)
