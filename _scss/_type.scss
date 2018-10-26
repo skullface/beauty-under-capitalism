@@ -35,8 +35,14 @@ h3 {
   font-family: $font-family__sans;
 }
 
+h2 a,
+h3 a,
+h4 a {
+  color: inherit;
+}
+
 a {
-  color: #b235ec;
+  color: $color_primary;
   &:hover,
   &:focus,
   &:active {

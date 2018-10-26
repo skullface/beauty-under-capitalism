@@ -10,38 +10,55 @@ layout: default
   There’s so much bigotry happening in the beauty industry regularly that it can be hard to keep track. This list serves as a ledger of beauty brands’ problematic behavior regarding race, ethnicity, gender, and religion.
 </p>
 <p>
-  <strong>Note</strong>: Content warning for the subjects mentioned above. Links to the brands’ own websites or media block search engine bots and remove referers.
+  <strong>Note</strong>: Content warning for the subjects mentioned above.
 </p>
 <p>
   Make informed purchase decisions at your own discretion. Vote with your wallet.
 </p>
 
+{% assign listPrimary = site.list-problematic | sort: 'title' | where: 'list', 'primary'  %}
+{% assign listSecondary = site.list-problematic | sort: 'title' | where: 'list', 'secondary'  %}
+
+<nav class="toc">
+  <h4><a href="#avoid">Do not support these brands:</a></h4>
+  <ul>
+  {% for post in listPrimary %}
+    <li>
+      <a href="#{{ post.company.name | slugify }}">{{ post.company.name }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+  <h4><a href="#receipts">Collected receipts:</a></h4>
+  <ul>
+  {% for post in listSecondary %}
+    <li>
+      <a href="#{{ post.company.name | slugify }}">{{ post.company.name }}</a>
+    </li>
+  {% endfor %}
+</nav>
 <hr>
 
-<h2>Do not support these brands</h2>
+<h2 id="avoid">Do not support these brands</h2>
 <p><em>Major offenders we implore to you avoid.</em></p>
 
 <div class="page-list problematic-list">
-{% assign listPrimary = site.list-problematic | sort: 'title' | where: 'list', 'primary'  %}
 {% for post in listPrimary %}
   {% include list-entry-problematic.html %}
 {% endfor %}
 </div>
 
-{% capture listSecondaryHasPosts = site.list-latinx | where: 'list', 'secondary' | size > 0 %}{% endcapture %}
-{% if listSecondaryHasPosts %}
-  <hr>
+<hr>
 
-  <h1 class="page-title"><span>Collected receipts</span></h1>
-  <p>
+<h1 class="page-title" id="receipts"><span>Collected receipts</span></h1>
+<p>
+  <em>
     Isolated incidents, questionable behavior, repeated patterns, cleared up scandals we won’t forget&hellip;
-  </p>
+  </em>
+</p>
 
-  <div class="page-list">
-  {% assign listSecondary = site.list-problematic | sort: 'title' | where: 'list', 'secondary'  %}
-  {% for post in listSecondary %}
-    {% include list-entry-problematic.html %}
-  {% endfor %}
+<div class="page-list problematic-list">
+{% assign listSecondary = site.list-problematic | sort: 'title' | where: 'list', 'secondary'  %}
+{% for post in listSecondary %}
+  {% include list-entry-problematic.html %}
+{% endfor %}
 </div>
-{% else %}
-{% endif %}
