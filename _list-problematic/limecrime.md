@@ -5,7 +5,7 @@ company:
 hashtags:
   - racist
   - antisemitic
-  - cultural appropriation
+  - appropriation
 ---
 
 ([This 2015 deep dive](https://www.vox.com/2015/9/28/9392021/lime-crime-doe-deere-hated-xenia-vorotova) from one of my absolute favorite beauty writers covers the whole saga better than I can!)
