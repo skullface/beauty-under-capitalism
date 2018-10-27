@@ -14,3 +14,8 @@ Instagram is an important platform for any modern beauty company, especially one
 ![](/huda-colorism.png)
 
 In April 2018, the [Huda Beauty blog posted an  article](http://hudabeauty.com/2018/04/07/why-your-vagina-gets-dark-and-how-to-lighten-it/) on the “real issue” of how to use DIY ingredients, chemical exfoliants, and weight loss to lighten the skin color of the vagina and vulva.
+
+Later the year, Huda Beauty released a [new product with a kitschy name and photo campaign](https://me.popsugar.com/beauty/Huda-Beauty-Easy-Bake-Accused-Ripping-Off-Beauty-Bakerie-44983015) with striking similarity to the much smaller black-owned brand [Beauty Bakerie](/black-owned-beauty-brands/#beauty-bakerie).
+
+![](/huda-beauty-bakerie.jpg)
+*Huda Beauty’s Easy Bake Loose Powder, left; Beauty Bakerie’s Flour Setting Powder + Cake Mix Foundation, right*

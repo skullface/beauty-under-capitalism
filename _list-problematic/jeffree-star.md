@@ -27,7 +27,7 @@ A few weeks after the old videos resurfaced, he gave a half-hearted  [apology](h
 
 …*without* denouncing his racist views. As more old, problematic content popped up ([like dressing up for Halloween with a friend in blackface](http://jeffreestar.tumblr.com/post/12112029370/spice-world-happy-halloween-spice-girls-for)), he continued to brush it off with apologies on social media saying it was all for shock value.
 
-[A very public falling out](https://www.refinery29.com/en-us/2016/07/117317/jeffree-star-kat-von-d-fight) occurred between Star and his longtime ex-friend and professional collaborator, fellow [problematic beauty icon Kat Von D](#kat-von-d). Kat’s July 2016 post specifically condemned Star's racism.
+[A very public falling out](https://www.refinery29.com/en-us/2016/07/117317/jeffree-star-kat-von-d-fight) occurred between Star and his longtime ex-friend and professional collaborator, fellow [problematic beauty icon Kat Von D](#kat-von-d). Kat’s July 2016 post specifically condemned Star’s racism and alleged Star [never paid for graphic design work](https://www.bustle.com/articles/173607-watch-kat-von-ds-message-about-jeffree-star-to-hear-her-side-of-the-story), though the latter was [resolved](https://twitter.com/bjbetts/status/755883386795724800).
 
 In March 2017, Jeffree Star Cosmetics [significantly deepened a model’s complexion](https://www.seventeen.com/beauty/news/a45491/jeffree-star-blackface-controvercy/) for a product photoshoot. When Star received criticism for using blackface to sell a product, he defended the "creative choices" of the shoot. Even when choosing a trans woman of color as a model, Star's actions were undeniably anti-black.
 
