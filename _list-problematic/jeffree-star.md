@@ -11,7 +11,7 @@ owner:
   name: "Jeffree Star"
 ---
 
-Influencer, entrepreneur, and ex-Atlantic Records recording artist Jeffree Star (legally Jeffrey Lynn Steininger) launched his cosmetic line in 2014. With a steady increase in social media fame since MySpace in the mid-2000s, Star’s YouTube subscriber count topples 11m. His binary-breaking androgynous looks, DGAF attitude, flaunting wealth, and public confidence in his sexuality all create a compelling identity many (often young, white, and queer) look up to. While his mainstream popularity is more recent, his use of violent language toward PoC, WoC, and women et all dates back to the mid-2000s.
+Influencer, entrepreneur, and ex-Atlantic Records recording artist Jeffree Star (legally Jeffrey Lynn Steininger) launched his cosmetic line in 2014. With a steady increase in social media fame since MySpace in the mid-2000s, Star’s YouTube subscriber count tops 11m. His binary-breaking androgynous looks, DGAF attitude, flaunting wealth, and public confidence in his sexuality all create a compelling identity many (often young, white, and queer) look up to.
 
 During a “comedy sketch” with a friend in the MySpace era (pre-2010), Star used disgusting, violent, anti-black language in AAVE.
 
@@ -27,7 +27,7 @@ A few weeks after the old videos resurfaced, he gave a half-hearted  [apology](h
 
 …*without* denouncing his racist views. As more old, problematic content popped up ([like dressing up for Halloween with a friend in blackface](http://jeffreestar.tumblr.com/post/12112029370/spice-world-happy-halloween-spice-girls-for)), he continued to brush it off with apologies on social media saying it was all for shock value.
 
-[A very public falling out](https://www.refinery29.com/en-us/2016/07/117317/jeffree-star-kat-von-d-fight) occurred between Star and his longtime ex-friend and professional collaborator, fellow [problematic beauty icon Kat Von D](#kat-von-d). Kat’s July 2016 post specifically denounced Star's racism.
+[A very public falling out](https://www.refinery29.com/en-us/2016/07/117317/jeffree-star-kat-von-d-fight) occurred between Star and his longtime ex-friend and professional collaborator, fellow [problematic beauty icon Kat Von D](#kat-von-d). Kat’s July 2016 post specifically condemned Star's racism.
 
 In March 2017, Jeffree Star Cosmetics [significantly deepened a model’s complexion](https://www.seventeen.com/beauty/news/a45491/jeffree-star-blackface-controvercy/) for a product photoshoot. When Star received criticism for using blackface to sell a product, he defended the "creative choices" of the shoot. Even when choosing a trans woman of color as a model, Star's actions were undeniably anti-black.
 
@@ -49,7 +49,7 @@ Star is known to use misogynist language among his race-fueled behavior. He’s 
 ![](/jeffree-upper-hand.png)
 ![](/jeffree-dirty.png)
 
-The following summer, [Shane Dawson](https://www.youtube.com/channel/UCV9_KinVpV-snHe3C3n1hvA), one of the most popular accounts on YouTube with 18m subscribers, released a multi-part [docuseries](https://www.youtube.com/watch?v=xUf2-sjGqQw) on Star. The series attempt to lift the veil and provide a new perspective to all the controversy, though Star is only portrayed in a positive light. It kicked off [dramageddon](https://stayhipp.com/news/beauty-vlogger-dramageddon-everything-online-is-permanent/), which led more acquaintances and former friends to [confirm and denounce](https://www.seventeen.com/beauty/makeup-skincare/a23549739/jackie-aina-jeffree-star-feud/) [Star’s past  and](https://www.revelist.com/beauty-news-/jeffree-star-jackie-aina-racism/13563/in-the-leaked-messages-star-is-allegedly-documented-asking-munoz-are-you-done-posting-that-gorilla-in-reference-to-beauty-youtuber-and-known-rival-jackie-aina-he-also-uses-the-n-word/10) [current racism](https://www.seventeen.com/beauty/a23781141/jeffree-star-thomas-halbert-feud/).
+The following summer, [Shane Dawson](https://www.youtube.com/channel/UCV9_KinVpV-snHe3C3n1hvA), one of the most popular accounts on YouTube with 18m subscribers, released a multi-part [docuseries](https://www.youtube.com/watch?v=xUf2-sjGqQw) on Star. The series attempt to lift the veil and provide a new perspective to all the controversy, though Star is only portrayed in a positive light. It kicked off [dramageddon](https://stayhipp.com/news/beauty-vlogger-dramageddon-everything-online-is-permanent/), which led more acquaintances and former friends to [confirm and criticize](https://www.seventeen.com/beauty/makeup-skincare/a23549739/jackie-aina-jeffree-star-feud/) [Star’s past  and](https://www.revelist.com/beauty-news-/jeffree-star-jackie-aina-racism/13563/in-the-leaked-messages-star-is-allegedly-documented-asking-munoz-are-you-done-posting-that-gorilla-in-reference-to-beauty-youtuber-and-known-rival-jackie-aina-he-also-uses-the-n-word/10) [current racism](https://www.seventeen.com/beauty/a23781141/jeffree-star-thomas-halbert-feud/).
 
 To promote his cosmetics brand for a holiday 2018 campaign, Star’s hair was styled in [cornrows and box braids](https://www.seventeen.com/beauty/hair/a23509827/jeffree-star-cornrows/), classically Black styles.
 
