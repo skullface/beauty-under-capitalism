@@ -3,16 +3,13 @@ list: primary
 company:
   name: "Medusa’s Makeup"
 hashtags:
-  - antisemitic
-  - silence is violence
+  - antisemitism
   - white supremacy
 owner:
   name: "Lora Chasteen and her husband Pier Novikov"
 ---
 
-Medusa’s Makeup is a white supremacist vegan + cruelty-free cosmetics company and subscription box from Chicago with 50k+ followers on Instagram.
-
-The official brand website does not include any mention of the owners. To prove these are the two owners of the brand, you can [search the Illinois LLC lookup](https://www.ilsos.gov/corporatellc/CorporateLlcController) and see [Novikov’s LinkedIn profile](https://www.linkedin.com/in/pier-novikov-see-chasteen-a5a0ab11).
+Medusa’s Makeup is a vegan, cruelty-free cosmetics company and subscription box founded in Chicago, IL. The website does not include any mention of its owners, [Lora Chasteen](https://www.ilsos.gov/corporatellc/CorporateLlcController) and [Pier Novikov](https://www.linkedin.com/in/pier-novikov-see-chasteen-a5a0ab11).
 
 ![](/medusas-illinois-registration.png)
 ![](/medusas-pier-linkedin.png)

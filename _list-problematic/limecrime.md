@@ -3,14 +3,14 @@ list: primary
 company:
   name: "Lime Crime"
 hashtags:
-  - racist
-  - antisemitic
+  - antisemitism
   - appropriation
+  - racism
 ---
 
 ([This 2015 deep dive](https://www.vox.com/2015/9/28/9392021/lime-crime-doe-deere-hated-xenia-vorotova) from one of my absolute favorite beauty writers covers the whole saga better than I can!)
 
-Doe Deere (legally Xenia Vorotova) grew to massive cult popularity on LiveJournal in the mid-2000s, sewing and selling vintage and Japanese-street-fashion-inspired clothing, and continually reinventing her image. During this time, there was [some controversy](https://www.sutori.com/story/limecrimescandal-part-one) over [her actions](https://ohdeardoedeere.tumblr.com/post/75607412764/history-page-w-most-of-the-working-links) involving copying other’s original ideas and reselling items at inflated prices. In October 2008, she launched Lime Crime Make Up with her co-founder husband, Mark Dumbelton.
+Doe Deere (legally Xenia Vorotova) grew to massive cult popularity on LiveJournal in the mid-2000s, sewing and selling vintage and Japanese-street-fashion-inspired clothing, and continually reinventing her image. During this time, there was [some controversy](https://www.sutori.com/story/limecrimescandal-part-one) over [her actions](https://ohdeardoedeere.tumblr.com/post/75607412764/history-page-w-most-of-the-working-links) involving copying other’s original ideas and reselling items at inflated prices. In October 2008, she launched Lime Crime Makeup with her co-founder husband, Mark Dumbelton.
 
 Deere, Russian Jewish by descent, dressed up as Adolf Hitler for “[typical bad taste](https://web.archive.org/web/20090521195657/http://www.doedeereblogazine.com/articles/halloween-throughout-the-years)” shock factor on Halloween, exactly one year before Lime Crime launches as a makeup brand. Not until 2015 did she apologize for her “[extremely poor taste](https://web.archive.org/web/20150910145155/http://www.doedeereblogazine.com/doedeeredressedashitler/)” which she reiterated in 2018 as a “[coping mechanism](https://www.youtube.com/watch?v=-so-3lfLzr4).”
 
@@ -20,13 +20,13 @@ Customers who purchased from Lime Crime Makeup and Deere’s prior fashion endea
 
 ![](/limecrime-letter.jpg)
 
-[This November 2009 LiveJournal post](https://emeraldsrain.livejournal.com/149717.html) rounds up and reposts several different sources of negative product reviews, negative experiences, Internet-sleuthing of Deere's “mean girl” behavior, and cease-and-desists being sent to critical reviewers.
+[This November 2009 LiveJournal post](https://emeraldsrain.livejournal.com/149717.html) rounds up and reposts several different sources of critical product reviews, experiences, Internet-sleuthing of Deere's “mean girl” behavior, and cease-and-desists being sent to critical reviewers.
 
-The [most prolific beauty blogger in the late 2000s](https://www.temptalia.com/temptalia-mentioned-by-wwd-as-one-of-the-hottest-beauty-blogs/) gave a middling-to-negative [review](https://www.temptalia.com/lime-crime-lipsticks-reviews-photos-swatches/) of Lime Crime products. Deere retaliated by emailing Lime Crime customers to [request](https://www.racked.com/2015/9/28/9392021/lime-crime-doe-deere-hated-xenia-vorotova) they send emails to the bloggers’s personal address, singing the praises of Lime Crime makeup.
+The [most prolific beauty blogger of the late 2000s](https://www.temptalia.com/temptalia-mentioned-by-wwd-as-one-of-the-hottest-beauty-blogs/) gave a middling-to-negative [review](https://www.temptalia.com/lime-crime-lipsticks-reviews-photos-swatches/) of Lime Crime products. Deere retaliated by emailing Lime Crime customers to [request](https://www.racked.com/2015/9/28/9392021/lime-crime-doe-deere-hated-xenia-vorotova) they send emails to the bloggers’s personal address, singing the praises of Lime Crime makeup.
 
 ![](/limecrime-temptalia.png)
 
-In 2012, Lime Crime released the China Doll eyeshadow palette. Regardless of previous drama, there were [incredibly valid critiques](http://www.portraitofmai.com/2012/01/lime-crime-youre-doing-it-wrong.html) of the palette’s concept, naming, and promotional photos being cultural appropriative. Deere personally [responded to the criticisms](https://web.archive.org/web/20150317010038/http://www.doedeereblogazine.com/articles/chinadoll-lives-on/) by saying the idea of getting upset over cultural appropriation is “kind of silly” in her non-apology.
+In 2012, Lime Crime released the China Doll eyeshadow palette. Regardless of previous drama, there were [incredibly valid critiques](http://www.portraitofmai.com/2012/01/lime-crime-youre-doing-it-wrong.html) of the palette’s concept, naming, and promotional photos being cultural appropriative. Deere personally [responded to the criticisms](https://web.archive.org/web/20150317010038/http://www.doedeereblogazine.com/articles/chinadoll-lives-on/): her non-apology says getting upset over cultural appropriation is “kind of silly.”
 
 ![](/limecrime-china-doll.jpg)
 
@@ -47,7 +47,7 @@ After years of [customer complaints regarding safety](https://www.refinery29.com
 
 Formulation issues had not ended by 2016. The combination of the ingredients, packaging, and instructions in their Superfoil eyeshadows led to [rust](https://www.youtube.com/watch?v=RQ_Ml2MBqho) and [mold](https://www.reddit.com/r/MakeupAddiction/comments/55qyc9/psa_lime_crime_superfoils_may_have_mold/).
 
-![](/limecrime-rust.png)
+![](/limecrime-rust.jpg)
 ![](/limecrime-mold.png)
 
 Even in 2017, there was [controversy over repackaging](https://ohdeardoedeere.tumblr.com/post/161521856859/brushes-what-brushes) cheap Chinese products for much higher costs and extremely [poor taste social media posts](https://www.youtube.com/watch?v=uXyddaTvgFY).

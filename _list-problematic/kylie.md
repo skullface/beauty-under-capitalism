@@ -3,17 +3,18 @@ list: primary
 company:
   name: "Kylie Cosmetics"
 hashtags:
-  - anti-black
   - ableism
+  - anti-blackness
   - appropriation
   - copyright
 ---
 
  Kylie Jenner is a TV personality, model, and entrepreneur who made her fortune [appropriating black culture](https://nylon.com/articles/kylie-jenner-forbes-cultural-appropriation-black-culture) alongside [her family](https://www.marieclaire.com/celebrity/news/a27683/kardashian-enterprises-cultural-appropriation/). She launched her beauty line, Kylie Cosmetics, in 2015. The brand initially focused on lip products, a logical marketing decision as Kylie rose to mainstream fame the year prior [thanks to her augmented pout](https://www.dailymail.co.uk/tvshowbiz/article-3070852/Kylie-Jenner-17-FINALLY-admits-lip-fillers-big-sister-Khloe-Kardashian-urges-stop-lying.html).
 
-In late 2016, Kylie Cosmetics released a promotional photo bearing a striking resemblance to an earlier [artistic image by makeup artist @vladamua](https://www.instagram.com/p/BNBK41BDyk_/?utm_source=ig_embed). To some, Kylie Cosmetics and Vlada’s styles were so intertwined, an image actually made by Vlada was [assumed to be a new Kylie promo photo](https://www.buzzfeed.com/elliewoodward/this-makeup-artist-is-accusing-kylie-jenner-of-stealing-her). The artist [sued Kylie, Inc.](https://www.harpersbazaar.com/beauty/news/a20109/kylie-jenner-makeup-lawsuit/) and the case was settled. (Vlada’s original, left; Kylie Cosmetics’ copy, right)
+In late 2016, Kylie Cosmetics released a promotional photo bearing a striking resemblance to an earlier [artistic image by makeup artist @vladamua](https://www.instagram.com/p/BNBK41BDyk_/?utm_source=ig_embed). To some, Kylie Cosmetics’ and Vlada’s styles were so intertwined that an image actually made by Vlada was [assumed to be a new Kylie promo photo](https://www.buzzfeed.com/elliewoodward/this-makeup-artist-is-accusing-kylie-jenner-of-stealing-her). The artist [sued Kylie, Inc.](https://www.harpersbazaar.com/beauty/news/a20109/kylie-jenner-makeup-lawsuit/) and the case was settled.
 
-![](/kylie-vlada.png)
+![](/kylie-vlada.jpg)
+_Vlada’s original, left; Kylie Cosmetics’ copy, right_
 
 Apart from this copyright claim, a clothing line Jenner owns with her sister was also [hit with a lawsuit](http://www.latimes.com/entertainment/la-et-entertainment-news-updates-july-kendall-kylie-jenner-lawsuit-1499707015-htmlstory.html) for commercial use of unlicensed photographs.
 

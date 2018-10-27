@@ -3,7 +3,7 @@ list: secondary
 company:
   name: "Colourpop"
 hashtags:
-  - anti-black
+  - anti-blackness
 ---
 
 Super popular budget brand Colourpop is known for a non-stop release cycle. In 2016, they launched highlight and contour sticks in a decent shade range, but the lightest shades got names like “Gummy Bear” and “Castle” while the deepest shades were [“Yikes” and “Typo”](http://affinitymagazine.us/2016/09/19/dear-colour-pop-my-skin-color-is-not-a-typo/). They [quickly renamed the shades](https://twitter.com/Moyooxo/status/778676500308500480) after the public calling out, but never issued a statement.

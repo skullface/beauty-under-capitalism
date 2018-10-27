@@ -3,7 +3,7 @@ list: secondary
 company:
   name: "Tarte Cosmetics"
 hashtags:
-  - anti-black
+  - anti-blackness
 ---
 
 Tarte is a cruelty-free makeup and skincare company founded by Maureen Kelly, a white woman who dropped out of her Ph.D program at Columbia to start her cosmetics empire.

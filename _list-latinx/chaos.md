@@ -2,11 +2,12 @@
 list: primary
 company:
   name: "Chaos Makeup"
-  url: https://www.chaosmakeup.com/
+  url: https://www.chaosmakeup.com
+  location: Texas
   type: Cosmetics
   ingredients:
     - handcrafted
-  description: "made famous by their 2016 viral rainbow highlighter"
+  description: "owned by an award-winning makeup artist"
 product:
   name: "Highlight Intensifer"
   description: "cream base for powder highlights"

@@ -3,7 +3,7 @@ list: secondary
 company:
   name: "Black Opal Beauty"
 hashtags:
-  - anti-black
+  - anti-blackness
   - misogynoir
   - erasure
 ---
