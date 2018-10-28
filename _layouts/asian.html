@@ -3,11 +3,13 @@ layout: default
 ethnicity: asian
 ---
 
-<h1 class="page-title"><span>{{ page.title }}</span></h1>
-
-{% capture intro %}{% include intro.md %}{% endcapture %}
-{% capture intro-secondary %}{% include intro-secondary.md %}{% endcapture %}
-{{ intro | markdownify }}
+<div class="page-upper">
+  <div class="container">
+    <h1 class="page-title"><span>{{ page.title }}</span></h1>
+    {% capture intro %}{% include intro.md %}{% endcapture %}
+    {{ intro | markdownify }}
+  </div>
+</div>
 
 <div class="page-list">
 {% assign listPrimary = site.list-asian | sort: 'title' | where: 'list', 'primary'  %}
@@ -16,10 +18,12 @@ ethnicity: asian
 {% endfor %}
 </div>
 
-<hr>
-<h1 class="page-title"><span>Other Asian owned brands</span></h1>
+<div class="container">
+  <hr>
+  <h1 class="page-title"><span>Other Asian owned brands</span></h1>
 
-{{ intro-secondary | markdownify }}
+  {{ intro-secondary | markdownify }}
+</div>
 
 <div class="page-list">
 {% assign listSecondary = site.list-asian | sort: 'title' | where: 'list', 'secondary'  %}

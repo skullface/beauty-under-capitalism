@@ -3,12 +3,17 @@
 @import "colors";
 @import "type";
 
-body {
-  max-width: 48rem;
+.site-content {
+}
+
+.container {
+  max-width: 51.25rem;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 1rem;
-  padding-right: 1rem;
+  @media (max-width: 850px) {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
 }
 
 hr {

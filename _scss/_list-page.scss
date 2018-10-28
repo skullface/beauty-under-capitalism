@@ -1,0 +1,40 @@
+.page-upper {
+  background-color: $color_black;
+  color: $color_white;
+  padding-bottom: $spacer-3;
+  p, a {
+    color: darken($color_gray, 40%);
+  }
+  a:hover {
+    color: $color_white;
+    text-decoration-color: mix($color_black, $color_gray, 50%);
+  }
+  .container {
+    padding-top: 1.5rem;
+    border-top: solid 1px mix($color_black, $color_gray, 82.5%);
+  }
+}
+
+.problematic-upper {
+  padding-top: $spacer-3;
+}
+
+.page-list {
+  margin-top: 3rem;
+  @media (max-width: 850px) {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+.toc ul {
+  list-style: none;
+  padding-left: 0;
+  column-count: 2;
+  @media (min-width: 500px) {
+    column-count: 3;
+  }
+  @media (min-width: 800px) {
+    column-count: 4;
+  }
+}

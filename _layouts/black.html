@@ -2,11 +2,13 @@
 layout: default
 ---
 
-<h1 class="page-title"><span>{{ page.title }}</span></h1>
-
-{% capture intro %}{% include intro.md %}{% endcapture %}
-{% capture intro-secondary %}{% include intro-secondary.md %}{% endcapture %}
-{{ intro | markdownify }}
+<div class="page-upper">
+  <div class="container">
+    <h1 class="page-title"><span>{{ page.title }}</span></h1>
+    {% capture intro %}{% include intro.md %}{% endcapture %}
+    {{ intro | markdownify }}
+  </div>
+</div>
 
 <div class="page-list">
 {% assign BoB = site.list-black | sort: 'title' | where: 'list', 'primary'  %}
@@ -15,11 +17,13 @@ layout: default
 {% endfor %}
 </div>
 
-<hr>
+<div class="container">
+  <hr>
 
-<h1 class="page-title"><span>Other black owned brands</span></h1>
-
-{{ intro-secondary | markdownify }}
+  <h1 class="page-title"><span>Other Black owned brands</span></h1>
+  {% capture intro-secondary %}{% include intro-secondary.md %}{% endcapture %}
+  {{ intro-secondary | markdownify }}
+</div>
 
 <div class="page-list">
 {% assign other-BoB = site.list-black | sort: 'title' | where: 'list', 'secondary'  %}

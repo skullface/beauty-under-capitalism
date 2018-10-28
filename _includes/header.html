@@ -8,11 +8,7 @@
   <title>{% if page.title %}{{ page.title }} | {% endif %} Beauty Under Capitalism</title>
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-
-  <link rel="apple-touch-icon" href="{PortraitURL-128}">
-  <link rel="shortcut icon" href="{Favicon}">
-  <link rel="alternate" type="application/rss+xml" href="{RSS}">
-
+  <link rel="shortcut icon" href="/assets/favicon.png">
   <meta name="description" content="{{site.description}}"/>
   <meta name="author" content="{{site.author}}"/>
   <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="{{site.baseurl}}/feed.xml" />
@@ -22,4 +18,5 @@
 </head>
 
 <body id="💄">
+
   {% include nav.html %}

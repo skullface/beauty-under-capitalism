@@ -1,23 +1,47 @@
 .site-header {
+  padding: 1rem;
+  background-color: $color_black;
   font-family: $font-family__sans;
-  margin-bottom: $spacer-3;
+  .container {
+    @media (min-width: 500px) {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+  }
 }
 
-.site-title {
-  font-weight: 700;
-  color: inherit;
-  font-size: 75%;
-  letter-spacing: 2px;
-  text-transform: uppercase;
+.site-header_logo {
+  .logotype {
+    fill: $color_white;
+  }
+  .logo-slash {
+    fill: $color_primary;
+  }
+  width: 120px;
+  margin: 0 0 $spacer-1 0;
+  @media (min-width: 500px) {
+    margin: 0 $spacer-3 0 0;
+  }
+}
+
+.site-title:hover .site-header_logo {
+  fill: $color_primary;
 }
 
 .site-nav {
-  display: flex;
-  flex-wrap: wrap;
-  @media (max-width: 600px) {
-    font-size: 1rem;
-  }
   a {
+    color: $color_white;
     margin-right: $spacer-2;
+    font-size: 80%;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    &:last-child {
+      margin-right: 0;
+    }
+    &:hover {
+      color: $color_primary;
+      text-decoration: none;
+    }
   }
 }

@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Under construction! Check out the links above. 💗
+Self-care is important. Capitalism is inescapable. Vote with your wallet. Support independent women of color business owners.

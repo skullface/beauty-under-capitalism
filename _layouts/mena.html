@@ -2,11 +2,13 @@
 layout: default
 ---
 
-<h1 class="page-title"><span>{{ page.title }}</span></h1>
-
-{% capture intro %}{% include intro.md %}{% endcapture %}
-{% capture intro-secondary %}{% include intro-secondary.md %}{% endcapture %}
-{{ intro | markdownify }}
+<div class="page-upper">
+  <div class="container">
+    <h1 class="page-title"><span>{{ page.title }}</span></h1>
+    {% capture intro %}{% include intro.md %}{% endcapture %}
+    {{ intro | markdownify }}
+  </div>
+</div>
 
 <div class="page-list">
 {% assign listPrimary = site.list-mena | sort: 'title' | where: 'list', 'primary' %}
@@ -15,20 +17,17 @@ layout: default
 {% endfor %}
 </div>
 
-
-{% capture listSecondaryHasPosts = site.list-mena | where: 'list', 'secondary' | size > 0 %}{% endcapture %}
-{% if listSecondaryHasPosts %}
+<div class="container">
   <hr>
 
-  <h1 class="page-title"><span>Other MENA owned brands</span></h1>
-
+  <h1 class="page-title"><span>Other Middle Eastern and North African owned brands</span></h1>
+  {% capture intro-secondary %}{% include intro-secondary.md %}{% endcapture %}
   {{ intro-secondary | markdownify }}
+</div>
 
-  <div class="page-list">
-  {% assign listSecondary = site.list-mena | sort: 'title' | where: 'list', 'secondary'  %}
-  {% for post in listSecondary %}
-    {% include list-entry.html %}
-  {% endfor %}
-  </div>
-{% else %}
-{% endif %}
+<div class="page-list">
+{% assign listSecondary = site.list-mena | sort: 'title' | where: 'list', 'secondary'  %}
+{% for post in listSecondary %}
+  {% include list-entry.html %}
+{% endfor %}
+</div>

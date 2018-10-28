@@ -10,7 +10,7 @@ body {
 h1 {
   font-family: "lust", serif;
   font-size: 5rem;
-  line-height: 1.1;
+  line-height: 1;
   @media (max-width: 850px) {
     font-size: 3rem;
   }
@@ -41,12 +41,16 @@ h4 a {
   color: inherit;
 }
 
+h4 {
+  margin-top: $spacer-3;
+}
+
 a {
   color: $color_primary;
   &:hover,
   &:focus,
   &:active {
-    text-decoration-color: #ddd;
+    text-decoration-color: $color_gray;
     color: inherit;
   }
 }

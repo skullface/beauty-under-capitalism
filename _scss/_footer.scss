@@ -8,6 +8,7 @@
   align-items: center;
   justify-content: center;
   border-radius: 50%;
+  font-family: $font-family__sans;
   color: $color_white;
   background-color: $color_primary;
   text-align: center;
@@ -15,5 +16,16 @@
     text-decoration: none;
     color: $color_white;
     background: $color_black;
+  }
+}
+
+.site-footer {
+  margin-top: 2rem;
+  padding: 2rem 0;
+  font-family: $font-family__sans;
+  background-color: $color_gray;
+  a {
+    color: $color_black;
+    margin-right: 1rem;
   }
 }

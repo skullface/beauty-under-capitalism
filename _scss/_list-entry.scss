@@ -1,9 +1,9 @@
 .company {
-  margin-bottom: $spacer-3;
+  margin-top: $spacer-3;
   max-width: 36rem;
   margin-left: auto;
   margin-right: auto;
-  &:before {
+  &:not(:first-child):before {
     display: block;
     content: "—";
     color: $color_gray;

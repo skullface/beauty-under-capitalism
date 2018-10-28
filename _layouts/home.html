@@ -2,4 +2,20 @@
 layout: default
 ---
 
-{{ content }}
+<div class="container">
+  <div id="about">
+    {{ page.content | markdownify }}
+  </div>
+
+  <div id="contact">
+    <h3>Suggestions?</h3>
+    <p>
+      If you’d like to add company to the database, fill out this form:
+    </p>
+
+    <h3>Problems?</h3>
+    <p>
+      If any information is incorrect, misrespresented, or you’d like the publicly available information removed, please contact us.
+    </p>
+  </div>
+</div>

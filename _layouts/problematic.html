@@ -2,41 +2,41 @@
 layout: default
 ---
 
-{{ page.content }}
+<div class="problematic-upper container">
+  <h1 class="page-title"><span>{{ page.title }}</span></h1>
 
-<h1 class="page-title"><span>{{ page.title }}</span></h1>
-
-<p>
-  The following lists serve as a ledger of beauty brands’ behavior regarding <strong>(content warning)</strong> racism, anti-blackness, misogyny, homophobia, violent language, and religious and ethnic discrimination. Sources are linked within the text and images retain copyright to their respectful owners.
-</p>
-<p>
-  Make informed purchase decisions at your own discretion. Vote with your wallet.
-</p>
+  <p>
+    The following lists serve as a ledger of beauty brands’ behavior regarding <strong>(content warning)</strong> racism, anti-blackness, misogyny, homophobia, violent language, and religious and ethnic discrimination. Sources are linked within the text and images retain copyright to their respectful owners.
+  </p>
+  <p>
+    Make informed purchase decisions at your own discretion.
+  </p>
 
 {% assign listPrimary = site.list-problematic | sort: 'title' | where: 'list', 'primary'  %}
 {% assign listSecondary = site.list-problematic | sort: 'title' | where: 'list', 'secondary'  %}
 
-<nav class="toc">
-  <h4><a href="#avoid">Do not support these brands:</a></h4>
-  <ul>
-  {% for post in listPrimary %}
-    <li>
-      <a href="#{{ post.company.name | slugify }}">{{ post.company.name }}</a>
-    </li>
-  {% endfor %}
-  </ul>
-  <h4><a href="#receipts">Collected receipts:</a></h4>
-  <ul>
-  {% for post in listSecondary %}
-    <li>
-      <a href="#{{ post.company.name | slugify }}">{{ post.company.name }}</a>
-    </li>
-  {% endfor %}
-</nav>
-<hr>
+  <nav class="toc">
+    <h4><a href="#avoid">Do not support these brands:</a></h4>
+    <ul>
+    {% for post in listPrimary %}
+      <li>
+        <a href="#{{ post.company.name | slugify }}">{{ post.company.name }}</a>
+      </li>
+    {% endfor %}
+    </ul>
+    <h4><a href="#receipts">Collected receipts:</a></h4>
+    <ul class="secondary-list">
+    {% for post in listSecondary %}
+      <li>
+        <a href="#{{ post.company.name | slugify }}">{{ post.company.name }}</a>
+      </li>
+    {% endfor %}
+  </nav>
+  <hr>
 
-<h2 id="avoid">Do not support these brands</h2>
-<p><em>Major repeat offenders to avoid.</em></p>
+  <h2 id="avoid">Do not support these brands</h2>
+  <p><em>Major repeat offenders to avoid.</em></p>
+</div>
 
 <div class="page-list problematic-list">
 {% for post in listPrimary %}
@@ -44,14 +44,16 @@ layout: default
 {% endfor %}
 </div>
 
-<hr>
+<div class="container">
+  <hr>
 
-<h1 class="page-title" id="receipts"><span>Collected receipts</span></h1>
-<p>
-  <em>
-    Isolated incidents, questionable behavior, repeated patterns, cleared up scandals&hellip;
-  </em>
-</p>
+  <h1 class="page-title" id="receipts"><span>Collected receipts</span></h1>
+  <p>
+    <em>
+      Isolated incidents, questionable behavior, repeated patterns, cleared up scandals&hellip;
+    </em>
+  </p>
+</div>
 
 <div class="page-list problematic-list">
 {% assign listSecondary = site.list-problematic | sort: 'title' | where: 'list', 'secondary'  %}
