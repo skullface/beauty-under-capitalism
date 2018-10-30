@@ -6,7 +6,8 @@ company:
     shop: https://formbeauty.com
     Sephora: https://go.magik.ly/ml/gkuq
   location: San Francisco, CA
-  cruelty-free: true
+  ingredients:
+    cruelty-free
   type: Haircare
   description: "for all textures, for people of all ethnic backgrounds"
 product:
