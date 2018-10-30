@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Ouidad"
-  url: https://www.ouidad.com
+  url:
+    shop: https://www.ouidad.com
   type: Haircare
   description: "dedicated to empowering individuals with curls"
 product:

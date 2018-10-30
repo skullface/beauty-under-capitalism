@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Heritage 1933"
-  url: http://www.heritage1933.com
+  url:
+    shop: http://www.heritage1933.com
   type: "Skin, bath, and haircare"
   description: "to challenge society’s narrow perception of beauty"
   location: St. Louis, MO

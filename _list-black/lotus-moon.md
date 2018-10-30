@@ -2,11 +2,12 @@
 list: primary
 company:
   name: "Lotus Moon"
-  url: https://lotusmoonskincare.com/
+  url:
+    shop: https://lotusmoonskincare.com
   type: "Skincare"
   ingredients:
-    - vegan
-    - organic
+    - vegan🌱
+    - organic💧
   description: " made because fresh ingredients feel better"
 product:
   name: "cleansing gels"

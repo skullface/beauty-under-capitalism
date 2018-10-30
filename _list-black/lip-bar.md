@@ -2,7 +2,9 @@
 list: primary
 company:
   name: "The Lip Bar"
-  url: https://www.thelipbar.com
+  url:
+    shop: https://www.thelipbar.com
+    Target: https://go.magik.ly/ml/guis
   type: Cosmetics
   description: "exploring beauty through diversity and fun"
 product:

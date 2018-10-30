@@ -2,11 +2,12 @@
 list: primary
 company:
   name: "Repère Care"
-  url: https://www.sheaterraorganics.com
+  url:
+    shop: https://www.sheaterraorganics.com
   type: Skincare and haircare
   location: UAE
   ingredients:
-    - organic
+    - organic💧
   description: "that values beauty rituals embraced by women around the world"
 product:
   name: "prickly pear seed oil collection"

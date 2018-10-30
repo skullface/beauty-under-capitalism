@@ -2,10 +2,11 @@
 list: primary
 company:
   name: "Izil Beauty"
-  url: https://www.izilbeauty.com
+  url:
+    shop: https://www.izilbeauty.com
   type: Skincare
   ingredients:
-    - organic
+    - organic💧
   description: "to make certain that your beauty ritual is as effective as it is enjoyable"
 product:
   name: "green tea antioxidant face mask"

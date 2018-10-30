@@ -2,7 +2,13 @@
 list: primary
 company:
   name: Camille Rose Naturals
-  url: https://www.camillerosenaturals.com
+  url:
+    shop: https://www.camillerosenaturals.com
+    Naturally Curly: https://shop.naturallycurly.com/brands/Camille-Rose-Naturals.html
+    Target: https://go.magik.ly/ml/gugr
+    Sally Beauty: https://go.magik.ly/ml/gugt
+    Walmart: https://go.magik.ly/ml/gugu
+    Walgreens: https://go.magik.ly/ml/gugw
   type: Body and Haircare
   description: "for the conscious consumer"
 product:

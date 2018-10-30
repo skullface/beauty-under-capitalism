@@ -2,12 +2,13 @@
 list: primary
 company:
   name: "Laws of Nature Cosmetics"
-  url: https://www.lawsofnaturecosmetics.com
+  url:
+    shop: https://www.lawsofnaturecosmetics.com
   type: "Cosmetics"
   ingredients:
-    - organic
-    - non-toxic
-    - vegan
+    - organic💧
+    - non-toxic⭐️
+    - vegan🌱
   description: "for women of color"
 product:
   name: "silicone-free mineral foundations"

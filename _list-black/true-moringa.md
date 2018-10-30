@@ -2,7 +2,8 @@
 list: secondary
 company:
   name: "True Moringa"
-  url: https://truemoringa.com
+  url:
+    shop: https://truemoringa.com
   type: Skincare
   description: "that serves 2,500 small family farmers across Ghana"
 product:

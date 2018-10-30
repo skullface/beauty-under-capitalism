@@ -2,7 +2,10 @@
 list: primary
 company:
   name: The Doux
-  url: https://thedoux.com/
+  url:
+    shop: https://thedoux.com
+    Naturally Curly: https://shop.naturallycurly.com/brands/The-Doux.html
+    Target: https://go.magik.ly/ml/guh5
   type: Haircare
   location: Macon, GA
   description: "designed to give a salon-worthy look between regular salon visits"

@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "A.P.D.G"
-  url: https://www.apdg.co
+  url:
+    shop: https://www.apdg.co
   location: Alabama
   type: Cosmetics
   description: "designed to withstand heat and humidity of the U.S. South"

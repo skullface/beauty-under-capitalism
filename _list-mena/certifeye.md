@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Certifeye"
-  url: http://certifeye.co.uk
+  url:
+    shop: http://certifeye.co.uk
   type: Cosmetics
   location: London, UK
   description: "and grooming products from a Desi brand"

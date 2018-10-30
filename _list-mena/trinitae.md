@@ -2,11 +2,12 @@
 list: secondary
 company:
   name: "Trinitae"
-  url: http://trinitae.com
+  url:
+    shop: http://trinitae.com
   type: Skincare
   ingredients:
-    - organic
-    - handcrafted
+    - organic💧
+    - handcrafted💗
   location: Jordan
   description: "made with love and care using precious ingredients found in Jordan"
 product:

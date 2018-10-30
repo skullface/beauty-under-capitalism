@@ -2,11 +2,12 @@
 list: primary
 company:
   name: "Shiro Cosmetics"
-  url: https://shirocosmetics.com/
+  url: 
+    shop: https://shirocosmetics.com/
   type: Cosmetics
   ingredients:
-    - vegan
-    - handcrafted
+    - vegan🌱
+    - handcrafted💗
   description: "making nerds sparkly since 2010"
 product:
   name: "loose eyeshadows"

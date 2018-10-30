@@ -2,12 +2,16 @@
 list: primary
 company:
   name: "Soultanicals"
-  url: https://soultanicals.com
+  url:
+    shop: https://soultanicals.com
+    Naturally Curly: https://shop.naturallycurly.com/brands/Soultanicals.html
+    Sally Beauty: https://go.magik.ly/ml/gum5
+    Target: https://go.magik.ly/ml/gum6
   type: "Haircare and bodycare"
   ingredients:
-    - vegan
-    - non-toxic
-    - handcrafted
+    - vegan🌱
+    - non-toxic⭐️
+    - handcrafted💗
   location: "Queen Creek, AZ"
   description: "products that are soul-infused and melanin-inspired"
 product:

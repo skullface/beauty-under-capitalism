@@ -2,10 +2,11 @@
 list: secondary
 company:
   name: "YLLO Beauty"
-  url: https://yllobeauty.com
+  url: 
+    shop: https://yllobeauty.com
   type: Skin and bodycare
   ingredients:
-    - vegan
+    - vegan🌱
   predicate: true
   description: "Turmeric-based"
 product:

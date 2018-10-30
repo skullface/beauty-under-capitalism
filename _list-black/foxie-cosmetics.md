@@ -2,11 +2,12 @@
 list: primary
 company:
   predicate: true
-  name: "Foxie Bombs"
-  url: https://foxiebombs.com
+  name: "Foxie Cosmetics"
+  url:
+    shop: https://foxiecosmetics.com
   ingredients:
-    - vegan
-    - handcrafted
+    - vegan🌱
+    - handcrafted💗
   description: "Made for multiple uses, 100%"
   type: "skin, bath, body, and hair care"
   location: Nashville, TN

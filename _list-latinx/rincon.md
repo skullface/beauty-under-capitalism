@@ -3,7 +3,8 @@
 ethnicity: latina
 company:
   name: "Rincón Cosmetics"
-  url: https://www.rinconcosmetics.com
+  url:
+    shop: https://www.rinconcosmetics.com
   type: "Cosmetics"
   description: "that connect beauty trendsetters"
 product:

@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Glossy Make Up"
-  url: https://glossymakeup.com/
+  url:
+    shop: https://glossymakeup.com/
   type: Cosmetics and beauty tools
   location: UAE
   description: "to help women look like the most beautiful version of themselves"

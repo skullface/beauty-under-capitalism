@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Bésame"
-  url: https://besamecosmetics.com/
+  url:
+    shop: https://besamecosmetics.com
   type: Cosmetics
   description: "honoring the style, spirit, & sensibility of female beauty"
 product:

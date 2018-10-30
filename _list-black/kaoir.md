@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Ka`oir"
-  url: http://kaoir.com
+  url:
+    shop: http://kaoir.com
   type: Cosmetics
   description: "built around luscious lips"
 product:

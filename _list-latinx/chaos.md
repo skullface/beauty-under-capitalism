@@ -2,11 +2,12 @@
 list: primary
 company:
   name: "Chaos Makeup"
-  url: https://www.chaosmakeup.com
+  url:
+    shop: https://www.chaosmakeup.com
   location: Texas
   type: Cosmetics
   ingredients:
-    - handcrafted
+    - handcrafted💗
   description: "owned by an award-winning makeup artist"
 product:
   name: "Highlight Intensifer"

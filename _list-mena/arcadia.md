@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Arcadia Fragrances"
-  url: https://arcadiame.co
+  url:
+    shop: https://arcadiame.co
   type: Fragrance
   location: UAE
   description: "focused on the power of scents"

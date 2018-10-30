@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Tatcha"
-  url: https://go.magik.ly/ml/gmii
+  url: 
+    shop: https://go.magik.ly/ml/gmii
   type: Skincare
   description: "inspired by ancient beauty rituals of Japan"
 product:

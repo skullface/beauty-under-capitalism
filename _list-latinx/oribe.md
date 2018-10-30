@@ -2,7 +2,8 @@
 list: secondary
 company:
   name: "Oribe"
-  url: https://www.oribe.com
+  url:
+    shop: https://www.oribe.com
   type: Haircare
   description: "for the hair obsessed"
 product:

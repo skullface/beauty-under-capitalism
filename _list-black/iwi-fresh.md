@@ -2,10 +2,11 @@
 list: primary
 company:
   name: "iwi fresh"
-  url: https://www.beeqbox.com/
+  url:
+    shop: https://www.iwifresh.com
   ingredients:
-    - handcrafted
-    - organic
+    - handcrafted💗
+    - organic💧
   location: Atlanta, GA
   type: Skincare
   description: "with farm-to-body garden fresh formulations (and a full-service day spa)"

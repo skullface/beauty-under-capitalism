@@ -2,7 +2,10 @@
 list: primary
 company:
   name: Curl Junkie
-  url: https://www.curljunkie.com
+  url:
+    shop: https://www.curljunkie.com
+    Naturally Curly: https://shop.naturallycurly.com/brands/Curl-Junkie.html
+    Walmart: https://go.magik.ly/ml/gugy/
   type: Haircare
   description: "designed to be the brand every person with textured hair can’t live without"
 product:

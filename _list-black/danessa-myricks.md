@@ -2,7 +2,9 @@
 list: primary
 company:
   name: "Danessa Myricks Beauty"
-  url: https://www.danessamyricksbeauty.com
+  url:
+    shop: https://www.danessamyricksbeauty.com
+    Camera Ready: https://camerareadycosmetics.com/collections/danessa-myricks-beauty
   type: Cosmetics
   description: "from the mindset of the makeup artist"
 product:

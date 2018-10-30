@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Yüli"
-  url: https://www.yuliskincare.com
+  url: 
+    shop: https://www.yuliskincare.com
   location: NY, NY
   type: Skincare
   description: "Results-driven"

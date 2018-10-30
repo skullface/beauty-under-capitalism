@@ -2,11 +2,12 @@
 list: primary
 company:
   name: "Necromancy Cosmetica"
-  url: https://necromancycosmetica.com
+  url:
+    shop: https://necromancycosmetica.com
   type: Cosmetics
   ingredients:
-    - vegan
-    - handcrafted
+    - vegan🌱
+    - handcrafted💗
   description: "focused on gloomy and striking lipsticks"
 product:
   name: "signature matte lipsticks"

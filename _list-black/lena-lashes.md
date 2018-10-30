@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Lena Lashes"
-  url: http://go.magik.ly/ml/7fth
+  url:
+    shop: http://go.magik.ly/ml/7fth
   type: Cosmetics
   description: "centered around luxury lashes"
 product:

@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Shiffa"
-  url: http://www.shiffa.com/
+  url:
+    shop: http://www.shiffa.com
   type: Skincare and fragrances
   description: "for people who care about wellness as well as beauty"
 product:

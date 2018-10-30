@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Lamik Beauty"
-  url: http://www.lamik-beauty.com/
+  url:
+    shop: http://www.lamik-beauty.com
   type: "Cosmetics and skincare"
   predicate: true
   location: "Houston, TX"

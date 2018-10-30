@@ -2,7 +2,11 @@
 list: primary
 company:
   name: "Miss Jessie’s"
-  url: http://go.magik.ly/ml/7gko
+  url:
+    shop: http://missjessies.com/
+    Sally Beauty: https://go.magik.ly/ml/gulp
+    Target: http://go.magik.ly/ml/7gko
+    Walmart: https://go.magik.ly/ml/gulo
   type: Haircare
   description: "for styling curly, kinky, and wavy hair of all types and textures"
 product:

@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Brushfolio by Priscilla Ono"
-  url: http://www.brushfolio.com/
+  url:
+    shop: http://www.brushfolio.com
   type: Beauty tools
   description: "&mdash; Innovative cosmetic brush travel cases"
 product:

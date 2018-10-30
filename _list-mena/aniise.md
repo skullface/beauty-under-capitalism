@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Aniise"
-  url: https://aniise.com
+  url:
+    shop: https://aniise.com
   type: Skincare
   description: "feeding the skin from the outside"
 product:

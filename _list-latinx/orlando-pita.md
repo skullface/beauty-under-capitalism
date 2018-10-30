@@ -2,7 +2,8 @@
 list: secondary
 company:
   name: "Orlando Pita Play"
-  url: https://orlandopitaplay.com/
+  url:
+    shop: https://orlandopitaplay.com/
   type: Haircare
   description: "to achieve your hair goals"
 product:
@@ -14,5 +15,5 @@ owner:
   flag: "🇨🇺"
   title: "celebrity hairdresser"
   name: "Orlando Pita"
-  url: "https://orlandopitaplay.com/pages/about"
+  url: https://orlandopitaplay.com/pages/about
 ---

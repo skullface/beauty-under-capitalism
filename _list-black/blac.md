@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "BLAC Mineral Cosmetics"
-  url: https://www.blacminerals.com/
+  url:
+    shop: https://www.blacminerals.com
   type: Cosmetics
   description: "made naturally for women of color"
 product:

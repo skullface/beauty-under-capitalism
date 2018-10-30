@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Peach and Lily"
-  url: https://go.magik.ly/ml/gmk2/
+  url: 
+    shop: https://go.magik.ly/ml/gmk2/
   location: NYC
   type: Skincare
   description: "curated by experts based on the formula innovations of Korea"

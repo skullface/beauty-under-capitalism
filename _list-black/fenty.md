@@ -2,7 +2,10 @@
 list: primary
 company:
   name: "Fenty Beauty"
-  url: http://go.magik.ly/ml/7ftq
+  url:
+    shop: https://www.fentybeauty.com
+    Sephora: http://go.magik.ly/ml/7ftq
+    Harvey Nichols 🇬🇧: https://www.harveynichols.com/brand/fenty-beauty/home/
   type: Cosmetics
   description: "built on inclusivity"
 product:

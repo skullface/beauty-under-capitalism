@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Sienna Naturals"
-  url: https://www.siennanaturals.com
+  url:
+    shop: https://www.siennanaturals.com
   type: Haircare and skincare
   description: "&mdash; effective, natural products for textured hair and dry skin"
 product:

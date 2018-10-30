@@ -3,8 +3,9 @@ list: primary
 company:
   name: "Koyvoca"
   ingredients:
-    - handcrafted
-  url: https://koyvoca.com
+    - handcrafted💗
+  url:
+    shop: https://koyvoca.com
   type: Cosmetics
   description: "exclusively for brown beauties"
 product:

@@ -2,7 +2,9 @@
 list: secondary
 company:
   name: "FORM Beauty"
-  url: https://formbeauty.com/
+  url:
+    shop: https://formbeauty.com
+    Sephora: https://go.magik.ly/ml/gkuq
   location: San Francisco, CA
   cruelty-free: true
   type: Haircare
@@ -15,8 +17,9 @@ owner:
   type: company
   company:
     name: "Walker & Company"
+    url: https://walkerandcompany.com
     owner-founder:
       title: CEO
       name: "Tristan Walker"
-      url: https://walkerandcompany.com/
+      url: https://www.entrepreneur.com/article/296088
 ---

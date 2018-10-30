@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Ayele"
-  url: https://ayele.co/
+  url:
+    shop: https://ayele.co
   type: Skincare and Cosmetics
   description: "for women of every color, started by a college student"
 product:

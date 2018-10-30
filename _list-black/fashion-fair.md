@@ -2,7 +2,10 @@
 list: primary
 company:
   name: "Fashion Fair"
-  url: http://www.fashionfair.com
+  url:
+    shop: http://www.fashionfair.com
+    Macy’s: https://go.magik.ly/ml/guhm/
+    Dillard’s: https://go.magik.ly/ml/guhn/
   type: Cosmetics
   description: "addressing Black women’s needs since 1973"
 product:

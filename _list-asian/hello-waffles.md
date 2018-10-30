@@ -2,9 +2,10 @@
 list: primary
 company:
   name: "Hello Waffle"
-  url: http://hellowafflecosmetics.com/
+  url: 
+    shop: http://hellowafflecosmetics.com/
   ingredients:
-    - vegan
+    - vegan🌱
   type: Cosmetics
   description: "celebrating fairytales and cats"
 product:

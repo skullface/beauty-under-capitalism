@@ -2,11 +2,15 @@
 list: primary
 company:
   name: "Oyin Handmade"
-  url: https://oyinhandmade.com/
+  url:
+    shop: https://oyinhandmade.com
+    CVS: https://go.magik.ly/ml/gum1
+    Naturally Curly: https://shop.naturallycurly.com/brands/Oyin-Handmade.html
+    Target: https://go.magik.ly/ml/gulz
   type: "Haircare"
   location: "Baltimore, MD"
   ingredients:
-    - handcrafted
+    - handcrafted💗
   predicate: true
   description: "100%"
 product:

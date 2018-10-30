@@ -2,7 +2,8 @@
 list: secondary
 company:
   name: "Sacha"
-  url: http://go.magik.ly/ml/7ftd
+  url: 
+    shop: http://go.magik.ly/ml/7ftd
   type: Cosmetics
   description: "for women of color since 1973 (the first makeup company to be halal-certified)"
 product:

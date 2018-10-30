@@ -2,7 +2,8 @@
 list: secondary
 company:
   name: "Julep"
-  url: https://go.magik.ly/ml/gmjc
+  url: 
+    shop: https://go.magik.ly/ml/gmjc
   type: Cosmetics, skincare, and nailcare
   description: "Effortless"
   predicate: true

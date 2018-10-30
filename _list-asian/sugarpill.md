@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Sugarpill"
-  url: https://go.magik.ly/ml/gmix
+  url: 
+    shop: https://go.magik.ly/ml/gmix
   location: Los Angeles, CA
   type: Cosmetics
   description: "Vibrant, unapologetically fun, creativity-inspiring"

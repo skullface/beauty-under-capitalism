@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "A Complete"
-  url: https://acomplete.com/
+  url:
+    shop: https://acomplete.com
   type: Skincare
   description: "committed to complimenting a woman’s true beauty inside out"
 product:

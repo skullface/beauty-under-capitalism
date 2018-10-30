@@ -2,7 +2,11 @@
 list: secondary
 company:
   name: "IMAN Cosmetics"
-  url: https://imancosmetics.com
+  url:
+    shop: https://imancosmetics.com
+    Target: https://go.magik.ly/ml/guim
+    Walgreens: https://go.magik.ly/ml/guii
+    Walmart: https://go.magik.ly/ml/guio
   type: Cosmetics
   description: "specifically for multicutural women since 1994"
 product:

@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Cryptic Cosmetics"
-  url: https://crypticcosmetics.com/
+  url:
+    shop: https://crypticcosmetics.com
   type: Cosmetics
   description: "for the obscure"
 product:

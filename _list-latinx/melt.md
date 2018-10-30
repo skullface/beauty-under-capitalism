@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Melt Cosmetics"
-  url: https://www.meltcosmetics.com
+  url:
+    shop: https://www.meltcosmetics.com
   type: Cosmetics
   description: "built on brave colors"
 product:

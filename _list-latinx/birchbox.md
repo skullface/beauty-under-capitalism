@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Birchbox"
-  url: https://www.birchbox.com/
+  url:
+    shop: https://www.birchbox.com
   type: Subscription box
   description: "The original online skincare, haircare, and cosmetics"
   predicate: yes

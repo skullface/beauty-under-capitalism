@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Sigma Beauty"
-  url: https://go.magik.ly/ml/gmbx
+  url:
+    shop: https://go.magik.ly/ml/gmbx
   type: Cosmetics and beauty tools
   description: "that provide beauty enthusiasts with the latest innovations"
 product:

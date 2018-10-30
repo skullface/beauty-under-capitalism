@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Gold Label Cosmetics"
-  url: https://www.goldlabelcosmetics.com
+  url:
+    shop: https://www.goldlabelcosmetics.com
   type: Cosmetics
   description: "supporting the ambitious beauty enthusiast"
 product:

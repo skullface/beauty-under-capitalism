@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Blush Tribe Cosmetics"
-  url: https://blushtribe.com
+  url:
+    shop: https://blushtribe.com
   type: Cosmetics
   location: London, UK
   description: "&mdash; 10% from each sale will fund a water well in Somalia"

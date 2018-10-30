@@ -2,12 +2,13 @@
 list: primary
 company:
   name: "BGLH Marketplace"
-  url: https://bglh-marketplace.com
+  url:
+    shop: https://bglh-marketplace.com
   location: Brooklyn, NY
   ingredients:
-    - handcrafted
-  type: Cosmetics
-  description: "with a sweet spin"
+    - handcrafted💗
+  type: Haircare and skincare
+  description: "from the woman behind a top‐ranked natural hair and beauty site"
 product:
   predicate: true
   name: African Black Soap

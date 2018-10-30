@@ -2,10 +2,11 @@
 list: primary
 company:
   name: "Kaylux"
-  url: http://www.kayluxcosmetics.com/
+  url:
+    shop: http://www.kayluxcosmetics.com/
   type: "Cosmetics"
   ingredients:
-    - "Made in the USA"
+    - "made in the usa📍"
   description: "made with love"
 product:
   name: "highlighting body oil"

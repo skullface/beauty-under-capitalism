@@ -2,7 +2,8 @@
 list: primary
 company:
   name: The Glamatory
-  url: https://www.theglamatory.com/
+  url:
+    shop: https://www.theglamatory.com
   type: Cosmetics
   location: Atlanta, GA
   description: "sold at the flagship shop and studio"

@@ -2,10 +2,11 @@
 list: primary
 company:
   name: "Benu Cosmetics"
-  url: https://benucosmetics.com/
+  url:
+    shop: https://benucosmetics.com
   ingredients:
-    - vegan
-    - handcrafted
+    - vegan🌱
+    - handcrafted💗
   location: "Chicago, IL"
   type: Skincare
   description: "celebrating diversity in people and skin"

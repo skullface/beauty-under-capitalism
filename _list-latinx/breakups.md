@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Breakups to Makeup"
-  url: http://breakupstomakeup.com
+  url:
+    shop: http://breakupstomakeup.com
   type: Accessories & apparel
   description: "spreading the power of makeup, one accessory at a time"
 product:

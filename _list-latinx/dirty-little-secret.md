@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Dirty Little Secret Cosmetics"
-  url: https://www.shopdirtylittlesecret.com/
+  url:
+    shop: https://www.shopdirtylittlesecret.com
   type: Cosmetics
   description: "Affordable and slay-worthy"
   predicate: true

@@ -6,7 +6,7 @@ company:
   type: Skincare and bodycare
   location: UK
   ingredients:
-    - organic
+    - organic💧
   description: "infusing color therapy into your day, without wearing color"
 product:
   name: "5-item travel set"

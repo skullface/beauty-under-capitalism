@@ -2,11 +2,12 @@
 list: primary
 company:
   name: "JINsoon"
-  url: https://go.magik.ly/ml/gmjn
+  url: 
+    shop: https://go.magik.ly/ml/gmjn
   location: NY, NY
   type: Nailcare
   ingredients:
-    - vegan
+    - vegan🌱
   description: "embodying elegant simplicity, always 9-free"
 product:
   name: "nail polish collection"

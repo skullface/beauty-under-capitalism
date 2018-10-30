@@ -2,11 +2,12 @@
 list: primary
 company:
   name: "Ahimsa Essentials"
-  url: http://www.ahimsaessentials.com
+  url:
+    shop: http://www.ahimsaessentials.com
   location: Phoenix, AZ
   ingredients:
-    - vegan
-    - handcrafted
+    - vegan🌱
+    - handcrafted💗
   type: Skincare
   description: "that relieves, repairs, and renews"
 product:

@@ -1,8 +1,9 @@
 ---
 list: primary
 company:
-  name: "Vera Moore Cosmetic"
-  url: http://www.veramoorecosmetics.com/
+  name: "Vera Moore Cosmetics"
+  url:
+    shop: http://www.veramoorecosmetics.com/
   type: "Cosmetics and skincare"
   description: "made affordably, from dark to light"
 product:

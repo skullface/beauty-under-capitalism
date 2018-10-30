@@ -2,7 +2,11 @@
 list: primary
 company:
   name: "Earth’s Nectar"
-  url: http://go.magik.ly/ml/7gjm
+  url:
+    shop: http://earthsnectar.com
+    Sephora: http://go.magik.ly/ml/7gjm
+    Ulta: https://go.magik.ly/ml/guhf
+    Beautylish: https://go.magik.ly/ml/guhc
   type: Haircare
   description: "inspired by natural curls"
 product:

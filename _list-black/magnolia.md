@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Magnolia Makeup"
-  url: http://www.magnoliamakeup.com
+  url:
+    shop: http://www.magnoliamakeup.com
   type: "Cosmetics"
   location: New Orleans, LA
   description: "devoted to filling a pigmented void in the cosmetic industry"

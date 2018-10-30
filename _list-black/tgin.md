@@ -2,10 +2,13 @@
 list: primary
 company:
   name: "tgin (Thank God It’s Natural)"
-  url: https://thankgoditsnatural.com/
+  url:
+    shop: https://thankgoditsnatural.com
+    CGS: https://go.magik.ly/ml/gumc
+    Sally Beauty: https://go.magik.ly/ml/guma
   type: "Haircare"
   ingredients:
-    - organic
+    - organic💧
   description: "designed to kiss dryness goodbye"
 product:
   predicate: true

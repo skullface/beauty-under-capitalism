@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Bettina Cosmetics"
-  url: https://bettinacosmetics.com
+  url:
+    shop: https://bettinacosmetics.com
   location: Dorado, PR
   type: Cosmetics and Nailcare
   description: "Affordable"

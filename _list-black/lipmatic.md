@@ -2,10 +2,11 @@
 list: primary
 company:
   name: "Lipmatic"
-  url: https://www.lipmatic.com/
+  url:
+    shop: https://www.lipmatic.com/
   type: "Cosmetics"
   ingredients:
-    - organic
+    - organic💧
   description: "centered only on the lips"
 product:
   predicate: true

@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Reina Rebelde"
-  url: https://reinarebelde.com
+  url:
+    shop: https://reinarebelde.com
   type: Cosmetics
   description: "for today’s ambitious multicutural woman"
 product:

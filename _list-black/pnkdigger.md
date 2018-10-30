@@ -2,11 +2,13 @@
 list: primary
 company:
   name: "Pnk Digger"
-  url: https://www.pnkdigger.com
+  url:
+    shop: https://www.pnkdigger.com
+    Glamatory: http://www.theglamatory.com/makeup-store#!/~/search/keyword=pnk%20digger&offset=0&sort=relevance
   type: "Cosmetics"
   ingredients:
-    - vegan
-    - handcrafted
+    - vegan🌱
+    - handcrafted💗
   description: "focused on lips"
 product:
   predicate: true

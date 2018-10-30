@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Joanna Vargas"
-  url: https://joannavargas.com/
+  url:
+    shop: https://joannavargas.com/
   type: Skincare
   description: "committed to plant-based ingredients and science"
 product:

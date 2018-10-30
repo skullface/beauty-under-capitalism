@@ -2,11 +2,12 @@
 list: primary
 company:
   name: "Plain Jane Beauty"
-  url: https://plainjanebeauty.net
+  url:
+    shop: https://plainjanebeauty.net
   type: "Cosmetics"
   ingredients:
-    - vegan
-    - organic
+    - vegan🌱
+    - organic💧
   description: "encompassing all shades and tones using natural ingredients"
 product:
   predicate: true

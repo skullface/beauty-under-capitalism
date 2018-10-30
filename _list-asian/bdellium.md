@@ -2,7 +2,8 @@
 list: secondary
 company:
   name: "Bdellium Tools"
-  url: https://go.magik.ly/ml/gmi6
+  url:
+    shop: https://go.magik.ly/ml/gmi6
   type: Beauty tools
   location: Cerritos, CA
   description: "&ldquo;for that professional touch&rdquo;"

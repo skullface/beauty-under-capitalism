@@ -2,7 +2,8 @@
 list: secondary
 company:
   name: "Artist Couture"
-  url: https://go.magik.ly/ml/gmg7
+  url:
+    shop: https://go.magik.ly/ml/gmg7
   type: Cosmetics
   description: "centered around a blinding glow"
 product:

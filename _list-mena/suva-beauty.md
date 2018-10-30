@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "SUVA Beauty"
-  url: https://www.suvabeauty.com
+  url:
+    shop: https://www.suvabeauty.com
   type: Cosmetics
   description: "that aim to excite and spark good spirit in every artist or creator"
 product:

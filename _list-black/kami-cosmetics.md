@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Kami Cosmetics"
-  url: https://www.kamicosmetics.com/
+  url:
+    shop: https://www.kamicosmetics.com
   type: "Cosmetics"
   description: "for the sophisticated, chic, and bold woman"
 product:

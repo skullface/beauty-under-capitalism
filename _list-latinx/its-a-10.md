@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "It’s A 10"
-  url: https://itsa10haircare.com/
+  url:
+    shop: https://itsa10haircare.com
   type: Haircare
   description: "designed to deliver a combination of 10 benefits all in one bottle"
 product:

@@ -3,11 +3,12 @@ list: primary
 company:
   predicate: true
   name: "Ginger + Liz"
-  url: http://www.gingerandliz.com
+  url:
+    shop: http://www.gingerandliz.com
   ingredients:
-    - vegan
-    - non-toxic
-    - handcrafted
+    - vegan🌱
+    - non-toxic⭐️
+    - handcrafted💗
   description: "100%"
   type: "Nail care"
 product:

@@ -2,7 +2,9 @@
 list: primary
 company:
   name: "Hue Noir"
-  url: https://huenoir.com
+  url:
+    shop: https://huenoir.com
+    Target: https://go.magik.ly/ml/gui7
   location: "Portland, OR"
   type: Cosmetics
   description: "putting multicultural women at the center of the modern beauty movement"

@@ -2,11 +2,12 @@
 list: primary
 company:
   name: "Innocent + Twisted Alchemy"
-  url: http://innocenttwisted.storenvy.com
+  url: 
+    shop: http://innocenttwisted.storenvy.com
   location: Sacramento, CA
   type: Cosmetics
   ingredients:
-    - handcrafted
+    - handcrafted💗
   description: "Small-batch"
   predicate: true
 product:

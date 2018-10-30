@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Pinky Rose"
-  url: https://www.pinkyrosecosmetics.com/
+  url:
+    shop: https://www.pinkyrosecosmetics.com/
   type: Cosmetics
   description: "to express your love for color"
 product:

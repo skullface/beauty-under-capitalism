@@ -2,10 +2,12 @@
 list: primary
 company:
   name: "WKND Cosmetics"
-  url: https://www.wkndcosmetics.com
+  url:
+    site: https://www.wkndcosmetics.com
+    Amazon: https://www.amazon.com/dp/B07CQTYP6B
   type: Skincare
   ingredients:
-    - non-toxic
+    - non-toxic⭐️
   location: Frisco, TX
   description: "that believes skincare shouldn’t cause more problems than it solves"
 product:

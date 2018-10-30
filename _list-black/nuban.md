@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Nuban Beauty"
-  url: https://nubanbeauty.com/
+  url:
+    shop: https://nubanbeauty.com
   type: "Cosmetics"
   location: Nigeria
   description: "designed affordably and specially for the African woman"

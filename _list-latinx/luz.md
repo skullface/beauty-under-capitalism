@@ -3,7 +3,8 @@
 ethnicity: latina
 company:
   name: "Luz Lashes"
-  url: https://luzlashes.myshopify.com
+  url:
+    shop: https://luzlashes.myshopify.com
   type: "Cosmetics"
   description: "&mdash; False lashes to complete every modern woman’s look"
 product:

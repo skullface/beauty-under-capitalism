@@ -2,20 +2,22 @@
 list: secondary
 company:
   name: "Pat McGrath Labs"
-  url: https://go.magik.ly/ml/gkwh/
+  url:
+    shop: https://go.magik.ly/ml/gkwh
+    sephora: https://go.magik.ly/ml/guo2
   type: Cosmetics
   description: "where unadulterated experimentation meets raw glamour. Tested on animals when required by law"
 product:
   predicate: true
   name: "Mothership eyeshadow palettes"
-  description:
-  url: https://www.patmcgrath.com/collections/eye-shadow-palletes
+  description: "out of this world"
+  url: https://go.magik.ly/ml/guo3
   second:
     name: "luxe Mattetrance Lipsticks"
-    description: "luxe"
+    url: https://go.magik.ly/ml/guo4
 owner:
   type: owner-founder
   title: "CEO, global makeup artist"
   name: "Pat McGrath"
-  url: https://en.wikipedia.org/wiki/Iman_(model)
+  url: https://go.magik.ly/ml/guo5
 ---

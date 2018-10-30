@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Beauty Blender"
-  url: https://beautyblender.com/
+  url:
+    shop: https://beautyblender.com
   type: Cosmetics
   description: "complementing the original beauty sponge"
 product:

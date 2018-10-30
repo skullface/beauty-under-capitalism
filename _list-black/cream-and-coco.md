@@ -2,10 +2,11 @@
 list: primary
 company:
   name: "Cream and Coco"
-  url: http://creamandcoco.com
+  url:
+    shop: http://creamandcoco.com
   type: "Haircare, skincare, and bodycare"
   ingredients:
-    - handcrafted
+    - handcrafted💗
   description: "offering a moment of comfort in the chaos life can bring"
 product:
   name: "Gooseberry Aloe Hair Pudding"

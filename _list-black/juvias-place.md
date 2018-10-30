@@ -2,7 +2,10 @@
 list: primary
 company:
   name: "Juvia’s Place"
-  url: http://go.magik.ly/ml/7ftp
+  url:
+    shop: http://go.magik.ly/ml/7ftp
+    Ulta: https://go.magik.ly/ml/guiw
+    Beauty Bay 🇬🇧: https://go.magik.ly/ml/guiy
   type: Cosmetics
   description: "designed to be vibrant and affordable"
 product:

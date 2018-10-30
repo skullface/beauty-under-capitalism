@@ -2,11 +2,12 @@
 list: primary
 company:
   name: "Tata Harper"
-  url: https://www.tataharperskincare.com
+  url:
+    shop: https://www.tataharperskincare.com
   type: Skincare
   ingredients:
-    - handcrafted
-    - non-toxic
+    - handcrafted💗
+    - non-toxic⭐️
   location: Vermont
   description: "Luxury"
   predicate: true
@@ -14,7 +15,8 @@ product:
   name: "BHA Resurfacing Mask"
   description: "award-winning"
   predicate: true
-  url: https://go.magik.ly/ml/7fs4
+  url:
+    - shop: https://go.magik.ly/ml/7fs4
   second:
     name: "Regenerating Cleanser"
     url: https://go.magik.ly/ml/gmcm/

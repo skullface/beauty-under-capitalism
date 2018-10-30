@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Jacque Mgido"
-  url: https://jacquemgido.com
+  url:
+    shop: https://jacquemgido.com
   type: Cosmetics
   description: "specifically made to address makeup challenges in Sub-Saharan Africa"
 product:

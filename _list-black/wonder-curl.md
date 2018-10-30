@@ -2,7 +2,8 @@
 list: primary
 company:
   name: "Wonder Curl"
-  url: https://www.wondercurl.com
+  url:
+    shop: https://www.wondercurl.com
   type: Haircare
   description: "to give people with curly hair great hair days, every day"
 product:

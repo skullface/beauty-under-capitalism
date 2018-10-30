@@ -2,12 +2,13 @@
 list: primary
 company:
   name: "House of Beauty"
-  url: http://www.houseofbeauty.co
+  url: 
+    shop: http://www.houseofbeauty.co
   location: Florida
   type: Cosmetics
   ingredients:
-    - vegan
-    - handcrafted
+    - vegan🌱
+    - handcrafted💗
   description: "designed for versatility"
 product:
   name: "Lip Hybrid"

@@ -2,7 +2,9 @@
 list: primary
 company:
   name: "Koils By Nature"
-  url: https://www.koilsbynature.com
+  url:
+    shop: https://www.koilsbynature.com
+    Target: https://go.magik.ly/ml/gul2
   type: Haircare
   description: "to enhance your natural beauty"
 product:
