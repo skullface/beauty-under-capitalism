@@ -39,6 +39,21 @@ h2 a,
 h3 a,
 h4 a {
   color: inherit;
+  &:hover {
+    i {
+      transform: translateX(3px);
+      color: $color_primary;
+    }
+  }
+  i {
+    margin-left: 3px;
+    text-decoration: none;
+    display: inline-block;
+    font-style: normal;
+    transition: .2s;
+    transform: translateX(0);
+    color: $color_white;
+  }
 }
 
 h4 {
@@ -52,5 +67,23 @@ a {
   &:active {
     text-decoration-color: $color_gray;
     color: inherit;
+  }
+}
+
+
+a.button {
+  margin-top: 8px;
+  display: inline-block;
+	padding: 10px 15px;
+  cursor: pointer;
+  line-height: 1;
+  border: solid 1px $color_gray;
+  border-radius: 4px;
+  color: $color_black;
+  &:hover, &:active, &:focus {
+    background-color: $color_primary;
+    border-color: $color_primary;
+    color: $color_white;
+    text-decoration: none;
   }
 }

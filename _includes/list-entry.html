@@ -1,7 +1,7 @@
 <article class="company" id="{{ post.company.name | slugify }}">
   <h3 class="company-name">
-    <a href="{{ post.company.url }}">
-      {{ post.company.name }}
+    <a href="{{ post.company.url.shop }}">
+      {{ post.company.name }}<i>→</i>
     </a>
   </h3>
 
@@ -14,7 +14,7 @@
       <span class="company-ingredients ingredient-{{ ingredient | slugify }}">{{ ingredient }}</span>
     {% endfor %}
 
-    <a href="{{ post.company.url }}" class="company-type">{{ post.company.type }}</a>{% if post.company.predicate %}.{% endif %}
+    <span class="company-type">{{ post.company.type }}</span>{% if post.company.predicate %}.{% endif %}
 
     {% unless post.company.predicate %}
       {{ post.company.description }}.
@@ -70,4 +70,10 @@
     Owned and founded by unknown individuals{% if post.company.location %} in {{ post.company.location }}.{% else %}.{% endif %}
   {% endcase %}
   </p>
+
+  <div>
+    {% for link in post.company.url %}
+      <a href="{{ link[1] }}" class="button">{{ link[0] }}</a>
+    {% endfor %}
+  </div>
 </article>

@@ -11,7 +11,7 @@
 }
 
 h3 {
-  margin-bottom: 0;
+  margin-bottom: 4px;
   a {
     color: inherit;
   }
@@ -28,11 +28,19 @@ h3 {
 }
 
 .company-ingredients,
-.hashtag {
+.hashtag,
+.company-type,
+.button {
   font-family: $font-family__sans;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.company-ingredients,
+.hashtag,
+.button  {
   font-size: 75%;
   letter-spacing: 2px;
-  text-transform: uppercase;
 }
 
 .company-ingredients,
@@ -75,10 +83,7 @@ $ingredients: (
 }
 
 .company-type {
-  font-family: $font-family__sans;
   font-size: 85%;
-  font-weight: 700;
-  text-transform: uppercase;
   letter-spacing: 1px;
   color: inherit;
 }
