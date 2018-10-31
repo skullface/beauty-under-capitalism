@@ -46,34 +46,67 @@ h3 {
 .company-ingredients,
 .hashtag {
   position: relative;
-  margin-right: 2px;
   &:before {
     display: inline-block;
     position: absolute;
     bottom: 7px;
     left: 0;
     z-index: -1;
-    width: 100%;
+    width: calc(100% - 21px);
     height: 4px;
     content: "";
   }
 }
 
+.hashtag {
+  margin-right: 2px;
+}
+
 $ingredients: (
-  vegan: #e3fce3,
-  organic: #f3e3fc,
-  non-toxic: #fcf0e3,
-  handcrafted: mistyrose,
-  made-in-the-usa: #e3eafc
+  vegan: (
+    #e3fce3: 🌱
+  ),
+  organic: (
+    #f3e3fc: ☀️
+  ),
+  non-toxic: (
+    #fcf0e3: 🌈
+  ),
+  handcrafted: (
+    mistyrose: 💗
+  ),
+  made-in-the-usa: (
+    #e3eafc: 📍
+  ),
+  gluten-free: (
+    mistyrose: 🌻
+  ),
+  cruelty-free: (
+    mistyrose: 🐰
+  )
 );
 
-@each $ingredient, $color in $ingredients {
-  .ingredient-#{$ingredient}:before {
-    background-color: $color
+@mixin ingredient-list() {
+  @each $name, $ingredient in $ingredients {
+    &-#{$name} {
+      @each $color, $emoji in $ingredient {
+        &:before {
+          background-color: #{$color};
+        }
+        &:after {
+          content: "#{$emoji}";
+        }
+      }
+    }
   }
 }
 
-.hashtag {
+.ingredient {
+  @include ingredient-list;
+}
+
+.hashtag,
+.ingredient {
   color: darken($color_gray, 20%);
 }
 

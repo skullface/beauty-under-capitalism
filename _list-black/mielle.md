@@ -11,7 +11,7 @@ company:
     Walgreens: https://go.magik.ly/ml/gulx
     Walmart: https://go.magik.ly/ml/gulw
   ingredients:
-    - organic💧
+    - organic
   type: "Haircare"
   description: "encouraging healthier hair with healthier ingredients"
 product:

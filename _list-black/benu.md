@@ -5,8 +5,8 @@ company:
   url:
     shop: https://benucosmetics.com
   ingredients:
-    - vegan🌱
-    - handcrafted💗
+    - vegan
+    - handcrafted
   location: "Chicago, IL"
   type: Skincare
   description: "celebrating diversity in people and skin"

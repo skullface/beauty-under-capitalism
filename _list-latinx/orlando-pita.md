@@ -4,6 +4,7 @@ company:
   name: "Orlando Pita Play"
   url:
     shop: https://orlandopitaplay.com/
+    QVC: https://go.magik.ly/ml/gvst
   type: Haircare
   description: "to achieve your hair goals"
 product:

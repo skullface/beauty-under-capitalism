@@ -2,12 +2,18 @@
 list: primary
 company:
   name: "JINsoon"
-  url: 
+  url:
     shop: https://go.magik.ly/ml/gmjn
+    Barneys: https://go.magik.ly/ml/gvga
+    Mecca 🇦🇺: https://go.magik.ly/ml/gvg5
+    Nordstrom: https://go.magik.ly/ml/gvg4
+    The Real Real: https://go.magik.ly/ml/gvgc
+    Revolve: https://go.magik.ly/ml/gvg3
+    Saks Fifth Avenue: https://go.magik.ly/ml/gvg7
   location: NY, NY
   type: Nailcare
   ingredients:
-    - vegan🌱
+    - vegan
   description: "embodying elegant simplicity, always 9-free"
 product:
   name: "nail polish collection"

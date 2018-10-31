@@ -4,6 +4,12 @@ company:
   name: "Oribe"
   url:
     shop: https://www.oribe.com
+    Birchbox: https://go.magik.ly/ml/gvsn
+    Blue Mercury: https://go.magik.ly/ml/gvsm
+    Dermstore: https://go.magik.ly/ml/gvso
+    Neiman Marcus: https://go.magik.ly/ml/gvsi
+    Net-A-Porter: https://go.magik.ly/ml/gvsj
+    Revolve: https://go.magik.ly/ml/gvsh
   type: Haircare
   description: "for the hair obsessed"
 product:

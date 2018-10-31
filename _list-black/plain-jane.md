@@ -6,8 +6,8 @@ company:
     shop: https://plainjanebeauty.net
   type: "Cosmetics"
   ingredients:
-    - vegan🌱
-    - organic💧
+    - vegan
+    - organic
   description: "encompassing all shades and tones using natural ingredients"
 product:
   predicate: true

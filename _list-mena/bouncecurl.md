@@ -4,9 +4,10 @@ company:
   name: "BounceCurl"
   url:
     shop: https://bouncecurl.com
+    Amazon: https://www.amazon.com/l/14590291011
   type: Haircare
   ingredients:
-    - vegan🌱
+    - vegan
   description: "for curly,  kinky, and wavy hair"
 product:
   name: "Light Creme Gel styler"

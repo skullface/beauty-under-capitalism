@@ -7,7 +7,7 @@ company:
   location: Texas
   type: Cosmetics
   ingredients:
-    - handcrafted💗
+    - handcrafted
   description: "owned by an award-winning makeup artist"
 product:
   name: "Highlight Intensifer"

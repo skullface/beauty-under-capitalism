@@ -4,6 +4,8 @@ company:
   name: "Artist Couture"
   url:
     shop: https://go.magik.ly/ml/gmg7
+    Ricky’s NYC: https://go.magik.ly/ml/gvsa/
+    Sephora: https://go.magik.ly/ml/gmga
   type: Cosmetics
   description: "centered around a blinding glow"
 product:

@@ -4,6 +4,9 @@ company:
   name: "Bdellium Tools"
   url:
     shop: https://go.magik.ly/ml/gmi6
+    Beauty Bay 🇬🇧: https://go.magik.ly/ml/gvik
+    Camera Ready Cosmetics: https://go.magik.ly/ml/gvii
+    Walmart: https://go.magik.ly/ml/gvih
   type: Beauty tools
   location: Cerritos, CA
   description: "&ldquo;for that professional touch&rdquo;"

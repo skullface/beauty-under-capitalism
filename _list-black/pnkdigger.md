@@ -7,8 +7,8 @@ company:
     Glamatory: http://www.theglamatory.com/makeup-store#!/~/search/keyword=pnk%20digger&offset=0&sort=relevance
   type: "Cosmetics"
   ingredients:
-    - vegan🌱
-    - handcrafted💗
+    - vegan
+    - handcrafted
   description: "focused on lips"
 product:
   predicate: true

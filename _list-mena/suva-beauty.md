@@ -4,6 +4,10 @@ company:
   name: "SUVA Beauty"
   url:
     shop: https://www.suvabeauty.com
+    Bloomingdale’s: https://go.magik.ly/ml/gvpg
+    Camera Ready Cosmetics: https://go.magik.ly/ml/gvph
+    Dolls Kill: https://go.magik.ly/ml/gvpm
+    Riley Rose: https://go.magik.ly/ml/gvpk
   type: Cosmetics
   description: "that aim to excite and spark good spirit in every artist or creator"
 product:

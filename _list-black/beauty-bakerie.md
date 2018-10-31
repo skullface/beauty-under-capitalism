@@ -4,8 +4,8 @@ company:
   name: "Beauty Bakerie"
   url:
     shop: http://go.magik.ly/ml/7fts
-    Riley Rose: https://www.rileyrose.com/us/shop/catalog/category/new/promo-branded-beauty_bakerie
-    Ulta: https://www.ulta.com/brand/beauty-bakerie
+    Riley Rose: https://go.magik.ly/ml/gvgn
+    Ulta: https://go.magik.ly/ml/gvgo
   location: San Diego, CA
   type: Cosmetics
   description: "with a sweet spin"

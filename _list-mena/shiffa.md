@@ -4,6 +4,9 @@ company:
   name: "Shiffa"
   url:
     shop: http://www.shiffa.com
+    Bloomingdale’s: https://go.magik.ly/ml/gvpc/
+    Look Fantastic: https://www.lookfantastic.com/brands/shiffa.list
+    Nordstrom: https://go.magik.ly/ml/gvpb
   type: Skincare and fragrances
   description: "for people who care about wellness as well as beauty"
 product:

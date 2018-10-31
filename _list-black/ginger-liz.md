@@ -6,9 +6,9 @@ company:
   url:
     shop: http://www.gingerandliz.com
   ingredients:
-    - vegan🌱
-    - non-toxic⭐️
-    - handcrafted💗
+    - vegan
+    - non-toxic
+    - handcrafted
   description: "100%"
   type: "Nail care"
 product:

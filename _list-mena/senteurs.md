@@ -4,9 +4,10 @@ company:
   name: "Senteurs D’Orient"
   url:
     shop: https://usa.senteursdorient.com
+    Net-A-Porter: https://go.magik.ly/ml/gvpa
   type: Bodycare
   ingredients:
-    - handcrafted💗
+    - handcrafted
   description: "&mdash; luxury soaps dedicated to global women’s empowerment"
 product:
   name: "vegetal Hammam soaps"

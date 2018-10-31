@@ -2,11 +2,12 @@
 list: primary
 company:
   name: "Prismologie"
-  url: https://prismologie.com
+  url:
+    shop: https://prismologie.com
   type: Skincare and bodycare
   location: UK
   ingredients:
-    - organic💧
+    - organic
   description: "infusing color therapy into your day, without wearing color"
 product:
   name: "5-item travel set"

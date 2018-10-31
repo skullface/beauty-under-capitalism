@@ -9,9 +9,9 @@ company:
     Target: https://go.magik.ly/ml/gum6
   type: "Haircare and bodycare"
   ingredients:
-    - vegan🌱
-    - non-toxic⭐️
-    - handcrafted💗
+    - vegan
+    - non-toxic
+    - handcrafted
   location: "Queen Creek, AZ"
   description: "products that are soul-infused and melanin-inspired"
 product:

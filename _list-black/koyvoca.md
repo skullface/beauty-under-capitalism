@@ -3,7 +3,7 @@ list: primary
 company:
   name: "Koyvoca"
   ingredients:
-    - handcrafted💗
+    - handcrafted
   url:
     shop: https://koyvoca.com
   type: Cosmetics

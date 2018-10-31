@@ -6,8 +6,8 @@ company:
     shop: https://shirocosmetics.com/
   type: Cosmetics
   ingredients:
-    - vegan🌱
-    - handcrafted💗
+    - vegan
+    - handcrafted
   description: "making nerds sparkly since 2010"
 product:
   name: "loose eyeshadows"

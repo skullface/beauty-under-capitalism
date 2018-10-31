@@ -7,7 +7,7 @@ company:
   type: Skincare and haircare
   location: UAE
   ingredients:
-    - organic💧
+    - organic
   description: "that values beauty rituals embraced by women around the world"
 product:
   name: "prickly pear seed oil collection"

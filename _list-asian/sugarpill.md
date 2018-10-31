@@ -2,8 +2,12 @@
 list: primary
 company:
   name: "Sugarpill"
-  url: 
+  url:
     shop: https://go.magik.ly/ml/gmix
+    Beautylish: https://go.magik.ly/ml/gvgm
+    Camera Ready Cosmetics: https://go.magik.ly/ml/gvgl
+    Dolls Kill: https://go.magik.ly/ml/gvgj
+    Riley Rose: https://go.magik.ly/ml/gvgk
   location: Los Angeles, CA
   type: Cosmetics
   description: "Vibrant, unapologetically fun, creativity-inspiring"

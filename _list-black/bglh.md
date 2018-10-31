@@ -6,7 +6,7 @@ company:
     shop: https://bglh-marketplace.com
   location: Brooklyn, NY
   ingredients:
-    - handcrafted💗
+    - handcrafted
   type: Haircare and skincare
   description: "from the woman behind a top‐ranked natural hair and beauty site"
 product:

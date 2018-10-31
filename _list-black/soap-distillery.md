@@ -6,7 +6,7 @@ company:
     shop: https://soapdistillery.com
   type: "Bath and bodycare"
   ingredients:
-    - handcrafted💗
+    - handcrafted
   location: "Chicago, IL"
   description: "inspired by the scents of spirits and cocktails"
 product:

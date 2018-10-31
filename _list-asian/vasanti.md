@@ -2,8 +2,9 @@
 list: primary
 company:
   name: "Vasanti"
-  url: 
-    shop: https://go.magik.ly/ml/gmiu/
+  url:
+    shop: https://www.vasanticosmetics.com/
+    Birchbox: https://go.magik.ly/ml/gmiu/
   type: Cosmetics and skincare
   description: "that brighten up without weighing down"
 product:

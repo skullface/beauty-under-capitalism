@@ -7,8 +7,8 @@ company:
   location: Florida
   type: Cosmetics
   ingredients:
-    - vegan🌱
-    - handcrafted💗
+    - vegan
+    - handcrafted
   description: "designed for versatility"
 product:
   name: "Lip Hybrid"

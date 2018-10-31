@@ -2,10 +2,11 @@
 list: primary
 company:
   name: "Holy Snails"
-  url: 
-    shop: https://www.holysnailsshop.com/
+  url:
+    shop: https://www.holysnailsshop.com
+    oo35mm: https://oo35mm.com/collections/holy-snails
   ingredients:
-    - handcrafted💗
+    - handcrafted
   type: Skincare
   description: "inspired by K-beauty"
 product:

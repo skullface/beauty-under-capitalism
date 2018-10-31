@@ -8,7 +8,7 @@ company:
     Sally Beauty: https://go.magik.ly/ml/guma
   type: "Haircare"
   ingredients:
-    - organic💧
+    - organic
   description: "designed to kiss dryness goodbye"
 product:
   predicate: true

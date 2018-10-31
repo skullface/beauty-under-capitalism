@@ -2,19 +2,23 @@
 list: secondary
 company:
   name: "Julep"
-  url: 
+  ingredients:
+    - cruelty-free
+  url:
     shop: https://go.magik.ly/ml/gmjc
+    Nordstrom: https://go.magik.ly/ml/gvm4
+    QVC: https://go.magik.ly/ml/gvm7
+    Ulta: https://go.magik.ly/ml/gvm0
   type: Cosmetics, skincare, and nailcare
-  description: "Effortless"
-  predicate: true
+  description: "designed to be effortless, fearless, and fun"
 product:
   name: "hydrating cleansing oil"
   description: "k-beauty-inspired"
   predicate: true
-  url: https://www.julep.com/skin-body/korean-skincare/love-your-bare-face-hydrating-cleansing-oil.html
+  url: https://go.magik.ly/ml/gvm3
   second:
     name: subscription box
-    url: https://www.julep.com/howitworks.html
+    url: https://go.magik.ly/ml/gvm2
 owner:
   type: separate
   owner:

@@ -10,7 +10,7 @@ company:
   type: "Haircare"
   location: "Baltimore, MD"
   ingredients:
-    - handcrafted💗
+    - handcrafted
   predicate: true
   description: "100%"
 product:

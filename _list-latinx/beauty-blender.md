@@ -4,6 +4,13 @@ company:
   name: "Beauty Blender"
   url:
     shop: https://beautyblender.com
+    Beauty Bay 🇬🇧: https://go.magik.ly/ml/gvq1
+    Birchbox: https://go.magik.ly/ml/gvps
+    Cult Beauty 🇬🇧: https://go.magik.ly/ml/gvpz
+    Macy’s: https://go.magik.ly/ml/gvpx
+    Net-A-Porter: https://go.magik.ly/ml/gvpr
+    Sephora: https://go.magik.ly/ml/gvpu
+    Ulta: https://go.magik.ly/ml/gvpq
   type: Cosmetics
   description: "complementing the original beauty sponge"
 product:

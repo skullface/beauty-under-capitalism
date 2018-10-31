@@ -4,6 +4,11 @@ company:
   name: "Ouidad"
   url:
     shop: https://www.ouidad.com
+    Amazon: https://www.amazon.com/l/2597977011
+    Derm Store: https://go.magik.ly/ml/gvp5/
+    Nordstrom: https://go.magik.ly/ml/gvp3
+    Sephora: https://go.magik.ly/ml/gvp2
+    Ulta: https://go.magik.ly/ml/gvoy
   type: Haircare
   description: "dedicated to empowering individuals with curls"
 product:

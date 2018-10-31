@@ -7,7 +7,7 @@ company:
   type: "Skincare"
   ingredients:
     - vegan
-    - "made in the USA📍"
+    - "made in the usa"
   description: "made with the intention"
 product:
   name: "Petal Facial Mist"

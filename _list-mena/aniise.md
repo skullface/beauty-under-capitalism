@@ -4,6 +4,7 @@ company:
   name: "Aniise"
   url:
     shop: https://aniise.com
+    Amazon: https://www.amazon.com/Aniise/b/ref=w_bl_hsx_s_be_web_7633781011?ie=UTF8&node=7633781011&field-lbr_brands_browse-bin=Aniise
   type: Skincare
   description: "feeding the skin from the outside"
 product:

@@ -4,8 +4,9 @@ company:
   name: "Reina Rebelde"
   url:
     shop: https://reinarebelde.com
+    Target: https://go.magik.ly/ml/gvrg
   type: Cosmetics
-  description: "for today’s ambitious multicutural woman"
+  description: "for today’s ambitious multi-cutural woman"
 product:
   name: "eyeshadow quads"
   description: "dry for more subtle looks, or wet for heavy payoff"

@@ -9,7 +9,7 @@ company:
     Walmart: https://go.magik.ly/ml/gug5
   type: Haircare and bodycare
   ingredients:
-    - organic💧
+    - organic
   description: "inspiring everyone to embrace their natural beauty, accessible everywhere"
 product:
   name: "bundled product collections"

@@ -6,8 +6,8 @@ company:
     shop: https://www.laurennapier.com
   type: "Skincare"
   ingredients:
-    - vegan🌱
-    - Made in the USA📍
+    - vegan
+    - Made in the usa
   description: "reinventing the makeup wipe"
 product:
   name: "facial cleansing wipes"

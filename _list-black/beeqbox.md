@@ -5,7 +5,7 @@ company:
   url:
     shop: https://www.beeqbox.com
   ingredients:
-    - handcrafted💗
+    - handcrafted
   type: Cosmetics
   description: "with a badass twist, started by a college student"
 product:

@@ -6,7 +6,7 @@ company:
     shop: https://pholkbeauty.com
   type: "Skincare"
   ingredients:
-    - vegan🌱
+    - vegan
   description: "inspired by the multitude of ways that people of color infuse the globe with beauty"
 product:
   name: "brightening CBD-hibiscus night oil"

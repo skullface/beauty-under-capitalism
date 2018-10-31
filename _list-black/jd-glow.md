@@ -5,7 +5,7 @@ company:
   url:
     shop: https://www.jdglowcosmetics.com
   ingredients:
-    - handcrafted💗
+    - handcrafted
   location: Baton Rouge, LA
   type: Cosmetics
   description: "focused on metallic glow and pigment for all ethnicities"

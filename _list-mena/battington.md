@@ -4,10 +4,12 @@ company:
   name: "Battington Lashes"
   url:
     shop: https://www.battingtonbeauty.com
+    Revolve: https://go.magik.ly/ml/gvni
+    Ricky’s NYC: https://go.magik.ly/ml/gvnn
   type: Cosmetics
   ingredients:
-    - vegan🌱
-    - handcrafted💗
+    - vegan
+    - handcrafted
   description: " &mdash; silk false lashes designed with diverse eye shapes in mind"
 product:
   name: "lush 3d strip lashes"

@@ -2,8 +2,10 @@
 list: primary
 company:
   name: "Peach Slices"
-  url: 
+  url:
     shop: https://go.magik.ly/ml/gmk6
+    CVS: https://go.magik.ly/ml/gvgh
+    Target: https://go.magik.ly/ml/gvgi
   location: NYC
   type: Skincare
   description: "with a playful and spirited twist. By Peach & Lily, in exclusive partnership with CVS"

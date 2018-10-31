@@ -5,8 +5,8 @@ company:
   url:
     shop: https://www.mentedcosmetics.com/
   ingredients:
-    - vegan🌱
-    - non-toxic⭐️
+    - vegan
+    - non-toxic
   type: "Cosmetics"
   description: "that enhance the natural beauty of women of all hues"
 product:

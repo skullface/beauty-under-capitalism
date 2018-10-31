@@ -4,6 +4,12 @@ company:
   name: "It’s A 10"
   url:
     shop: https://itsa10haircare.com
+    Amazon: https://www.amazon.com/l/17399939011
+    Birchbox: https://go.magik.ly/ml/gvqu
+    Macy’s: https://go.magik.ly/ml/gvqv
+    Ulta: https://go.magik.ly/ml/gvqt
+    Walgreens: https://go.magik.ly/ml/gvqo
+    Walmart: https://go.magik.ly/ml/gvqq
   type: Haircare
   description: "designed to deliver a combination of 10 benefits all in one bottle"
 product:

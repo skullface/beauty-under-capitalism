@@ -2,13 +2,15 @@
 list: secondary
 company:
   name: "YLLO Beauty"
-  url: 
+  url:
     shop: https://yllobeauty.com
+    Riley Rose: https://go.magik.ly/ml/gvme
+    Urban Outfitters: https://go.magik.ly/ml/gvma
   type: Skin and bodycare
   ingredients:
-    - vegan🌱
-  predicate: true
-  description: "Turmeric-based"
+    - cruelty-free
+    - vegan
+  description: "with turmeric-based formulas, working to end child marriage"
 product:
   name: "face scrub"
   description: "to reduce redness and fade hyperpigmentation"

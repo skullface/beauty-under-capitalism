@@ -6,7 +6,7 @@ company:
     shop: http://www.kayluxcosmetics.com/
   type: "Cosmetics"
   ingredients:
-    - "made in the usa📍"
+    - "made in the usa"
   description: "made with love"
 product:
   name: "highlighting body oil"

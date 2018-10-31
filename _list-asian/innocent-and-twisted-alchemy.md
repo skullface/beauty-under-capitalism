@@ -7,7 +7,7 @@ company:
   location: Sacramento, CA
   type: Cosmetics
   ingredients:
-    - handcrafted💗
+    - handcrafted
   description: "Small-batch"
   predicate: true
 product:
