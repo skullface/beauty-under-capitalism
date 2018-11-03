@@ -4,6 +4,9 @@ company:
   name: "Ahimsa Essentials"
   url:
     shop: http://www.ahimsaessentials.com
+  social:
+    ig: ahimsaessentials
+    fb: ahimsaessentials
   location: Phoenix, AZ
   ingredients:
     - vegan

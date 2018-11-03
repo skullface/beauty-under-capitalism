@@ -2,8 +2,12 @@
 list: primary
 company:
   name: "Yüli"
-  url: 
+  url:
     shop: https://www.yuliskincare.com
+  social:
+    ig: yuliskincare
+    fb: yuliskincare
+    tw: yuliskincare
   location: NY, NY
   type: Skincare
   description: "Results-driven"

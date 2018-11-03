@@ -7,6 +7,8 @@ company:
     Beauty Bay 🇬🇧: https://go.magik.ly/ml/gvlp
     Beautylish: https://go.magik.ly/ml/gvlq
     Camera Ready Cosmetics: https://go.magik.ly/ml/gvls
+  social:
+    ig: annasui
   type: Cosmetics
   description: "accompanying the beloved fashion designer’s contemporary style"
 product:

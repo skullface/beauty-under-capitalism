@@ -6,6 +6,10 @@ company:
     shop: https://yllobeauty.com
     Riley Rose: https://go.magik.ly/ml/gvme
     Urban Outfitters: https://go.magik.ly/ml/gvma
+  social:
+    ig: yllobeauty
+    yt: channel/UClHMDKqBJvyBNvPCU2p924g
+    fb: yllobeauty
   type: Skin and bodycare
   ingredients:
     - cruelty-free

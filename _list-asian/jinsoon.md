@@ -10,7 +10,11 @@ company:
     The Real Real: https://go.magik.ly/ml/gvgc
     Revolve: https://go.magik.ly/ml/gvg3
     Saks Fifth Avenue: https://go.magik.ly/ml/gvg7
-  location: NY, NY
+  social:
+    ig: jinsoonbeauty
+    fb: jinsoonbeauty
+    yt: user/JINsoonBeauty
+  location: NYC
   type: Nailcare
   ingredients:
     - vegan

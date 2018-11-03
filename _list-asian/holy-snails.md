@@ -5,6 +5,9 @@ company:
   url:
     shop: https://www.holysnailsshop.com
     oo35mm: https://oo35mm.com/collections/holy-snails
+  social:
+    ig: holysnails
+    fb: holysnails
   ingredients:
     - handcrafted
   type: Skincare

@@ -3,7 +3,7 @@ list: primary
 company:
   name: "Koh Gen Do"
   url:
-    shop: https://go.magik.ly/ml/gmi6
+    shop: https://go.magik.ly/ml/gz8n/
     Amazon: https://www.amazon.com/Beauty-Personal-Care-Koh-Gen-Do/s?ie=UTF8&field-brandtextbin=Koh%20Gen%20Do&page=1&rh=n%3A3760911
     Barneys: https://go.magik.ly/ml/gvkt
     Beautylish: https://go.magik.ly/ml/gvk4

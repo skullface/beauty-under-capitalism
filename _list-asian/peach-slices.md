@@ -6,6 +6,8 @@ company:
     shop: https://go.magik.ly/ml/gmk6
     CVS: https://go.magik.ly/ml/gvgh
     Target: https://go.magik.ly/ml/gvgi
+  social:
+    ig: peach_slices
   location: NYC
   type: Skincare
   description: "with a playful and spirited twist. By Peach & Lily, in exclusive partnership with CVS"

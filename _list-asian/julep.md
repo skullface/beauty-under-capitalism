@@ -9,6 +9,10 @@ company:
     Nordstrom: https://go.magik.ly/ml/gvm4
     QVC: https://go.magik.ly/ml/gvm7
     Ulta: https://go.magik.ly/ml/gvm0
+  social:
+    ig: julepbeauty
+    yt: user/julepnailparlor
+    fb: julep
   type: Cosmetics, skincare, and nailcare
   description: "designed to be effortless, fearless, and fun"
 product:

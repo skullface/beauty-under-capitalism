@@ -2,8 +2,12 @@
 list: primary
 company:
   name: "House of Beauty"
-  url: 
+  url:
     shop: http://www.houseofbeauty.co
+  social:
+    ig: houseofbeauty.co
+    yt: user/fknaybro/videos
+    fb: hobmakeup
   location: Florida
   type: Cosmetics
   ingredients:

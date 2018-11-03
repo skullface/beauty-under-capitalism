@@ -3,12 +3,16 @@ list: primary
 company:
   name: "Tatcha"
   url:
-    shop: https://go.magik.ly/ml/gmii
+    shop: https://go.magik.ly/ml/gmii/
     Barneys NY: https://go.magik.ly/ml/gvsz
     Beautylish: https://go.magik.ly/ml/gvt1
     Mecca 🇦🇺: https://go.magik.ly/ml/gvt0
     QVC: https://go.magik.ly/ml/gvsy
     Sephora: https://go.magik.ly/ml/gvsv
+  social:
+    ig: tatcha
+    tw: tatcha_v
+    fb: TatchaBeauty
   type: Skincare
   description: "inspired by ancient beauty rituals of Japan"
 product:

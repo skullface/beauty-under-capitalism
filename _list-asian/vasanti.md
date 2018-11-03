@@ -5,6 +5,10 @@ company:
   url:
     shop: https://www.vasanticosmetics.com/
     Birchbox: https://go.magik.ly/ml/gmiu/
+  social:
+    ig: vasanticosmetics
+    tw: VasantiCosmetic
+    yt: channel/UCYH0PEHrdkTIkrQOUCj_DSg
   type: Cosmetics and skincare
   description: "that brighten up without weighing down"
 product:

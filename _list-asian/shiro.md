@@ -2,8 +2,11 @@
 list: primary
 company:
   name: "Shiro Cosmetics"
-  url: 
-    shop: https://shirocosmetics.com/
+  url:
+    shop: https://shirocosmetics.com
+  social:
+    ig: shirocosmetics
+    fb: ShiroCosmetics
   type: Cosmetics
   ingredients:
     - vegan

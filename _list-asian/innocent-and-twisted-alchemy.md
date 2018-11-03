@@ -2,8 +2,10 @@
 list: primary
 company:
   name: "Innocent + Twisted Alchemy"
-  url: 
+  url:
     shop: http://innocenttwisted.storenvy.com
+  social:
+    ig: innocenttwisted
   location: Sacramento, CA
   type: Cosmetics
   ingredients:

@@ -6,6 +6,10 @@ company:
     shop: https://go.magik.ly/ml/gmk2
     Barneys: https://go.magik.ly/ml/gvgf
     Ulta: https://go.magik.ly/ml/gvge
+  social:
+    ig: PeachAndLily
+    fb: PeachAndLily
+    yt: channel/UCywO5s_Px-g2bNFpOGi29-w
   location: NYC
   type: Skincare
   description: "curated by experts based on the formula innovations of Korea"
