@@ -6,6 +6,8 @@ company:
     shop: https://www.unsuncosmetics.com
     Derm Store: https://go.magik.ly/ml/gum7
     Of a Kind: https://www.ofakind.com/designers/unsun-cosmetics
+  social:
+    ig: Unsuncosmetics
   type: "Skincare"
   description: "made to protect all complexions"
 product:

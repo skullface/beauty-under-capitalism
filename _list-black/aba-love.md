@@ -4,6 +4,9 @@ company:
   name: "Aba Love Apothecary"
   url:
     shop: https://www.abaloveapothecary.com
+  social:
+    ig: abaloveapothecary
+    fb: abaloveapothecary
   type: "Skincare"
   ingredients:
     - vegan

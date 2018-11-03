@@ -7,6 +7,8 @@ company:
     Sephora: http://go.magik.ly/ml/7gjm
     Ulta: https://go.magik.ly/ml/guhf
     Beautylish: https://go.magik.ly/ml/guhc
+  social:
+    yt: user/NaturalResourcesTV
   type: Haircare
   description: "inspired by natural curls"
 product:

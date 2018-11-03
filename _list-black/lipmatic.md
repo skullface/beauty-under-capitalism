@@ -3,7 +3,11 @@ list: primary
 company:
   name: "Lipmatic"
   url:
-    shop: https://www.lipmatic.com/
+    shop: https://www.lipmatic.com
+  social:
+    ig: lipmatic
+    tw: lipmatic
+    fb: lipmatic
   type: "Cosmetics"
   ingredients:
     - organic

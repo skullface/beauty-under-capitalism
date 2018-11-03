@@ -4,6 +4,9 @@ company:
   name: "Lena Lashes"
   url:
     shop: http://go.magik.ly/ml/7fth
+  social:
+    ig: lashesbylena
+    yt: channel/UCbER1_Jzm85aEMMW7dE8NHQ
   type: Cosmetics
   description: "centered around luxury lashes"
 product:

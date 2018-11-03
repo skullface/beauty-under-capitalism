@@ -7,6 +7,10 @@ company:
     CVS: https://go.magik.ly/ml/gum1
     Naturally Curly: https://shop.naturallycurly.com/brands/Oyin-Handmade.html
     Target: https://go.magik.ly/ml/gulz
+  social:
+    fb: oyinhandmade
+    tw: oyinhandmade
+    ig: oyinhandmade
   type: "Haircare"
   location: "Baltimore, MD"
   ingredients:

@@ -3,7 +3,10 @@ list: secondary
 company:
   name: "AJ Crimson Beauty"
   url:
-    shop: https://ajcrimson.com/
+    shop: https://ajcrimson.com
+  social:
+    fb: AJCrimson
+    ig: ajcrimson
   location: San Diego, CA
   cruelty-free: true
   type: Cosmetics

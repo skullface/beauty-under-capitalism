@@ -7,6 +7,10 @@ company:
     Target: https://go.magik.ly/ml/guim
     Walgreens: https://go.magik.ly/ml/guii
     Walmart: https://go.magik.ly/ml/guio
+  social:
+    ig: IMANcosmetics
+    fb: IMANcosmetics
+    yt: user/imancosmetics
   type: Cosmetics
   description: "specifically for multicutural women since 1994"
 product:

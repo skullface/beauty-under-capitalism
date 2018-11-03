@@ -7,6 +7,11 @@ company:
     Naturally Curly: https://shop.naturallycurly.com/brands/Alikay-Naturals.html
     Target: https://go.magik.ly/ml/gug6
     Walmart: https://go.magik.ly/ml/gug5
+  social:
+    fb: AlikayNaturals
+    tw: AlikayNaturals
+    ig: AlikayNaturals
+    yt: AlikayNaturals
   type: Haircare and bodycare
   ingredients:
     - organic

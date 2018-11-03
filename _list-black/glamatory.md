@@ -4,6 +4,9 @@ company:
   name: The Glamatory
   url:
     shop: https://www.theglamatory.com
+  social:
+    fb: theglamatory
+    ig: theglamatory
   type: Cosmetics
   location: Atlanta, GA
   description: "sold at the flagship shop and studio"

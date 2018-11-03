@@ -4,6 +4,9 @@ company:
   name: "Sienna Naturals"
   url:
     shop: https://www.siennanaturals.com
+  social:
+    ig: siennanaturals
+    fb: siennanaturals
   type: Haircare and skincare
   description: "&mdash; effective, natural products for textured hair and dry skin"
 product:

@@ -5,6 +5,10 @@ company:
   url:
     shop: https://www.pnkdigger.com
     Glamatory: http://www.theglamatory.com/makeup-store#!/~/search/keyword=pnk%20digger&offset=0&sort=relevance
+  social:
+    tw: pnkdigger
+    fb: pnkdigger
+    ig: pnkdigger
   type: "Cosmetics"
   ingredients:
     - vegan

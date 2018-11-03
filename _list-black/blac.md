@@ -4,6 +4,9 @@ company:
   name: "BLAC Mineral Cosmetics"
   url:
     shop: https://www.blacminerals.com
+  social:
+    ig: blacminerals
+    fb: blacminerals
   type: Cosmetics
   description: "made naturally for women of color"
 product:

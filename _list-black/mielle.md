@@ -10,6 +10,11 @@ company:
     Target: https://go.magik.ly/ml/gult
     Walgreens: https://go.magik.ly/ml/gulx
     Walmart: https://go.magik.ly/ml/gulw
+  social:
+    tw: mielleorganics
+    ig: mielleorganics
+    yt: channel/UCmb62Y8Auwgjky7hhGV633A
+    fb: mielleorganicsllc
   ingredients:
     - organic
   type: "Haircare"

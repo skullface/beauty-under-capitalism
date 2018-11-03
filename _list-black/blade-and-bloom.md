@@ -4,6 +4,9 @@ company:
   name: "Blade + Bloom"
   url:
     shop: https://bladeandbloom.com
+  social:
+    fb: bladeandbloom
+    ig: bladeandbloom
   type: "Skincare and bodycare"
   ingredients:
     - handcrafted

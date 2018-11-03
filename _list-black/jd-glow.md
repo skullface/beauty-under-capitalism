@@ -4,6 +4,9 @@ company:
   name: JD Glow
   url:
     shop: https://www.jdglowcosmetics.com
+  social:
+    ig: jdglowcosmetics
+    fb: jdglowcosmetics
   ingredients:
     - handcrafted
   location: Baton Rouge, LA

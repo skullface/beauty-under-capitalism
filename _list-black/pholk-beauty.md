@@ -4,6 +4,8 @@ company:
   name: "Pholk Beauty"
   url:
     shop: https://pholkbeauty.com
+  social:
+    ig: pholkbeauty
   type: "Skincare"
   ingredients:
     - vegan

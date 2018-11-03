@@ -5,6 +5,10 @@ company:
   url:
     shop: https://www.thelipbar.com
     Target: https://go.magik.ly/ml/guis
+  social:
+    ig: thelipbar
+    tw: thelipbar
+    fb: thelipbar
   type: Cosmetics
   description: "exploring beauty through diversity and fun"
 product:

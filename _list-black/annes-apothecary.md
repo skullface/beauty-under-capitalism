@@ -4,6 +4,9 @@ company:
   name: "Anne’s Apothecary"
   url:
     shop: https://annesapothecary.com
+  social:
+    ig: annesapothecary
+    fb: annesapothecary
   type: "Skincare"
   ingredients:
     - handcrafted

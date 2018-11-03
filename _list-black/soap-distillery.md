@@ -4,6 +4,9 @@ company:
   name: "Soap Distillery"
   url:
     shop: https://soapdistillery.com
+  social:
+    ig: soapdistillery
+    fb: soapdistillery
   type: "Bath and bodycare"
   ingredients:
     - handcrafted

@@ -4,6 +4,10 @@ company:
   name: "Ka`oir"
   url:
     shop: http://kaoir.com
+  social:
+    fb: KaoirCosmetics
+    tw: Kaoir_Cosmetics
+    yt: user/KaoirCosmetics
   type: Cosmetics
   description: "built around luscious lips"
 product:

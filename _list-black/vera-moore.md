@@ -3,7 +3,11 @@ list: primary
 company:
   name: "Vera Moore Cosmetics"
   url:
-    shop: http://www.veramoorecosmetics.com/
+    shop: http://www.veramoorecosmetics.com
+  social:
+    fb: VeraMooreCosmetics
+    ig: VeraMooreCos
+    tw: VeraMooreCos
   type: "Cosmetics and skincare"
   description: "made affordably, from dark to light"
 product:

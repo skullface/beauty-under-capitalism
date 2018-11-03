@@ -9,6 +9,10 @@ company:
     Sally Beauty: https://go.magik.ly/ml/gugt
     Walmart: https://go.magik.ly/ml/gugu
     Walgreens: https://go.magik.ly/ml/gugw
+  social:
+    ig: camillerosenaturals
+    fb: camillerosenaturals
+    yt: user/camillerosenaturals
   type: Body and Haircare
   description: "for the conscious consumer"
 product:

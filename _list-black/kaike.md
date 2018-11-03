@@ -3,7 +3,10 @@ list: primary
 company:
   name: "KAIKE"
   url:
-    shop: https://www.shopkaike.com/
+    shop: https://www.shopkaike.com
+  social:
+    ig: shopkaike
+    tw: shopkaike
   type: "Skincare"
   ingredients:
     - vegan

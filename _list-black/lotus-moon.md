@@ -4,11 +4,14 @@ company:
   name: "Lotus Moon"
   url:
     shop: https://lotusmoonskincare.com
+  social:
+    fb: LotusMoonSkinCare
+    ig: LotusMoonSkinCare
   type: "Skincare"
   ingredients:
     - vegan
     - organic
-  description: " made because fresh ingredients feel better"
+  description: "made because fresh ingredients feel better"
 product:
   name: "cleansing gels"
   description: "designed for each skin type and pH level"

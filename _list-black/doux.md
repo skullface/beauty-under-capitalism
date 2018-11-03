@@ -6,6 +6,10 @@ company:
     shop: https://thedoux.com
     Naturally Curly: https://shop.naturallycurly.com/brands/The-Doux.html
     Target: https://go.magik.ly/ml/guh5
+  social:
+    ig: ilovethedoux
+    yt: channel/UCAT_Byw2j2l2K_uboNkrCKQ
+    tw: thedouxofficial
   type: Haircare
   location: Macon, GA
   description: "designed to give a salon-worthy look between regular salon visits"

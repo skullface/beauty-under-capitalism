@@ -5,6 +5,8 @@ company:
   name: "Ginger + Liz"
   url:
     shop: http://www.gingerandliz.com
+  social:
+    ig: gingerandliz
   ingredients:
     - vegan
     - non-toxic

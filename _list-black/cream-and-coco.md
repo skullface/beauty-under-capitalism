@@ -4,6 +4,9 @@ company:
   name: "Cream and Coco"
   url:
     shop: http://creamandcoco.com
+  social:
+    fb: CreamAndCocoSkincare
+    ig: CreamAndCoco
   type: "Haircare, skincare, and bodycare"
   ingredients:
     - handcrafted

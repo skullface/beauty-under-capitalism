@@ -4,9 +4,13 @@ company:
   name: "MDM Flow"
   url:
     shop: https://mdmflow.com
-    Boots 🇬🇧: https://go.magik.ly/ml/guld/
-    Harvey Nichols 🇬🇧: https://www.harveynichols.com/brand/mdmflow/
-    Mecca 🇦🇺: https://go.magik.ly/ml/gulb/
+    Boots 🇬🇧: https://go.magik.ly/ml/guld
+    Harvey Nichols 🇬🇧: https://www.harveynichols.com/brand/mdmflow
+    Mecca 🇦🇺: https://go.magik.ly/ml/gulb
+  social:
+    fb: mdmflow
+    tw: mdmflow
+    yt: mdmflow
   type: Cosmetics
   description: "inspired by hip-hop, designed for black skin"
 product:

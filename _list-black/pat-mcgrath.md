@@ -5,6 +5,11 @@ company:
   url:
     shop: https://go.magik.ly/ml/gkwh
     sephora: https://go.magik.ly/ml/guo2
+  social:
+    yt: channel/UCwgl_m6tlSf-Ipo4R7OQVzw
+    ig: patmcgrathreal
+    tw: patmcgrathreal
+    fb: PatMcGrathReal
   type: Cosmetics
   description: "where unadulterated experimentation meets raw glamour. Tested on animals when required by law"
 product:

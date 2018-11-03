@@ -4,6 +4,10 @@ company:
   name: "BGLH Marketplace"
   url:
     shop: https://bglh-marketplace.com
+  social:
+    fb: bglhmarketplace
+    tw: bglhonline
+    ig: bglhmarketplace
   location: Brooklyn, NY
   ingredients:
     - handcrafted

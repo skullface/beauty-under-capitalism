@@ -4,7 +4,11 @@ company:
   name: "Girl + Hair"
   url:
     shop: https://www.girlandhair.com
-    Sally Beauty: https://go.magik.ly/ml/guhx/
+    Sally Beauty: https://go.magik.ly/ml/guhx
+  social:
+    ig: girlandhair
+    fb: girlandhair
+    yt: user/girlandhair
   type: "Haircare"
   description: "to treat natural or relaxed hair in protective styles, naturally"
 product:

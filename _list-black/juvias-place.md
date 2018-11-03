@@ -6,6 +6,10 @@ company:
     shop: http://go.magik.ly/ml/7ftp
     Ulta: https://go.magik.ly/ml/guiw
     Beauty Bay 🇬🇧: https://go.magik.ly/ml/guiy
+  social:
+    ig: juviasplace
+    tw: juviasplace
+    fb: juviasplace
   type: Cosmetics
   description: "designed to be vibrant and affordable"
 product:

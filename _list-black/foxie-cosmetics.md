@@ -8,6 +8,8 @@ company:
   ingredients:
     - vegan
     - handcrafted
+  social:
+    ig: foxiecosmetics
   description: "Made for multiple uses, 100%"
   type: "skin, bath, body, and hair care"
   location: Nashville, TN

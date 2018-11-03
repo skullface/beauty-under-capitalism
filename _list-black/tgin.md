@@ -6,6 +6,11 @@ company:
     shop: https://thankgoditsnatural.com
     CGS: https://go.magik.ly/ml/gumc
     Sally Beauty: https://go.magik.ly/ml/guma
+  social:
+    fb: tginatural
+    tw: tginatural
+    ig: tginatural
+    yt: user/thankgodimnatural
   type: "Haircare"
   ingredients:
     - organic

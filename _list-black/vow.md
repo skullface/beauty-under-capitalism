@@ -4,6 +4,9 @@ company:
   name: "Vow Beauty"
   url:
     shop: https://vow-beauty.com
+  social:
+    fb: vowbeauty
+    ig: vowbeauty
   type: "Skincare"
   ingredients:
     - vegan

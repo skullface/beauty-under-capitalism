@@ -3,7 +3,9 @@ list: primary
 company:
   name: "EA Polish"
   url:
-    shop: https://eapolish.com/
+    shop: https://eapolish.com
+  social:
+    ig: eapolish
   type: "Nailcare"
   ingredients:
     - non-toxic

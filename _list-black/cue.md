@@ -3,7 +3,9 @@ list: primary
 company:
   name: "CUE"
   url:
-    shop: http://www.cueproducts.com/
+    shop: http://www.cueproducts.com
+  social:
+    ig: cuebeauty
   type: "Haircare"
   ingredients:
     - gluten-free

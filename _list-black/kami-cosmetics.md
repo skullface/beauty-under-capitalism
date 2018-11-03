@@ -2,6 +2,8 @@
 list: primary
 company:
   name: "Kami Cosmetics"
+  social:
+    ig: kami_cosmetics
   url:
     shop: https://www.kamicosmetics.com
   type: "Cosmetics"

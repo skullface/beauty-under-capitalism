@@ -4,6 +4,10 @@ company:
   name: "Laws of Nature Cosmetics"
   url:
     shop: https://www.lawsofnaturecosmetics.com
+  social:
+    ig: lawsofnaturecosmetics
+    fb: lawsofnaturecosmetics
+    tw: LONCosmetics
   type: "Cosmetics"
   ingredients:
     - organic

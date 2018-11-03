@@ -4,6 +4,8 @@ company:
   name: "Bee-Q-Box"
   url:
     shop: https://www.beeqbox.com
+  social:
+    ig: beeqbox
   ingredients:
     - handcrafted
   type: Cosmetics

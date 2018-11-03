@@ -4,6 +4,9 @@ company:
   name: "Plain Jane Beauty"
   url:
     shop: https://plainjanebeauty.net
+  social:
+    ig: PlainJaneBeauty
+    fb: PlainJaneBeauty
   type: "Cosmetics"
   ingredients:
     - vegan

@@ -6,6 +6,8 @@ company:
     - handcrafted
   url:
     shop: https://koyvoca.com
+  social:
+    ig: koyvocacosmetics
   type: Cosmetics
   description: "exclusively for brown beauties"
 product:

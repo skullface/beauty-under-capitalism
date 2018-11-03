@@ -4,6 +4,9 @@ company:
   name: "BASE BUTTER"
   url:
     shop: https://www.basebutter.com
+  social:
+    ig: basebutter
+    yt: channel/UCwNDNNfV96wvH8FiQxX6JQQ/videos
   type: "Skincare"
   ingredients:
     - gluten-free

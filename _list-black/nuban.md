@@ -4,6 +4,9 @@ company:
   name: "Nuban Beauty"
   url:
     shop: https://nubanbeauty.com
+  social:
+    ig: nubanbeauty
+    fb: nubanbeauty
   type: "Cosmetics"
   location: Nigeria
   description: "designed affordably and specially for the African woman"

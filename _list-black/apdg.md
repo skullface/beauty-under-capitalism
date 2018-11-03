@@ -4,6 +4,10 @@ company:
   name: "A.P.D.G"
   url:
     shop: https://www.apdg.co
+  social:
+    tw: shopAPDG
+    fb: APDG-1144577332325155
+    ig: a.p.d.g
   location: Alabama
   type: Cosmetics
   description: "designed to withstand heat and humidity of the U.S. South"

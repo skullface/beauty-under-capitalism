@@ -5,6 +5,10 @@ company:
   url:
     shop: https://www.antoniaburrell.com
     LookFantastic 🇬🇧: https://www.lookfantastic.com/brands/antonia-burrell.list
+  social:
+    tw: antoniaburrell
+    fb: Antonia-Burrell-Skincare-136847316330921
+    ig: antoniaburrell
   location: London, UK
   type: Skincare and Cosmetics
   description: "for women of every color, started by a college student"

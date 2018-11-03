@@ -3,7 +3,9 @@ list: primary
 company:
   name: "Kaylux"
   url:
-    shop: http://www.kayluxcosmetics.com/
+    shop: http://www.kayluxcosmetics.com
+  social:
+    ig: kayluxcosmetics
   type: "Cosmetics"
   ingredients:
     - "made in the usa"

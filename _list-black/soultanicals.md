@@ -7,6 +7,9 @@ company:
     Naturally Curly: https://shop.naturallycurly.com/brands/Soultanicals.html
     Sally Beauty: https://go.magik.ly/ml/gum5
     Target: https://go.magik.ly/ml/gum6
+  social:
+    ig: soultanicals
+    fb: soultanicals
   type: "Haircare and bodycare"
   ingredients:
     - vegan

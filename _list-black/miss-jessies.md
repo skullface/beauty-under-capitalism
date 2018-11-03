@@ -7,6 +7,11 @@ company:
     Sally Beauty: https://go.magik.ly/ml/gulp
     Target: http://go.magik.ly/ml/7gko
     Walmart: https://go.magik.ly/ml/gulo
+  social:
+    ig: miss_jessies
+    tw: miss_jessies
+    fb: missjessiesfans
+    yt: user/curlsgolore
   type: Haircare
   description: "for styling curly, kinky, and wavy hair of all types and textures"
 product:

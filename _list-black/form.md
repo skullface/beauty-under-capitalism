@@ -5,6 +5,10 @@ company:
   url:
     shop: https://formbeauty.com
     Sephora: https://go.magik.ly/ml/gkuq
+  social:
+    fb: formbeauty
+    ig: formbeauty
+    tw: formbeauty
   location: San Francisco, CA
   ingredients:
     cruelty-free

@@ -4,6 +4,8 @@ company:
   name: "Wonder Curl"
   url:
     shop: https://www.wondercurl.com
+  social:
+    ig: wondercurl
   type: Haircare
   description: "to give people with curly hair great hair days, every day"
 product:

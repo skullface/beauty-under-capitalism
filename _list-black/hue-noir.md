@@ -5,6 +5,10 @@ company:
   url:
     shop: https://huenoir.com
     Target: https://go.magik.ly/ml/gui7
+  social:
+    tw: huenoir
+    fb: huenoir
+    ig: huenoir
   location: "Portland, OR"
   type: Cosmetics
   description: "putting multicultural women at the center of the modern beauty movement"

@@ -4,6 +4,9 @@ company:
   name: "Ayele"
   url:
     shop: https://ayele.co
+  social:
+    tw: AYELEANDCO
+    ig: ayeleandco
   type: Skincare and Cosmetics
   description: "for women of every color, started by a college student"
 product:

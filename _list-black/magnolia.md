@@ -4,6 +4,8 @@ company:
   name: "Magnolia Makeup"
   url:
     shop: http://www.magnoliamakeup.com
+  social:
+    ig: magnoliamakeup
   type: "Cosmetics"
   location: New Orleans, LA
   description: "devoted to filling a pigmented void in the cosmetic industry"

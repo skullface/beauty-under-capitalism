@@ -5,6 +5,10 @@ company:
   url:
     shop: https://www.koilsbynature.com
     Target: https://go.magik.ly/ml/gul2
+  social:
+    ig: koilsbynature
+    fb:  oilsbynature
+    tw: koilsbynature
   type: Haircare
   description: "to enhance your natural beauty"
 product:

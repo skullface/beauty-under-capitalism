@@ -5,7 +5,11 @@ company:
   url:
     shop: https://www.fentybeauty.com
     Sephora: http://go.magik.ly/ml/7ftq
-    Harvey Nichols 🇬🇧: https://www.harveynichols.com/brand/fenty-beauty/home/
+    Harvey Nichols 🇬🇧: https://www.harveynichols.com/brand/fenty-beauty/home
+  social:
+    ig: fentybeauty
+    fb: fentybeauty
+    yt: c/fentybeauty
   type: Cosmetics
   description: "built on inclusivity"
 product:

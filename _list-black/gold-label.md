@@ -4,6 +4,11 @@ company:
   name: "Gold Label Cosmetics"
   url:
     shop: https://www.goldlabelcosmetics.com
+  social:
+    ig: goldlabelcosmetics
+    fb: goldlabelcosmetics
+    tw: glcbeauty
+    yt: channel/UCwOIuDi8rboQUi0VSQLb_0w
   type: Cosmetics
   description: "supporting the ambitious beauty enthusiast"
 product:

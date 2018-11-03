@@ -11,6 +11,11 @@ company:
     Sally Beauty: https://go.magik.ly/ml/guic
     Target: https://go.magik.ly/ml/guie
     Walmart: https://go.magik.ly/ml/guig
+  social:
+    fb: JCSolution
+    ig: janecartersolution
+    tw: janecarter
+    yt: user/janecartersolution
   type: Haircare
   description: "for all hair types and textures using the best ingredients available"
 product:

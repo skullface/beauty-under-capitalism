@@ -15,6 +15,10 @@ company:
     Ricky’s NYC: https://go.magik.ly/ml/gui0
     Sephora: https://go.magik.ly/ml/7gjb
     Naturally Curly: https://shop.naturallycurly.com/brands/Briogeo.html
+  social:
+    ig: Briogeo
+    fb: Briogeo
+    yt: Briogeo
   type: Haircare
   location: NYC
   description: "Inspired, diverse, clean, and transparent"

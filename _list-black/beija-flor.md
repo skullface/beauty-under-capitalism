@@ -4,6 +4,10 @@ company:
   name: "Beija-Flor"
   url:
     shop: http://beijaflornaturals.com
+  social:
+    ig: beijaflornaturals
+    fb: BeijaFlorNaturals
+    tw: CaliBeijaFlor
   type: "Skincare, haircare, and bodycare"
   ingredients:
     - handcrafted

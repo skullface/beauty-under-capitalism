@@ -4,6 +4,9 @@ company:
   name: "Benu Cosmetics"
   url:
     shop: https://benucosmetics.com
+  social:
+    ig: benucosmetics
+    tw: benucosmetics
   ingredients:
     - vegan
     - handcrafted

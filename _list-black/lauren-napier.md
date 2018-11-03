@@ -4,6 +4,11 @@ company:
   name: "Lauren Napier Beauty"
   url:
     shop: https://www.laurennapier.com
+  social:
+    ig: laurennapier
+    yt: channel/UCmnlQLxsi3Dh1MHxkuo1ZKg
+    tw: laurennapier
+    fb: laurennapierbeauty
   type: "Skincare"
   ingredients:
     - vegan

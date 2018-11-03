@@ -4,8 +4,10 @@ company:
   name: "Fashion Fair"
   url:
     shop: http://www.fashionfair.com
-    Macy’s: https://go.magik.ly/ml/guhm/
-    Dillard’s: https://go.magik.ly/ml/guhn/
+    Macy’s: https://go.magik.ly/ml/guhm
+    Dillard’s: https://go.magik.ly/ml/guhn
+  social:
+    ig: fashionfaircosmetics
   type: Cosmetics
   description: "addressing Black women’s needs since 1973"
 product:

@@ -4,6 +4,9 @@ company:
   name: "Lamik Beauty"
   url:
     shop: http://www.lamik-beauty.com
+  social:
+    fb: LAMIKCosmetics
+    yt: user/LAMIKBeautyTV/videos
   type: "Cosmetics and skincare"
   predicate: true
   location: "Houston, TX"

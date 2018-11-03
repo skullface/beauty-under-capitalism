@@ -4,6 +4,10 @@ company:
   name: "Heritage 1933"
   url:
     shop: http://www.heritage1933.com
+  social:
+    yt: channel/UCOu63e7lGp9QIyn__qG-kVw
+    ig: heritage1933
+    fb: heritage1933
   type: "Skin, bath, and haircare"
   description: "to challenge society’s narrow perception of beauty"
   location: St. Louis, MO

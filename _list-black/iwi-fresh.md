@@ -4,6 +4,9 @@ company:
   name: "iwi fresh"
   url:
     shop: https://www.iwifresh.com
+  social:
+    fb: iwifresh
+    ig: iwifresh
   ingredients:
     - handcrafted
     - organic

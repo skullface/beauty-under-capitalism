@@ -5,10 +5,16 @@ company:
   url:
     shop: https://truemoringa.com
     Petit Vour: https://www.petitvour.com/collections/vendors?q=True%20Moringa
+  social:
+    tw: truemoringa
+    fb: truemoringa
+    ig: truemoringa
+    yt: truemoringa
   type: Skincare
   ingredients:
     - vegan
     - cruelty-free
+  location: Boston, MA
   description: "that serves 2,500 small family farmers across Ghana"
 product:
   predicate: true

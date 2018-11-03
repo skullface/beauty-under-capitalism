@@ -5,6 +5,8 @@ company:
   url:
     shop: https://www.danessamyricksbeauty.com
     Camera Ready: https://camerareadycosmetics.com/collections/danessa-myricks-beauty
+  social:
+    ig: danessa_myricks
   type: Cosmetics
   description: "from the mindset of the makeup artist"
 product:

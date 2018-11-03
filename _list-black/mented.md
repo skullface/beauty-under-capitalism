@@ -3,7 +3,11 @@ list: primary
 company:
   name: "Mented Cosmetics"
   url:
-    shop: https://www.mentedcosmetics.com/
+    shop: https://www.mentedcosmetics.com
+  social:
+    tw: MentedCosmetics
+    fb: MentedCosmetics
+    ig: MentedCosmetics
   ingredients:
     - vegan
     - non-toxic

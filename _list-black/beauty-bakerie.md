@@ -6,6 +6,11 @@ company:
     shop: http://go.magik.ly/ml/7fts
     Riley Rose: https://go.magik.ly/ml/gvgn
     Ulta: https://go.magik.ly/ml/gvgo
+  social:
+    ig: beautybakeriemakeup
+    tw: beautybakerie
+    yt: channel/UChcYWdGGh7OMLjHTJLhCWTg
+    fb: beautybakerie
   location: San Diego, CA
   type: Cosmetics
   description: "with a sweet spin"
