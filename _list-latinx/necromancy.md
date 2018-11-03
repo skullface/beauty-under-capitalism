@@ -4,6 +4,10 @@ company:
   name: "Necromancy Cosmetica"
   url:
     shop: https://necromancycosmetica.com
+  social:
+    ig: necromancycosmetica
+    fb: Necromancycosmetica
+    yt: channel/UCZk5Dlb2M_25Vwg5MgK_XAw/videos
   type: Cosmetics
   ingredients:
     - vegan

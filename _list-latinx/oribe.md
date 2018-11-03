@@ -10,6 +10,10 @@ company:
     Neiman Marcus: https://go.magik.ly/ml/gvsi
     Net-A-Porter: https://go.magik.ly/ml/gvsj
     Revolve: https://go.magik.ly/ml/gvsh
+  social:
+    ig: oribe
+    yt: oribehaircare
+    fb: oribehaircare
   type: Haircare
   description: "for the hair obsessed"
 product:

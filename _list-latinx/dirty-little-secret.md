@@ -4,6 +4,8 @@ company:
   name: "Dirty Little Secret Cosmetics"
   url:
     shop: https://www.shopdirtylittlesecret.com
+  social:
+    ig: dirtylittlesecretcosmetics
   type: Cosmetics
   description: "Affordable and slay-worthy"
   predicate: true

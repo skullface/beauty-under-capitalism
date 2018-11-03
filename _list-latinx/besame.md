@@ -8,6 +8,11 @@ company:
     JCPenney: https://go.magik.ly/ml/gvq6
     Mod Cloth: https://go.magik.ly/ml/gvq7
     Sephora: https://go.magik.ly/ml/gvq5
+  social:
+    ig: besamecosmetics
+    fb: BesameCosmetics
+    tw: Besamecosmetics
+    yt: user/BesameGirl
   type: Cosmetics
   description: "honoring the style, spirit, & sensibility of female beauty"
 product:

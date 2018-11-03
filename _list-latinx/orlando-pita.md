@@ -5,6 +5,10 @@ company:
   url:
     shop: https://orlandopitaplay.com/
     QVC: https://go.magik.ly/ml/gvst
+  social:
+    ig: orlandopita
+    yt: channel/UCWSTTeEbgkRSdUOTrq3P-DA
+    fb: Orlandopitahair
   type: Haircare
   description: "to achieve your hair goals"
 product:

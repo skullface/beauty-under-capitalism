@@ -8,6 +8,9 @@ company:
     Ipsy: https://go.magik.ly/ml/gvqd/
     JCPenney: https://go.magik.ly/ml/gvqg
     Sephora: https://go.magik.ly/ml/gvqc
+  social:
+    ig: breakupstomakeup
+    fb: breakupstomakeup
   type: Accessories & apparel
   description: "spreading the power of makeup, one accessory at a time"
 product:

@@ -4,6 +4,9 @@ company:
   name: "Cryptic Cosmetics"
   url:
     shop: https://crypticcosmetics.com
+  social:
+    ig: crypticcosmetic
+    yt: channel/UCQwd6w5zAAmIyjjVYFCWBNQ
   type: Cosmetics
   description: "for the obscure"
 product:

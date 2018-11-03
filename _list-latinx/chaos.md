@@ -4,6 +4,9 @@ company:
   name: "Chaos Makeup"
   url:
     shop: https://www.chaosmakeup.com
+  social:
+    ig: chaosmakeupartist
+    fb: ChaosMakeupArtist
   location: Texas
   type: Cosmetics
   ingredients:

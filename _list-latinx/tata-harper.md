@@ -13,7 +13,12 @@ company:
     Saks Fifth Avenue: https://go.magik.ly/ml/gvs5
     Selfridges 🇬🇧: https://go.magik.ly/ml/gvs0
     Sephora: https://go.magik.ly/ml/gvrz
-    Space NK 🇬🇧: https://go.magik.ly/ml/gvs2/
+    Space NK 🇬🇧: https://go.magik.ly/ml/gvs2
+  social:
+    fb: TataHarperSkinCare
+    yt: user/TataHarperSkincare
+    ig: tataharperskincare
+    tw: tataharper
   type: Skincare
   ingredients:
     - handcrafted

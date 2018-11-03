@@ -3,7 +3,7 @@ list: primary
 company:
   name: "Sigma Beauty"
   url:
-    shop: https://go.magik.ly/ml/gmbx
+    shop: https://go.magik.ly/ml/7fsk
     Amazon: https://www.amazon.com/l/17284633011
     Camera Ready Cosmetics: https://go.magik.ly/ml/gvrs
     Cult Beauty 🇬🇧: https://go.magik.ly/ml/gvrj
@@ -14,6 +14,10 @@ company:
     Revolve: https://go.magik.ly/ml/gvru
     Riley Rose: https://go.magik.ly/ml/gvrt
     Urban Outfitters: https://go.magik.ly/ml/gvrk
+  social:
+    fb: sigmabeauty
+    tw: SigmaBeauty
+    ig: SigmaBeauty
   type: Cosmetics and beauty tools
   description: "that provide beauty enthusiasts with the latest innovations"
 product:

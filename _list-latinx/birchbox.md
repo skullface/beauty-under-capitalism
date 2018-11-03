@@ -4,6 +4,11 @@ company:
   name: "Birchbox"
   url:
     shop: https://www.birchbox.com
+  social:
+    ig: Birchbox
+    tw: Birchbox
+    fb: Birchbox
+    yt: user/birchboxtv
   type: Subscription box
   description: "The original online skincare, haircare, and cosmetics"
   predicate: yes

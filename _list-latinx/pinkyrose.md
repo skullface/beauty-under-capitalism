@@ -4,8 +4,10 @@ company:
   name: "Pinky Rose"
   url:
     shop: https://www.pinkyrosecosmetics.com
-    Ricky’s NYC: https://go.magik.ly/ml/gvre/
+    Ricky’s NYC: https://go.magik.ly/ml/gvre
     Riley Rose: https://go.magik.ly/ml/gvrc
+  social:
+    ig: pinkyrosecosmetics
   type: Cosmetics
   description: "to express your love for color"
 product:

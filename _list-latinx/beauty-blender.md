@@ -11,6 +11,10 @@ company:
     Net-A-Porter: https://go.magik.ly/ml/gvpr
     Sephora: https://go.magik.ly/ml/gvpu
     Ulta: https://go.magik.ly/ml/gvpq
+  social:
+    ig: beautyblender
+    tw: beautyblender
+    yt: beautyblender
   type: Cosmetics
   description: "complementing the original beauty sponge"
 product:

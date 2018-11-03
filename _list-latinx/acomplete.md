@@ -4,6 +4,10 @@ company:
   name: "A Complete"
   url:
     shop: https://acomplete.com
+  social:
+    ig: acompletewomen
+    fb: acompletewomen
+    tw: acompletewomen
   type: Skincare
   description: "committed to complimenting a woman’s true beauty inside out"
 product:

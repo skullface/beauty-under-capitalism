@@ -10,6 +10,11 @@ company:
     Ulta: https://go.magik.ly/ml/gvqt
     Walgreens: https://go.magik.ly/ml/gvqo
     Walmart: https://go.magik.ly/ml/gvqq
+  social:
+    yt: user/itsa10haircare
+    tw: itsa10haircare
+    fb: itsa10haircare
+    ig: itsa10haircare
   type: Haircare
   description: "designed to deliver a combination of 10 benefits all in one bottle"
 product:

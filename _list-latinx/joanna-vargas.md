@@ -13,6 +13,11 @@ company:
     Nordstrom: https://go.magik.ly/ml/gvqx
     Of a Kind: https://go.magik.ly/ml/gvr4
     Revolve: https://go.magik.ly/ml/gvqy
+  social:
+    ig: JVSkinCare
+    tw: JVSkinCare
+    fb: JoannaVargasSkincare
+    yt: user/JVSkinCare
   type: Skincare
   description: "committed to plant-based ingredients and science"
 product:

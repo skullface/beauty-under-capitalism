@@ -1,10 +1,13 @@
 ---
-
+list: primary
 ethnicity: latina
 company:
   name: "Rincón Cosmetics"
   url:
     shop: https://www.rinconcosmetics.com
+  social:
+    fb: rinconcosmetics
+    ig: rinconcosmetics
   type: "Cosmetics"
   description: "that connect beauty trendsetters"
 product:

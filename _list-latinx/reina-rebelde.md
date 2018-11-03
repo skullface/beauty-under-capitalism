@@ -3,8 +3,12 @@ list: primary
 company:
   name: "Reina Rebelde"
   url:
-    shop: https://reinarebelde.com
+    shop: http://reinarebelde.refr.cc/jessica
     Target: https://go.magik.ly/ml/gvrg
+  social:
+    ig: reinarebelde
+    fb: reinarebeldecosmetics
+    tw: RRebeldeBeauty
   type: Cosmetics
   description: "for today’s ambitious multi-cutural woman"
 product:

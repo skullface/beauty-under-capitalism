@@ -4,6 +4,10 @@ company:
   name: "Bettina Cosmetics"
   url:
     shop: https://bettinacosmetics.com
+  social:
+    ig: BettinaCosmetics
+    fb: BettinaCosmetics
+    tw: BettinaCosmetics
   location: Dorado, PR
   type: Cosmetics and Nailcare
   description: "Affordable"
