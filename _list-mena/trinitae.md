@@ -4,6 +4,9 @@ company:
   name: "Trinitae"
   url:
     shop: http://trinitae.com
+  social:
+    ig: trinitaejo
+    fb: TrinitaeJo
   type: Skincare
   ingredients:
     - organic

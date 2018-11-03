@@ -8,6 +8,10 @@ company:
     Camera Ready Cosmetics: https://go.magik.ly/ml/gvph
     Dolls Kill: https://go.magik.ly/ml/gvpm
     Riley Rose: https://go.magik.ly/ml/gvpk
+  social:
+    ig: suvabeauty
+    fb: suvabeauty
+    tw: suvabeauty
   type: Cosmetics
   description: "that aim to excite and spark good spirit in every artist or creator"
 product:

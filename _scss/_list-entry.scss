@@ -1,8 +1,6 @@
 .company {
   margin-top: $spacer-3;
-  max-width: 36rem;
-  margin-left: auto;
-  margin-right: auto;
+  @extend .container-small;
   &:not(:first-child):before {
     display: block;
     content: "—";
@@ -32,8 +30,13 @@ h3 {
 .company-type,
 .button {
   font-family: $font-family__sans;
-  font-weight: 700;
   text-transform: uppercase;
+}
+
+.hashtag,
+.company-type,
+.button {
+  font-weight: 700;
 }
 
 .company-ingredients,
@@ -95,6 +98,7 @@ $ingredients: (
         }
         &:after {
           content: "#{$emoji}";
+          font-size: 12px;
         }
       }
     }
@@ -125,4 +129,53 @@ $ingredients: (
   width: 100%;
   margin-bottom: 5px;
   border: solid 1px $color_gray;
+}
+
+.company-header {
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: flex-start;
+}
+
+.links-social {
+  margin-left: 0.75rem;
+  opacity: 0;
+  transition: .6s;
+}
+
+.company:hover .links-social {
+  opacity: 1;
+}
+
+.links-social a {
+  display: inline-block;
+  &:not(:first-child) {
+    margin-left: 0.75rem;
+  }
+  &:before {
+    display: block;
+    content: " ";
+    width: 16px;
+    height: 16px;
+    background-image: url('/assets/icons.svg');
+    background-size: cover;
+    opacity: 0.2;
+    transition: .2s;
+  }
+  &.ig:before {
+    background-position: 0 0;
+  }
+  &.yt:before {
+    background-position: -16px 0;
+  }
+  &.fb:before {
+    background-position: -32px 0;
+  }
+  &.tw:before {
+    background-position: -48px 0;
+  }
+  &:hover:before {
+    opacity: 1;
+  }
 }

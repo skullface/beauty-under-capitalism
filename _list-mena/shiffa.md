@@ -7,6 +7,9 @@ company:
     Bloomingdale’s: https://go.magik.ly/ml/gvpc/
     Look Fantastic: https://www.lookfantastic.com/brands/shiffa.list
     Nordstrom: https://go.magik.ly/ml/gvpb
+  social:
+    ig: shiffabeauty
+    yt: channel/UCD9xOXlo3fh9gxEepW2DiAg/videos
   type: Skincare and fragrances
   description: "for people who care about wellness as well as beauty"
 product:

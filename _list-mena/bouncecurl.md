@@ -5,6 +5,9 @@ company:
   url:
     shop: https://bouncecurl.com
     Amazon: https://www.amazon.com/l/14590291011
+  social:
+    ig: bouncecurl
+    yt: channel/UCCLu3c35FXMRoZ8sDHFkBNA
   type: Haircare
   ingredients:
     - vegan

@@ -4,6 +4,10 @@ company:
   name: "Izil Beauty"
   url:
     shop: https://www.izilbeauty.com
+  social:
+    ig: izilbeauty
+    fb: IZILBEAUTY
+    yt: channel/UCn1VownS87Clggsj50N1D3g
   type: Skincare
   ingredients:
     - organic

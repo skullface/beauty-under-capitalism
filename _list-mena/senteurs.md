@@ -5,6 +5,9 @@ company:
   url:
     shop: https://usa.senteursdorient.com
     Net-A-Porter: https://go.magik.ly/ml/gvpa
+  social:
+    ig: senteursdorient
+    fb: senteursdorient
   type: Bodycare
   ingredients:
     - handcrafted

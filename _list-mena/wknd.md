@@ -3,8 +3,11 @@ list: primary
 company:
   name: "WKND Cosmetics"
   url:
-    site: https://www.wkndcosmetics.com
+    shop: https://www.wkndcosmetics.com
     Amazon: https://www.amazon.com/dp/B07CQTYP6B
+  social:
+    ig: wkndcosmetics
+    fb: wkndcosmetics
   type: Skincare
   ingredients:
     - non-toxic

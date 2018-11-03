@@ -4,9 +4,12 @@ company:
   name: "Blush Tribe Cosmetics"
   url:
     shop: https://blushtribe.com
+  social:
+    ig: blushtribe
+    twitter: blushtribe
   type: Cosmetics
   location: London, UK
-  description: "&mdash; 10% from each sale will fund a water well in Somalia"
+  description: "for a good cause: 10% of sales help fund water wells in Somalia"
 product:
   name: "eyeshadow palettes"
   description: "with a Jackie Aina-approved formula"

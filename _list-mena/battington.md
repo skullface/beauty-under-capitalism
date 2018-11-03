@@ -6,6 +6,9 @@ company:
     shop: https://www.battingtonbeauty.com
     Revolve: https://go.magik.ly/ml/gvni
     Ricky’s NYC: https://go.magik.ly/ml/gvnn
+  social:
+    ig: battingtonbeauty
+    fb: battingtonlashes1
   type: Cosmetics
   ingredients:
     - vegan

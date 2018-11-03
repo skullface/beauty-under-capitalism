@@ -9,6 +9,11 @@ company:
     Nordstrom: https://go.magik.ly/ml/gvp3
     Sephora: https://go.magik.ly/ml/gvp2
     Ulta: https://go.magik.ly/ml/gvoy
+  social:
+    ig: Ouidad
+    fb: Ouidad
+    tw: Ouidad
+    yt: channel/UC9M9Xc8LCrJgn6zX5w8HKTQ
   type: Haircare
   description: "dedicated to empowering individuals with curls"
 product:

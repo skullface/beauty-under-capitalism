@@ -4,6 +4,10 @@ company:
   name: "Prismologie"
   url:
     shop: https://prismologie.com
+  social:
+    ig: prismologie
+    tw: prismologie
+    fb: prismologie
   type: Skincare and bodycare
   location: UK
   ingredients:

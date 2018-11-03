@@ -4,6 +4,10 @@ company:
   name: "Certifeye"
   url:
     shop: http://certifeye.co.uk
+  social:
+    ig: certifeye
+    tw: certifeye
+    fb: certifeye
   type: Cosmetics
   location: London, UK
   description: "and grooming products from a Desi brand"

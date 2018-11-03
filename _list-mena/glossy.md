@@ -3,7 +3,12 @@ list: primary
 company:
   name: "Glossy Make Up"
   url:
-    shop: https://glossymakeup.com/
+    shop: https://glossymakeup.com
+  social:
+    ig: glossymakeup
+    tw: glossymakeup
+    fb: glossymakeup
+    yt: channel/UCuYhOrNRu95m8ak3yw5uUMw
   type: Cosmetics and beauty tools
   location: UAE
   description: "to help women look like the most beautiful version of themselves"

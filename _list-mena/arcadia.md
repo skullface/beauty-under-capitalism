@@ -4,6 +4,8 @@ company:
   name: "Arcadia Fragrances"
   url:
     shop: https://arcadiame.co
+  social:
+    ig: arcadiabyamna
   type: Fragrance
   location: UAE
   description: "focused on the power of scents"

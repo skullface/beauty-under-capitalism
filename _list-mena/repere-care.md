@@ -3,7 +3,10 @@ list: primary
 company:
   name: "Repère Care"
   url:
-    shop: https://www.sheaterraorganics.com
+    shop: https://reperecare.com
+  social:
+    ig: reperecare
+    fb: reperecare
   type: Skincare and haircare
   location: UAE
   ingredients:
