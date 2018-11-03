@@ -2,3 +2,21 @@ $spacer-unit:   1rem;
 $spacer-1:      $spacer-unit*0.5;
 $spacer-2:      $spacer-unit;
 $spacer-3:      $spacer-unit*2;
+
+.container,
+.container-small {
+  margin-left: auto;
+  margin-right: auto;
+  @media (max-width: 850px) {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+.container {
+  max-width: 51.25rem;
+}
+
+.container-small {
+  max-width: 36rem;
+}

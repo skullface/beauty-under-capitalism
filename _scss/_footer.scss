@@ -11,6 +11,7 @@
   font-family: $font-family__sans;
   color: $color_white;
   background-color: $color_primary;
+  transition: background-color 200ms ease-in-out;
   text-align: center;
   &:hover {
     text-decoration: none;
