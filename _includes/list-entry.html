@@ -7,7 +7,7 @@
     </h3>
     {% if post.company.social %}
     <nav class="links-social">
-      {% if post.company.social.ig %}<a href="https://instagram.com/{{ post.company.social.ig }}" class="ig" alt="{{ post.company.social.ig }} on Instagram"></a>{% endif %}{% if post.company.social.yt %}<a href="https://youtube.com/{{ post.company.social.yt }}" class="yt" alt="{{ post.company.social.yt }} on YouTube"></a>{% endif %}{% if post.company.social.fb %}<a href="https://facebook.com/{{ post.company.social.fb }}" class="fb" alt="{{ post.company.social.fb }} on Facebook"></a>{% endif %}
+      {% if post.company.social.ig %}<a href="https://instagram.com/{{ post.company.social.ig }}" class="ig" alt="@{{ post.company.social.ig }} on Instagram"></a>{% endif %}{% if post.company.social.fb %}<a href="https://facebook.com/{{ post.company.social.fb }}" class="fb" alt="@{{ post.company.social.fb }} on Facebook"></a>{% endif %}{% if post.company.social.yt %}<a href="https://youtube.com/{{ post.company.social.yt }}" class="yt" alt="@{{ post.company.social.yt }} on YouTube"></a>{% endif %}{% if post.company.social.tw %}<a href="https://twitter.com/{{ post.company.social.tw }}" class="tw" alt="@{{ post.company.social.tw }} on Twitter"></a>{% endif %}
     </nav>
     {% endif %}
   </header>
