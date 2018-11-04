@@ -22,7 +22,7 @@ We feature **cosmetic, skincare, haircare, bath & body, nailcare, and beauty too
 Please [fill out this form](https://goo.gl/forms/JaJgloVDdTACgWXV2) or [drop us an email](mailto:submit@beautyundercapitalism.com)!
 
 ### I need information corrected or removed.
-If you represent a brand featured on this site and you find information that is incorrect or misstated, please <a href="mailto:problem@beautyundercapitalism.com">send us an email</a>.
+If you represent a brand featured on this site and you find incorrect or misstated information, please <a href="mailto:problem@beautyundercapitalism.com">send us an email</a>.
 
 ---
 
