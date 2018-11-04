@@ -4,7 +4,7 @@ layout: page
 ---
 
 ## Apps
-* [CocoaSwatches]()
+* [CocoaSwatches](https://www.cocoaswatches.com)
 
 ## Social media accounts
 
@@ -17,5 +17,5 @@ layout: page
 * [@CocoaSwatches](https://www.instagram.com/cocoaswatches/)
 
 ## MUAs and influencers
-* [Nyma Tang]
-* [Jackie Aina]
+* Nyma Tang
+* Jackie Aina

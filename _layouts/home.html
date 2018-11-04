@@ -1,3 +1,22 @@
 ---
-layout: page
+layout: default
 ---
+
+<div class="page-container">
+  {{ content | markdownify }}
+</div>
+
+
+<section class="container">
+  <hr>
+  {% for post in site.posts %}
+    <article>
+      <h3>
+          <time>{{ post.date | date: "%B %-d, %Y" }}</time> | {{ post.title }}
+      </h3>
+
+
+      {{ post.content }}
+    </article>
+  {% endfor %}
+</section>

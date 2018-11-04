@@ -11,8 +11,8 @@ layout: default
 </div>
 
 <div class="page-list">
-{% assign BoB = site.list-black | sort: 'title' | where: 'list', 'primary'  %}
-{% for post in BoB %}
+{% assign listPrimary = site.list-black | sort: 'title' | where: 'list', 'primary'  %}
+{% for post in listPrimary %}
   {% include list-entry.html %}
 {% endfor %}
 </div>
@@ -26,8 +26,8 @@ layout: default
 </div>
 
 <div class="page-list">
-{% assign other-BoB = site.list-black | sort: 'title' | where: 'list', 'secondary'  %}
-{% for post in other-BoB %}
+{% assign listSecondary = site.list-black | sort: 'title' | where: 'list', 'secondary'  %}
+{% for post in listSecondary %}
   {% include list-entry.html %}
 {% endfor %}
 </div>
