@@ -1,1 +1,1 @@
-Some of the following links are affiliate links, which means we make a small amount of money off your purchase. [Learn more about affiliate links and our criteria regarding a brand’s “cruelty-free” status](/about).
+Some of the following links are affiliate links, which means we make a small amount of money off your purchase. [Learn about affiliate links more in our FAQ](/faq).

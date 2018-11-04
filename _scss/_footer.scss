@@ -22,11 +22,54 @@
 
 .site-footer {
   margin-top: 6rem;
-  padding: 2rem 0;
-  font-family: $font-family__sans;
-  background-color: $color_gray;
+  li {
+    margin-bottom: .5rem;
+  }
+  .container {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    border-top: solid 1px $color_gray;
+  }
+  nav {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    @media (min-width: 650px) {
+      flex-direction: row;
+    }
+  }
   a {
+    font-family: $font-family__sans;
+    font-size: 80%;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 2rem;
+    @media (min-width: 650px) {
+      &:not(:first-child) {
+        margin-bottom: 0;
+        margin-left: 4rem;
+      }
+    }
+  }
+  a {
+    display: inline-block;
     color: $color_black;
-    margin-right: 1rem;
+  }
+  .links-social {
+    a {
+      margin-right: .5rem;
+      text-decoration: none;
+    }
+    span {
+      display: inline-block;
+    }
+    a:before {
+      position: relative;
+      top: 3px;
+    }
   }
 }

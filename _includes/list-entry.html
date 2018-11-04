@@ -1,7 +1,7 @@
 <article class="company" id="{{ post.company.name | slugify }}">
   <header class="company-header">
     <h3 class="company-name">
-      <a href="{{ post.company.url.shop }}">
+      <a href="{{ post.company.url.shop }}" target="_blank">
         {{ post.company.name }}
       </a>
     </h3>
@@ -43,17 +43,17 @@
       {% if post.owner.company.parent %}
         (owned by {{ post.owner.company.parent.name }}{% if post.owner.company.parent.description %}, {{ post.owner.company.parent.description }}{% endif %})
       {% endif %};
-      {{ post.owner.owner-founder.percentage }}-owned by {{ post.owner.owner-founder.flag }} <a href="{{ post.owner.owner-founder.url }}">{{ post.owner.owner-founder.name }}</a>.
+      {{ post.owner.owner-founder.percentage }}-owned by {{ post.owner.owner-founder.flag }} <a href="{{ post.owner.owner-founder.url }}" target="_blank">{{ post.owner.owner-founder.name }}</a>.
     {% else %}
       Owned by <a href="{{ post.owner.company.url }}" target="_blank">{{ post.owner.company.name }}</a>,
       which is owned
       {% if post.owner.company.owner-founder %}
-        and founded by {{ post.owner.company.owner-founder.title }} {{ post.owner.flag }} <a href="{{ post.owner.company.owner-founder.url }}">{{ post.owner.company.owner-founder.name }}</a>.
+        and founded by {{ post.owner.company.owner-founder.title }} {{ post.owner.flag }} <a href="{{ post.owner.company.owner-founder.url }}" target="_blank">{{ post.owner.company.owner-founder.name }}</a>.
       {% else %}
-        by {{ post.owner.company.owner.title }} <a href="{{ post.owner.company.owner.url }}">{{ post.owner.company.owner.name }}</a>{% if post.owner.company.founder.name %}
+        by {{ post.owner.company.owner.title }} <a href="{{ post.owner.company.owner.url }}" target="_blank">{{ post.owner.company.owner.name }}</a>{% if post.owner.company.founder.name %}
           founded by
           {{ post.owner.company.founder.title }}
-          {% if post.owner.company.founder.url %}<a href="{{ post.owner.company.founder.url }}">{% endif %}
+          {% if post.owner.company.founder.url %}<a href="{{ post.owner.company.founder.url }}" target="_blank">{% endif %}
           {{ post.owner.company.founder.name }}{% if post.owner.company.founder.url %}</a>.{% endif %}
         {% else %}
           and {{ post.owner.flag }} {{ post.owner.company.founder.name }}.
@@ -68,7 +68,7 @@
         and {{ post.owner.title }}
       {% endif %}
       {{ post.owner.flag }}
-      {% if post.owner.url %}<a href="{{ post.owner.url }}">{% endif %}{{ post.owner.name }}{% if post.owner.url %}</a>{% endif %}{% if post.company.location %} in {{ post.company.location }}.{% else %}.{% endif %}
+      {% if post.owner.url %}<a href="{{ post.owner.url }}" target="_blank">{% endif %}{{ post.owner.name }}{% if post.owner.url %}</a>{% endif %}{% if post.company.location %} in {{ post.company.location }}.{% else %}.{% endif %}
   {% when 'separate' %}
   Owned by
     {% if post.owner.owner.url %}<a href="{{ post.owner.owner.url }}">{% endif %}{{ post.owner.owner.name }}{% if post.owner.owner.url %}</a>{% endif %}{% if post.owner.owner.description %} {{ post.owner.owner.description }}{% endif %},
@@ -80,7 +80,7 @@
 
   <nav class="links-shop">
   {% for link in post.company.url %}
-    <a href="{{ link[1] }}" class="button">{{ link[0] }}</a>
+    <a href="{{ link[1] }}" class="button" target="_blank">{{ link[0] }}</a>
   {% endfor %}
   </nav>
 </article>

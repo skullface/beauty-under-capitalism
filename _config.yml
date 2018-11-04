@@ -1,20 +1,12 @@
 # Site settings
 title: Beauty Under Capitalism
 email: hi@beautyundercapitalism.com
+tagline: x
+description: x
 baseurl: ""
 url: ""
 encoding: utf-8
 lang: en
-
-# SEO
-twitter_username: "@skullface"
-twitter_creator: "@skullface"
-description: >-
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-share_image: "social-card.png"
-favicon: "favicon.ico"
 
 # Build settings
 permalink: pretty
@@ -29,14 +21,19 @@ plugins:
 collections:
   list-black:
     permalink: black-women-owned-beauty-brands
+    output: true
   list-latinx:
     permalink: latina-owned-beauty-brands
+    output: true
   list-mena:
     permalink: mena-owned-beauty-brands
+    output: true
   list-asian:
     permalink: asian-owned-beauty-brands
+    output: true
   list-problematic:
     permalink: problematic
+    output: true
 
 exclude:
   - README.md

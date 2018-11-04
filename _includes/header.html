@@ -13,10 +13,18 @@
   <meta name="author" content="{{site.author}}"/>
   <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="{{site.baseurl}}/feed.xml" />
 
-  <link rel="stylesheet" href="/assets/style.css?{{ site.time | date: '%s'}} ">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="og:image" content="{{site.url}}/assets/social.jpg">
+  <meta property="og:site_name" content="Beauty Under Capitalism">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ site.tagline }}">
+  <meta name="twitter:title" content="{{ site.taglin }}">
+  <meta property="og:url" content="https://beautyundercapitalism.com">
+  <meta property="og:description" content="{{ site.description }}">
+
+  <link rel="stylesheet" href="/assets/style.css?{{ site.time | date: '%s'}}">
   <link rel="stylesheet" href="https://use.typekit.net/zbx2ddc.css">
 </head>
 
 <body id="💄">
-
-  {% include nav.html %}
+{% include nav.html %}

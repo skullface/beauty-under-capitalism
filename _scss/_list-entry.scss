@@ -139,9 +139,17 @@ $ingredients: (
 }
 
 .links-social {
-  margin-left: 0.75rem;
-  opacity: 0;
   transition: .6s;
+}
+
+.company .links-social {
+  opacity: 0;
+  margin-left: 0.75rem;
+  a {
+    &:not(:first-child) {
+      margin-left: 0.75rem;
+    }
+  }
 }
 
 .company:hover .links-social {
@@ -150,11 +158,8 @@ $ingredients: (
 
 .links-social a {
   display: inline-block;
-  &:not(:first-child) {
-    margin-left: 0.75rem;
-  }
   &:before {
-    display: block;
+    display: inline-block;
     content: " ";
     width: 16px;
     height: 16px;
