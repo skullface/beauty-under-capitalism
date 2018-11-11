@@ -1,7 +1,7 @@
 ---
 list: primary
 company:
-  name: "tgin (Thank God It’s Natural)"
+  name: "Thank God It’s Natural"
   url:
     shop: https://thankgoditsnatural.com
     CGS: https://go.magik.ly/ml/gumc

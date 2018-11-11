@@ -15,8 +15,9 @@ company:
   location: "Baltimore, MD"
   ingredients:
     - handcrafted
+    - organic
   predicate: true
-  description: "100%"
+  description: "Award-winning, 100%"
 product:
   predicate: true
   name: "leave-in conditioners"

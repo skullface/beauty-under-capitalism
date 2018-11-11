@@ -13,8 +13,8 @@ company:
   location: New Jersey
   ingredients:
     cruelty-free
-  type: Haircare, skincare and bodycare
-  description: "for men, providing healthier, good-for-you and your body products"
+  type: Grooming, haircare, skincare and bodycare
+  description: "providing healthier, good-for-you and your body products"
 product:
   name: "sensitive skin shave set"
   description: "with gentle ingredients to avoid irritation"

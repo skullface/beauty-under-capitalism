@@ -11,7 +11,7 @@ company:
   ingredients:
     - vegan
     - "made in the usa"
-  description: "made with the intention"
+  description: "made with intention"
 product:
   name: "Petal Facial Mist"
   description: "for parched skin"
