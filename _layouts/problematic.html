@@ -56,7 +56,6 @@ layout: default
 </div>
 
 <div class="page-list problematic-list">
-{% assign listSecondary = site.list-problematic | sort: 'title' | where: 'list', 'secondary'  %}
 {% for post in listSecondary %}
   {% include list-entry-problematic.html %}
 {% endfor %}

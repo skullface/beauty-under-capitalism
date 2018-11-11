@@ -7,6 +7,20 @@ layout: default
     <h1 class="page-title"><span>{{ page.title }}</span></h1>
     {% capture intro %}{% include intro.md %}{% endcapture %}
     {{ intro | markdownify }}
+    <section class="page-toc">
+      <a id="js-toggle" class="button">Table of Contents</a>
+      {% assign listPrimary = site.list-asian | sort: 'title' | where: 'list', 'primary' %}
+      {% assign listSecondary = site.list-asian | sort: 'title' | where: 'list', 'secondary' %}
+      <div class="toc toc--togglable">
+        <ul>
+        {% for post in listPrimary %}
+          <li>
+            <a href="#{{ post.company.name | slugify }}">{{ post.company.name }}</a>
+          </li>
+        {% endfor %}
+        </ul>
+      </div>
+    </section>
   </div>
 </div>
 
@@ -19,7 +33,7 @@ layout: default
 
 <div class="container">
   <hr>
-  
+
   <h1 class="page-title"><span>Other Asian owned brands</span></h1>
 
   {{ intro-secondary | markdownify }}

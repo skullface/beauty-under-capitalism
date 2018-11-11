@@ -15,6 +15,9 @@
   }
 }
 
+.page-toc {
+}
+
 .problematic-upper {
   padding-top: $spacer-3;
 }
@@ -36,5 +39,9 @@
   }
   @media (min-width: 800px) {
     column-count: 4;
+  }
+  a {
+    font-size: 88%;
+    color: inherit;
   }
 }

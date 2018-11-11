@@ -7,11 +7,24 @@ layout: default
     <h1 class="page-title"><span>{{ page.title }}</span></h1>
     {% capture intro %}{% include intro.md %}{% endcapture %}
     {{ intro | markdownify }}
+    <section class="page-toc">
+      <a id="js-toggle" class="button">Table of Contents</a>
+      {% assign listPrimary = site.list-mena | sort: 'title' | where: 'list', 'primary' %}
+      {% assign listSecondary = site.list-mena | sort: 'title' | where: 'list', 'secondary' %}
+      <div class="toc toc--togglable">
+        <ul>
+        {% for post in listPrimary %}
+          <li>
+            <a href="#{{ post.company.name | slugify }}">{{ post.company.name }}</a>
+          </li>
+        {% endfor %}
+        </ul>
+      </div>
+    </section>
   </div>
 </div>
 
 <div class="page-list">
-{% assign listPrimary = site.list-mena | sort: 'title' | where: 'list', 'primary' %}
 {% for post in listPrimary %}
   {% include list-entry.html %}
 {% endfor %}
@@ -26,7 +39,6 @@ layout: default
 </div>
 
 <div class="page-list">
-{% assign listSecondary = site.list-mena | sort: 'title' | where: 'list', 'secondary'  %}
 {% for post in listSecondary %}
   {% include list-entry.html %}
 {% endfor %}
