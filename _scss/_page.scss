@@ -1,4 +1,8 @@
 .page-container {
   margin-top: 3rem;
   @extend .container-small;
+
+  h1 {
+    margin-bottom: $spacer-2;
+  }
 }

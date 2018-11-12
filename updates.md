@@ -7,6 +7,7 @@ layout: page
 
 <section class="posts">
 {% for post in site.posts %}
+  <hr>
   <article class="post">
     <div class="meta">
       <time>{{ post.date | date: "%B %-d, %Y" }}</time>
@@ -22,6 +23,5 @@ layout: page
 
     {{ post.content }}
   </article>
-  <hr>
 {% endfor %}
 </section>

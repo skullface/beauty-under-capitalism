@@ -1,7 +1,9 @@
 ---
-title: FAQ
+title: Frequently Asked Questions
 layout: page
 ---
+
+# FAQ
 
 ## Brand lists
 
@@ -9,13 +11,13 @@ layout: page
 We feature **cosmetic, skincare, haircare, bath & body, nailcare, and beauty tools** brands that have at least one active social media channel and fall into one of two categories:
 
 #### Primary list (must meet all criteria)
-* Majority-owned (51%+) by a woman or nonbinary person of color
+* Majority-owned (51%+) by a Woman or non-binary Person of Color
 * Founded by a WoC/non-binary PoC
 * Cruelty-free
 
 #### "More" list
 * Founded by a WoC/non-binary PoC, but not majority-owned by a WoC/non-binary PoC (either through a partnership or through an exit)
-* Owned and founded by a man of color
+* Owned and founded by a Man of Color
 * May or may not be cruelty-free
 
 ### How can I recommend a brand?
@@ -56,3 +58,10 @@ Compiling our list data takes a significant amount of time. Affiliate links are 
 
 ### How do you choose the product featured for each brand?
 We choose the featured product from each brand based on its rating, reviews, sales, or use. It’s often the brand’s flagship or most popular offering, but sometimes it’s just a product we find beautiful or innovative. Most products recommended to try are vegan and made without common irritants, but please look over the ingredients before purchasing!
+
+---
+
+## Contributing
+
+### How can I help make this site better?
+The source code for this site is public [on GitHub](https://github.com/skullface/beauty-under-capitalism). Pull requests welcome!
