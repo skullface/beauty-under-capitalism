@@ -1,7 +1,10 @@
 # [Beauty Under Capitalism](https://beautyundercapitalism.com)
 
-Self-care is vital. Capitalism is inescapable.
-**_`SUPPORT WOMEN OF COLOR + THEIR INDEPENDENT BUSINESSES.`_**.
+Self-care is vital.
+
+Capitalism is inescapable.
+
+**_`SUPPORT WOMEN OF COLOR + THEIR INDEPENDENT BUSINESSES`_**.
 
 ---
 
@@ -13,5 +16,5 @@ Make informed purchases as you practice Beauty Under Capitalism.
   * Give more money to Women of Color.
   * Educate consumers on problematic brands.
 
-### Tech
+### Stack
 Beauty Under Capitalism is a [GitHub Pages](https://github.com/github/pages-gem) site built with [Jekyll](https://github.com/jekyll/jekyll). A little CSS, a little JS, mostly just A LOT of Markdown.
