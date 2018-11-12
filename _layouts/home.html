@@ -1,22 +1,31 @@
 ---
 layout: default
+title: "Beauty Under Capitalism"
 ---
 
-<div class="page-container">
-  {{ content | markdownify }}
+<div class="page-upper home-upper">
+  <div class="container">
+    <p class="lede">Self-care is vital. Capitalism is inescapable.</p>
+    <p class="support">Support women of color + their independent businesses.</p>
+  </div>
 </div>
 
+<div class="page-container home-container">
+  <section class="description">
+    {{ content | markdownify }}
+  </section>
 
-<section class="container">
-  <hr>
-  {% for post in site.posts %}
-    <article>
-      <h3>
-          <time>{{ post.date | date: "%B %-d, %Y" }}</time> | {{ post.title }}
-      </h3>
+  <section class="latest-update">
+    {% for post in site.posts limit:1 %}
+      <article>
+        <h3>
+          <time>{{ post.date | date: "%B %-d, %Y" }}</time>
+        </h3>
 
+        {{ post.excerpt }}
+      </article>
+    {% endfor %}
+    <a href="/updates" class="more">View all updates →</a>
+  </section>
 
-      {{ post.content }}
-    </article>
-  {% endfor %}
-</section>
+</div>

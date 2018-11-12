@@ -1,14 +1,60 @@
-.google-contact_container {
-  overflow: hidden;
-  padding-top: 56.25%;
-  position: relative;
+/*
+.page-upper.home-upper .container {
+  border-top: 0;
+}
+*/
+
+.home-upper {
+  font-family: $font-family__sans;
+  text-align: center;
+  line-height: 1.2;
+
+  .container {
+    padding-top: $spacer-3*2.25;
+    padding-bottom: $spacer-3*1.25;
+  }
+
+  .lede {
+    font-size: 175%;
+    color: $color_primary;
+  }
+
+  .support {
+    font-size: 250%;
+    color: $color_white;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    max-width: 48rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
-iframe.google-contact {
-  border: 0;
-  height: 100%;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 100%;
+.home-container {
+  @media (min-width: 500px) {
+    display: flex;
+    align-items: center;
+    .description {
+      width: 65%;
+    }
+    .latest-update {
+      width: 35%;
+      margin-left: $spacer-3;
+    }
+  }
+}
+
+.page-container .latest-update {
+  font-size: 85%;
+  border: solid 1px $color_gray;
+  padding: $spacer-2;
+  h3 {
+    font-size: 100%;
+  }
+  a.more {
+    display: block;
+    margin-top: $spacer-1;
+    font-family: $font-family__sans;
+  }
 }
