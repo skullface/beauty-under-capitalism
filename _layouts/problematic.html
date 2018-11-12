@@ -5,12 +5,7 @@ layout: default
 <div class="problematic-upper container">
   <h1 class="page-title"><span>{{ page.title }}</span></h1>
 
-  <p>
-    The following lists serve as a ledger of beauty brand behavior regarding <strong>(content warning)</strong> racism, anti-blackness, misogyny, homophobia, violent language, questionable practices, and religious and ethnic discrimination. Sources are linked within the text and images retain copyright to their respectful owners.
-  </p>
-  <p>
-    Make informed purchase decisions at your own discretion.
-  </p>
+  {{ content | markdownify }}
 
 {% assign listPrimary = site.list-problematic | sort: 'title' | where: 'list', 'primary'  %}
 {% assign listSecondary = site.list-problematic | sort: 'title' | where: 'list', 'secondary'  %}
