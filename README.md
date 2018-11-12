@@ -1,7 +1,17 @@
-# Beauty Under Capitalism
+# [Beauty Under Capitalism](https://beautyundercapitalism.com)
+
+Self-care is vital. Capitalism is inescapable.
+**_`SUPPORT WOMEN OF COLOR + THEIR INDEPENDENT BUSINESSES.`_**.
+
+---
 
 ### Purpose
-Enjoy vanity, artistry, and self-care while **_`supporting independent women of color business owners`_**.
+Make informed purchases as you practice Beauty Under Capitalism.
+
+### Goal
+* Provide sourceable information so consumers can make informed purchase decisions at their own discretion, with the hope to:
+  * Give more money to Women of Color.
+  * Educate consumers on problematic brands.
 
 ### Tech
-Jekyll! GitHub Pages!
+Beauty Under Capitalism is a [GitHub Pages](https://github.com/github/pages-gem) site built with [Jekyll](https://github.com/jekyll/jekyll). A little CSS, a little JS, mostly just A LOT of Markdown.
