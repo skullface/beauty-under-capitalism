@@ -8,12 +8,12 @@
   <title>{% if page.title %}{{ page.title }} | {% endif %} Beauty Under Capitalism</title>
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="shortcut icon" href="{{ site.url }}/assets/favicon.png">
+  <link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}/assets/favicon.png">
   <meta name="description" content="{{site.description}}"/>
   <meta name="author" content="{{site.author}}"/>
   <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="{{site.baseurl}}/feed.xml" />
 
-  <meta property="og:image" content="{{site.url}}/assets/social.jpg">
+  <meta property="og:image" content="{{site.url}}{{ site.baseurl }}/assets/social.jpg">
   <meta property="og:site_name" content="Beauty Under Capitalism">
   <meta property="og:type" content="website">
   <meta property="og:title" content="{{ site.tagline }}">
@@ -22,10 +22,10 @@
   <meta property="og:description" content="{{ site.description }}">
     <meta name="twitter:card" content="summary_large_image">
 
-  <link rel="stylesheet" href="{{ site.url }}/assets/style.css?{{ site.time | date: '%s'}}">
+  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/style.css?{{ site.time | date: '%s'}}">
   <link rel="stylesheet" href="https://use.typekit.net/zbx2ddc.css">
 
-  <script src="{{ site.url }}/assets/script.js"></script>
+  <script src="{{ site.url }}{{ site.baseurl }}/assets/script.js"></script>
 </head>
 
 <body id="💄" class="{{ page.title | slugify}} js-hidden">
