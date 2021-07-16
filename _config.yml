@@ -3,8 +3,8 @@ title: Beauty Under Capitalism
 email: hi@beautyundercapitalism.com
 tagline: "Vote with your wallet ✌🏿✌🏾✌🏽✌🏼✌🏻"
 description: Database of beauty brands founded/owned by Women of Color.
-baseurl: ""
-url: "https://skullface.dev/beauty-under-capitalism"
+baseurl: "/beauty-under-capitalism"
+url: "https://skullface.dev"
 encoding: utf-8
 lang: en
 future: true
